@@ -1,9 +1,15 @@
 {
   "name": "REACH",
-  "promotion": {
+  "promotions": [
+    {
     "name": "REACH Non Coe Promotions Brochure.pdf",
     "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/REACH-Non-CoE_promotions_flyer_Vol_1.1.pdf"
-  },
+    },
+    {
+    "name": "REACH Onshore CoE Promotions.pdf",
+    "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/REACH-Onshore_CoE_Promotions.pdf"
+    }
+  ],
   "schools":[
     {
       "name": "REACH COMMUNITY COLLEGE",
