@@ -16,6 +16,7 @@
       "courses": [
         {
           "vetCode": "AUR50116",
+          "cricosCode": "105384F",
           "department": "Single Courses",
           "name": "Diploma of Automotive Management",
           "duration": 52,
@@ -28,6 +29,7 @@
         },
         {
           "vetCode": "SIT30816",
+          "cricosCode": "105395C",
           "department": "Single Courses",
           "name": "Certificate III in Commercial Cookery",
           "duration": 52,
@@ -40,6 +42,7 @@
         },
         {
           "vetCode": "SIT40516",
+          "cricosCode": "105422E",
           "department": "Single Courses",
           "name": "Certificate IV in Commercial Cookery",
           "duration": 104,
@@ -52,6 +55,7 @@
         },
         {
           "vetCode": "SIT50416",
+          "cricosCode": "105423D",
           "department": "Single Courses",
           "name": "Diploma of Hospitality Management",
           "duration": 52,
@@ -64,6 +68,7 @@
         },
         {
           "vetCode": "BSB50820",
+          "cricosCode": "105425B",
           "department": "Single Courses",
           "name": "Diploma of Project Management",
           "duration": 52,
@@ -76,6 +81,7 @@
         },
         {
           "vetCode": "BSB60420",
+          "cricosCode": "105426A",
           "department": "Single Courses",
           "name": "Advanced Diploma of Leadership and Management",
           "duration": 52,
@@ -88,6 +94,7 @@
         },
         {
           "vetCode": "ICT40120",
+          "cricosCode": "105387C",
           "department": "Single Courses",
           "name": "Certificate IV in Information Technology",
           "duration": 52,
@@ -100,6 +107,7 @@
         },
         {
           "vetCode": "ICT50220",
+          "cricosCode": "105388B",
           "department": "Single Courses",
           "name": "Diploma of Information Technology",
           "duration": 52,
@@ -112,6 +120,7 @@
         },
         {
           "vetCode": "BSB60120",
+          "cricosCode": "105391G",
           "department": "Single Courses",
           "name": "Advanced Diploma of Business",
           "duration": 52,
@@ -124,6 +133,7 @@
         },
         {
           "vetCode": "BSB80120",
+          "cricosCode": "105392F",
           "department": "Single Courses",
           "name": "Graduate Diploma of Management (Learning)",
           "duration": 52,
@@ -136,6 +146,7 @@
         },
         {
           "vetCode": "AUR30620/AUR40216/AUR50116",
+          "cricosCode": "105382H/105383G/105384F",
           "department": "Packages",
           "name": "Certificate III in Light Vehicle Mechanical Technology +\nCertificate IV in Automotive Mechanical Diagnosis + \nDiploma of Automotive Management",
           "duration": 104,
@@ -148,6 +159,7 @@
         },
         {
           "vetCode": "AUR30320/AUR40620/AUR50116",
+          "cricosCode": "105385E/105386D/105384F",
           "department": "Packages",
           "name": "Certificate III in Automotive Electrical Technology +\nCertificate IV in Automotive Electrical Technology +\nDiploma of Automotive Management",
           "duration": 104,
@@ -160,6 +172,7 @@
         },
         {
           "vetCode": "SIT30816/SIT40516/SIT50416",
+          "cricosCode": "105395C/105422E/105423D",
           "department": "Packages",
           "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery + Diploma of Hospitality Management",
           "duration": 104,
@@ -172,6 +185,7 @@
         },
         {
           "vetCode": "SIT40516/SIT60316",
+          "cricosCode": "105422E/105424C",
           "department": "Packages",
           "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
           "duration": 104,
@@ -184,6 +198,7 @@
         },
         {
           "vetCode": "SIT50416/SIT60316",
+          "cricosCode": "105423D/105424C",
           "department": "Packages",
           "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
           "duration": 104,
@@ -196,6 +211,7 @@
         },
         {
           "vetCode": "BSB50820/BSB60420",
+          "cricosCode": "105425B/105426A",
           "department": "Packages",
           "name": "Diploma of Project Management +\nAdvanced Diploma of Leadership and Management",
           "duration": 104,
@@ -208,6 +224,7 @@
         },
         {
           "vetCode": "ICT40120/ICT50220",
+          "cricosCode": "105387C/105388B",
           "department": "Packages",
           "name": "Certificate IV in Information Technology + Diploma of Information Technology",
           "duration": 104,
@@ -220,6 +237,7 @@
         },
         {
           "vetCode": "ICT50220/ICT60220",
+          "cricosCode": "105388B/105389A",
           "department": "Packages",
           "name": "Diploma of Information Technology +\nAdvanced Diploma of Information Technology",
           "duration": 104,
@@ -232,6 +250,7 @@
         },
         {
           "vetCode": "",
+          "cricosCode": "",
           "department": "English",
           "name": "General English (Beginner to Upper Intermediate) - ELICOS only",
           "duration": 0,
@@ -244,6 +263,7 @@
         },
         {
           "vetCode": "",
+          "cricosCode": "",
           "department": "English",
           "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
           "duration": 0,
