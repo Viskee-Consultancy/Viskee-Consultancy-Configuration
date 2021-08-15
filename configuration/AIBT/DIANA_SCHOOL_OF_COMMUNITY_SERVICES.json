@@ -1,0 +1,191 @@
+{
+    "courses": [
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "department": "Ageing Support",
+            "name": "Certificate III in Individual Support (Ageing)",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break(Placement will only commence after the 35th week)",
+            "offshoreTuition": "10,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "department": "Ageing Support",
+            "name": "Certificate III in Individual Support (Disability)",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break(Placement will only commence after the 35th week)",
+            "offshoreTuition": "10,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "department": "Ageing Support",
+            "name": "Certificate III in Individual Support (Home and Community)",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break(Placement will only commence after the 35th week)",
+            "offshoreTuition": "10,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "department": "Ageing Support",
+            "name": "Certificate III in Individual Support (Ageing, Disability)",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break (Placement will only commence  after the 35th week)",
+            "offshoreTuition": "10,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "department": "Ageing Support",
+            "name": "Certificate III in Individual Support (Ageing, Home and Community)",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break(Placement will only commence  after the 35th week)",
+            "offshoreTuition": "10,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC43015",
+            "cricosCode": "090852K",
+            "department": "Ageing Support",
+            "name": "Certificate IV in Ageing Support",
+            "duration": "35",
+            "durationDetail": "31 wks Tuition + 4 wks Break",
+            "offshoreTuition": "8,500",
+            "onshoreTuition": "6,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC52015",
+            "cricosCode": "093815B",
+            "department": "Community Services",
+            "name": "Diploma of Community Services",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "offshoreTuition": "13,000",
+            "onshoreTuition": "11,000",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC30113",
+            "cricosCode": "093818K",
+            "department": "Early Childhood",
+            "name": "Certificate III in Early Childhood Education and Care",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "offshoreTuition": "11,000",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC50113",
+            "cricosCode": "093819J",
+            "department": "Early Childhood",
+            "name": "Diploma of Early Childhood Education and Care",
+            "duration": "52",
+            "durationDetail": "49 wks Tuition + 3 wks Break",
+            "offshoreTuition": "13,000",
+            "onshoreTuition": "9,000",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "HLT42015",
+            "cricosCode": "093817M",
+            "department": "Massage",
+            "name": "Certificate IV in Massage Therapy",
+            "duration": "52",
+            "durationDetail": "40 wks Tuition + 12 wks Break",
+            "offshoreTuition": "10,500",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS (Currently not accepting enrolments)"
+        },
+        {
+            "vetCode": "HLT52015",
+            "cricosCode": "093816A",
+            "department": "Massage",
+            "name": "Diploma of Remedial Massage",
+            "duration": "52",
+            "durationDetail": "40 wks Tuition + 12 wks Break",
+            "offshoreTuition": "11,300",
+            "onshoreTuition": "8,500",
+            "location": "NSW/QLD/TAS (Currently not accepting enrolments)"
+        },
+        {
+            "vetCode": "CHC33015 / CHC43015",
+            "cricosCode": "090851M/090852K",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support",
+            "duration": "60",
+            "durationDetail": "54 wks Tuition + 6 wks Break",
+            "offshoreTuition": "14,000",
+            "onshoreTuition": "11,500",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015 / CHC52015",
+            "cricosCode": "090851M/093815B",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Ageing, Disability) + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "offshoreTuition": "21,300",
+            "onshoreTuition": "16,800",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015 / CHC52015",
+            "cricosCode": "090851M/093815B",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Ageing, Home and Community) + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "offshoreTuition": "21,300",
+            "onshoreTuition": "16,800",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC33015 / CHC43015 / CHC52015",
+            "cricosCode": "090851M/090852K/093815B",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "offshoreTuition": "21,800",
+            "onshoreTuition": "16,800",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "CHC30113 / CHC50113",
+            "cricosCode": "093818K/093819J",
+            "department": "Packages",
+            "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "offshoreTuition": "21,300",
+            "onshoreTuition": "16,800",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "HLT42015 / HLT52015",
+            "cricosCode": "093817M/093816A",
+            "department": "Packages",
+            "name": "Certificate IV in Massage Therapy + Diploma of Remedial Massage",
+            "duration": "92",
+            "durationDetail": "76 wks Tuition + 16 wks Break",
+            "offshoreTuition": "18,800",
+            "onshoreTuition": "14,800",
+            "location": "NSW/QLD/TAS (Currently not accepting enrolments)"
+        }
+    ]
+}
