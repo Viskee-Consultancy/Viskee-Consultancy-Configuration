@@ -1,0 +1,24 @@
+{
+  "promotions": [
+      {
+          "name": "Q2 Promotions Brochure.pdf",
+          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/Q2_Promotions_Brochure_1APR-30JUN21_MAR21_APR_01.pdf"
+      },
+      {
+          "name": "Courses Fees MARCH 2021 VOL3.pdf",
+          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/Courses_Fees-MAR21_03.pdf"
+      },
+      {
+          "name": "New SISMIC Region H1 VOL3.pdf",
+          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/New_SISMIC_Region_H1_vol3.pdf"
+      },
+      {
+          "name": "Non CoE Promotions Brochure 1APR2021-3OJUN2021 VOL1.pdf",
+          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/Non-CoE_Promotions_Brochure_1APR2021-3OJUN2021_VOL1.pdf"
+      },
+      {
+          "name": "SEAPAE Course Information Brochure Region 2 H1 MAR VOL2.pdf",
+          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/promotion/SEAPAE_Course_Information_Brochure_Region_2_H1_MAR_VOL2.pdf"
+      }
+  ]
+}
