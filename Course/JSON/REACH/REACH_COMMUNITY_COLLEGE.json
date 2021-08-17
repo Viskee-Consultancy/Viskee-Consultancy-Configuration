@@ -182,6 +182,7 @@
         },
         {
             "name": "General English (Elementary to Advanced) - ELICOS only ",
+            "cricosCode": "105608F",
             "department": "English",
             "duration": "0",
             "durationDetail": "(Minimum of 10 )",
