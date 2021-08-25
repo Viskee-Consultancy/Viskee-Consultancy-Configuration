@@ -7,8 +7,8 @@
             "department": "Single Courses",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "onshoreTuition": "9,500",
-            "offshoreTuition": "9,500",
+            "onshoreTuition": "9,000",
+            "offshoreTuition": "9,000",
             "location": "TAS"
         },
         {
@@ -19,6 +19,7 @@
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
             "onshoreTuition": "8,500",
+            "offshoreTuition": "8,500",
             "location": "TAS"
         },
         {
@@ -29,6 +30,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "16,000",
+            "offshoreTuition": "16,000",
             "location": "TAS"
         },
         {
@@ -39,6 +41,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break(3 days p/week)",
             "onshoreTuition": "6,500",
+            "offshoreTuition": "6,500",
             "location": "TAS"
         },
         {
@@ -49,6 +52,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "6,500",
+            "offshoreTuition": "6,500",
             "location": "TAS"
         },
         {
@@ -59,6 +63,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "6,500",
+            "offshoreTuition": "6,500",
             "location": "TAS"
         },
         {
@@ -69,6 +74,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "7,000",
+            "offshoreTuition": "7,000",
             "location": "TAS"
         },
         {
@@ -79,6 +85,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "8,500",
+            "offshoreTuition": "8,500",
             "location": "TAS"
         },
         {
@@ -89,6 +96,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "6,500",
+            "offshoreTuition": "6,500",
             "location": "TAS"
         },
         {
@@ -99,6 +107,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "onshoreTuition": "9,000",
+            "offshoreTuition": "9,000",
             "location": "TAS"
         },
         {
@@ -109,6 +118,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "19,000",
+            "offshoreTuition": "19,000",
             "location": "TAS"
         },
         {
@@ -119,6 +129,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "20,000",
+            "offshoreTuition": "20,000",
             "location": "TAS"
         },
         {
@@ -129,6 +140,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "16,000",
+            "offshoreTuition": "16,000",
             "location": "TAS"
         },
         {
@@ -139,6 +151,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "16,000",
+            "offshoreTuition": "16,000",
             "location": "TAS"
         },
         {
@@ -149,6 +162,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "14,000",
+            "offshoreTuition": "14,000",
             "location": "TAS"
         },
         {
@@ -159,6 +173,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "13,000",
+            "offshoreTuition": "13,000",
             "location": "TAS"
         },
         {
@@ -169,6 +184,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "14,000",
+            "offshoreTuition": "14,000",
             "location": "TAS"
         },
         {
@@ -179,6 +195,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "onshoreTuition": "15,000",
+            "offshoreTuition": "15,000",
             "location": "TAS"
         },
         {
@@ -188,6 +205,7 @@
             "duration": "0",
             "durationDetail": "(Minimum of 10 )",
             "onshoreTuition": "185/week\r\n1,850 total",
+            "offshoreTuition": "185/week\r\n1,850 total",
             "location": "TAS"
         },
         {
@@ -196,6 +214,7 @@
             "duration": "0",
             "durationDetail": "(Minimum of 10 )\r\nStudents will receive the\r\nfirst 10  of ELICOS\r\nFREE. If the duration\r\nof ELICOS within the\r\npackage is greater than\r\n10 , the remaining\r\nduration of ELICOS will be\r\n$185 per week",
             "onshoreTuition": "Free (if ELICOS duration is greater than 10 , the remaining duration of ELICOS will be 185/week)",
+            "offshoreTuition": "Free (if ELICOS duration is greater than 10 , the remaining duration of ELICOS will be 185/week)",
             "location": "TAS"
         }
     ]
