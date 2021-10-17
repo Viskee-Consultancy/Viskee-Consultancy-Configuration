@@ -1,0 +1,17 @@
+{
+    "courses": [
+        {
+            "vetCode": "AUR30620",
+            "cricosCode": "103638E",
+            "department": "Automotive",
+            "name": "Certificate III in Light Vehicle Mechanical Technology (Fast track intensive course)\r\n(This qualification will only fulfil the academic requirements, not a licensed trade qualification.)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break (up to 3 days p/week)",
+            "tuition": "8,200",
+            "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "9,250",
+            "tuitionHalfDetail": "9,000 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        }
+    ]
+}

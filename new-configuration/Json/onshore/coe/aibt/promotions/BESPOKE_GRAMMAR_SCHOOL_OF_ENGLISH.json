@@ -1,0 +1,17 @@
+{
+  "courses": [
+      {
+          "department": "English",
+          "name": "General English (Beginner to Upper Intermediate) - ELICOS only ",
+          "durationDetail": "(Minimum of 10 Weeks)",
+          "onshoreTuition": "185/week\r\n1,850 total",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
+          "durationDetail": "(Minimum of 10 Weeks)\r\nStudents will receive the\r\nfirst 10 weeks of ELICOS\r\nFREE. If the duration\r\nof ELICOS within the\r\npackage is greater than\r\n10 weeks, the remaining\r\nduration of ELICOS will be\r\n$185 per week",
+          "onshoreTuition": "Free (if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week)",
+          "location": "NSW/QLD/TAS"
+      }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "courses": [
+      {
+          "vetCode": "FNS40217",
+          "cricosCode": "104695K",
+          "department": "Accounting",
+          "name": "Certificate IV in Accounting and Bookkeeping",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "FNS50217",
+          "cricosCode": "104696J",
+          "department": "Accounting",
+          "name": "Diploma of Accounting",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "FNS60217",
+          "cricosCode": "104697H",
+          "department": "Accounting",
+          "name": "Advanced Diploma of Accounting",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB40920",
+          "cricosCode": "103930A",
+          "department": "Management",
+          "name": "Certificate IV in Project Management Practice",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB50420",
+          "cricosCode": "104262B",
+          "department": "Management",
+          "name": "Diploma of Leadership and Management",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB50820",
+          "cricosCode": "104063J",
+          "department": "Management",
+          "name": "Diploma of Project Management",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB60720",
+          "cricosCode": "104452G",
+          "department": "Management",
+          "name": "Advanced Diploma of Program Management",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "* BSB52415",
+          "cricosCode": "095242G",
+          "department": "Marketing",
+          "name": "Diploma of Marketing and Communication",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "* BSB61315",
+          "cricosCode": "095243F/095332E",
+          "department": "Marketing",
+          "name": "Advanced Diploma of Marketing and Communication",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "TLI50219",
+          "cricosCode": "102526K",
+          "department": "Logistics",
+          "name": "Diploma of Logistics",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "TLI60119",
+          "cricosCode": "102524A",
+          "department": "Logistics",
+          "name": "Advanced Diploma of Deployment Logistics",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "8,000",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB80320",
+          "cricosCode": "104489E",
+          "department": "Graduate Studies",
+          "name": "Graduate Diploma of Strategic Leadership",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break",
+          "tuition": "12,500",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "ICT40120",
+          "cricosCode": "104691C",
+          "department": "Information Technology",
+          "name": "Certificate IV in Information Technology",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,000",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "BSB50820/ BSB60720",
+          "cricosCode": "104063J/104452G",
+          "department": "Packages",
+          "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+          "duration": "104",
+          "durationDetail": "80 wks Tuition + 24 wks Break",
+          "tuition": "14,800",
+          "location": "NSW/QLD/TAS"
+      },
+      {
+          "vetCode": "TLI50219/ TLI60119",
+          "cricosCode": "102526K/102524A",
+          "department": "Packages",
+          "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
+          "duration": "92",
+          "durationDetail": "76 wks Tuition + 16 wks Break",
+          "tuition": "16,000",
+          "location": "NSW/QLD/TAS",
+          "locationDetail": "Only accepting in Hobart"
+      }
+  ]
+}

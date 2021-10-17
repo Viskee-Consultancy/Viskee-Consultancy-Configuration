@@ -1,0 +1,12 @@
+{
+  "courses": [
+      {
+          "cricosCode": "089486D",
+          "department": "English",
+          "name": "General English (Beginner to Upper Intermediate)",
+          "durationDetail": "Per Week",
+          "tuition": "200/week",
+          "location": "NSW/QLD/TAS"
+      }
+  ]
+}

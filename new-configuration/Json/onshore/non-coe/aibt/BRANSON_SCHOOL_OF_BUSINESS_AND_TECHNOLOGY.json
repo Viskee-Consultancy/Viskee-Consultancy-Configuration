@@ -1,0 +1,43 @@
+{
+    "courses": [
+        {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "Management",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "40 wks Tuition + 12 wks Break",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5,800",
+            "tuitionHalfDetail": "5550 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "TAS"
+        },
+        {
+            "vetCode": "TLI50219",
+            "cricosCode": "102526K",
+            "department": "Logistics",
+            "name": "Diploma of Logistics",
+            "duration": "52",
+            "durationDetail": "40 wks Tuition + 12 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "TLI60119",
+            "cricosCode": "102524A",
+            "department": "Logistics",
+            "name": "Advanced Diploma of Deployment Logistics",
+            "duration": "52",
+            "durationDetail": "40 wks Tuition + 12 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        }
+    ]
+}

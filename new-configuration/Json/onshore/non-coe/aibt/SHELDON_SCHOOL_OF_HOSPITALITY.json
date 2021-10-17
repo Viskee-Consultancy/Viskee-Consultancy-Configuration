@@ -1,0 +1,108 @@
+{
+    "courses": [
+        {
+            "vetCode": "SIT50416",
+            "cricosCode": "091074F",
+            "department": "Hospitality",
+            "name": "Diploma of Hospitality Management",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "TAS"
+        },
+        {
+            "vetCode": "SIT30816",
+            "cricosCode": "093480J",
+            "department": "Cookery",
+            "name": "Certificate III in Commercial Cookery",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "SIT40516",
+            "cricosCode": "095244E",
+            "department": "Cookery",
+            "name": "Certificate IV in Commercial Cookery (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break (up to 3 days p/week)",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "SIT31016",
+            "cricosCode": "093481G",
+            "department": "Patisserie and Baking",
+            "name": "Certificate III in Patisserie",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "SIT40716",
+            "cricosCode": "093479B",
+            "department": "Patisserie and Baking",
+            "name": "Certificate IV in Patisserie (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break (up to 3 days p/week)",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "FBP40217",
+            "cricosCode": " 106672A",
+            "department": "Patisserie and Baking",
+            "name": "Certificate IV in Baking",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "SIT50116",
+            "cricosCode": "095245D",
+            "department": "Travel Tourism",
+            "name": "Diploma of Travel and Tourism Management",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5,800",
+            "tuitionHalfDetail": "5,550 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "SIT60116",
+            "cricosCode": "095246C",
+            "department": "Travel Tourism",
+            "name": "Advanced Diploma of Travel and Tourism Management\r\n(Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5,800",
+            "tuitionHalfDetail": "5,550 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "QLD/TAS"
+        }
+    ]
+}
