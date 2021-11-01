@@ -3,7 +3,7 @@
         {
             "vetCode": "AUR50116",
             "cricosCode": "105384F",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Diploma of Automotive Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -15,7 +15,7 @@
         {
             "vetCode": "AUR30320",
             "cricosCode": "105385E",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Certificate III in Automotive Electrical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -27,7 +27,7 @@
         {
             "vetCode": "AUR30620",
             "cricosCode": "105382H",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Certificate III in Light Vehicle Mechanical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -39,7 +39,7 @@
         {
             "vetCode": "AUR31120 ",
             "cricosCode": "105381J",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Heavy Commercial Vehicle Mechanical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -51,7 +51,7 @@
         {
             "vetCode": "AUR40620",
             "cricosCode": "105386D",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Certificate IV in Automotive Electrical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -63,7 +63,7 @@
         {
             "vetCode": "AUR40216",
             "cricosCode": "105383G",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Automotive",
             "name": "Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -75,7 +75,7 @@
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
             "cricosCode": "105382H/105383G/105384F",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Packages",
             "name": "Certificate III in Light Vehicle Mechanical Technology +\r\nCertificate IV in Automotive Mechanical Diagnosis + \r\nDiploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -88,7 +88,7 @@
         {
             "vetCode": "AUR30320/AUR40620/AUR50116",
             "cricosCode": "105385E/105386D/105384F",
-            "department": "FACULTY OF TECH SCIENCES",
+            "department": "Packages",
             "name": "Certificate III in Automotive Electrical Technology +\r\nCertificate IV in Automotive Electrical Technology +\r\nDiploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
