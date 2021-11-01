@@ -3,7 +3,7 @@
         {
             "vetCode": "SIT30816/\r\nSIT50416",
             "cricosCode": "093480J/091074F",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
@@ -16,7 +16,7 @@
         {
             "vetCode": "SIT40516/\r\nSIT60316",
             "cricosCode": "095244E/091132A",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Packages",
             "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
@@ -29,7 +29,7 @@
         {
             "vetCode": "SIT50416/\r\nSIT60316",
             "cricosCode": "091074F/091132A",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
@@ -42,7 +42,7 @@
         {
             "vetCode": "SIT50116/\r\nSIT60116",
             "cricosCode": "095245D/095246C",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Packages",
             "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -55,7 +55,7 @@
         {
             "vetCode": "SIT60316",
             "cricosCode": "091132A",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Advanced Diploma Of Hospitality Management (Commercial Cookery and Catering) OR (Patisserie)",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",

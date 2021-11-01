@@ -3,7 +3,7 @@
         {
             "vetCode": "SIT30816",
             "cricosCode": "093480J",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Cookery",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -18,7 +18,7 @@
         {
             "vetCode": "SIT40516",
             "cricosCode": "095244E",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Cookery",
             "name": "Certificate IV in Commercial Cookery (Fast track intensive course)",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -33,7 +33,7 @@
         {
             "vetCode": "SIT31016",
             "cricosCode": "093481G",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Patisserie and Baking",
             "name": "Certificate III in Patisserie",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -48,7 +48,7 @@
         {
             "vetCode": "SIT40716",
             "cricosCode": "093479B",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Patisserie and Baking",
             "name": "Certificate IV in Patisserie (Fast track intensive course)",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -63,7 +63,7 @@
         {
             "vetCode": "FBP40217",
             "cricosCode": "106672A",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Patisserie and Baking",
             "name": "Certificate IV in Baking",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -78,7 +78,7 @@
         {
             "vetCode": "SIT50416",
             "cricosCode": "091074F",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Diploma of Hospitality Management(Fast track intensive course)",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -93,7 +93,7 @@
         {
             "vetCode": "SIT50116",
             "cricosCode": "095245D",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Travel and Tourism",
             "name": "Diploma of Travel and Tourism Management",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -108,7 +108,7 @@
         {
             "vetCode": "SIT60116",
             "cricosCode": "095246C",
-            "department": "SHELDON SCHOOL OF HOSPITALITY",
+            "department": "Travel and Tourism",
             "name": "Advanced Diploma of Travel and Tourism Management\r\n(Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management)",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
