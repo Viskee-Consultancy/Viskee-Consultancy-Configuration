@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": "FNS40217/\r\nFNS50217/\r\nFNS60217  ",
+            "vetCode": "FNS40217/ FNS50217/ FNS60217  ",
             "cricosCode": "104695K/104696J/104697H",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
@@ -14,7 +14,7 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "BSB50820/\r\nBSB60720",
+            "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
             "department": "Packages",
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
@@ -53,7 +53,7 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "BSB50420/\r\nBSB80120",
+            "vetCode": "BSB50420/ BSB80120",
             "cricosCode": "104262B/107120C",
             "department": "Packages",
             "name": "Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
@@ -79,7 +79,7 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "BSB50420/\r\nBSB80320",
+            "vetCode": "BSB50420/ BSB80320",
             "cricosCode": "104262B/104489E",
             "department": "Packages",
             "name": "Diploma of Leadership and Management (Learning) + Graduate Diploma of Strategic Leadership",
@@ -92,7 +92,7 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "BSB50820/\r\nBSB80120",
+            "vetCode": "BSB50820/ BSB80120",
             "cricosCode": "104063J/107120C",
             "department": "Packages",
             "name": "Diploma of Project Management + Graduate Diploma of Management (Learning)",
