@@ -142,7 +142,8 @@
             "durationDetail": "40 wks Tuition + 12 wks Break",
             "tuition": "10,500",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently not accepting enrolments)",
+            "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "placementDuration": "80",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
@@ -156,7 +157,8 @@
             "durationDetail": "40 wks Tuition + 12 wks Break",
             "tuition": "11,300",
             "tuitionDetail": "11,300 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently not accepting enrolments)",
+            "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "placementDuration": "200",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
@@ -270,7 +272,8 @@
             "durationDetail": "76 wks Tuition + 16 wks Break",
             "tuition": "18,800",
             "tuitionDetail": "18,800 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently not accepting enrolments)",
+            "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "placementDuration": "200",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until  31th Dec 2021"

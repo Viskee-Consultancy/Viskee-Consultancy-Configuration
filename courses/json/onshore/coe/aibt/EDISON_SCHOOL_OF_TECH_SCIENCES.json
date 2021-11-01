@@ -9,7 +9,8 @@
             "durationDetail": "22 wks Tuition + 4 wks Break",
             "tuition": "4,000",
             "tuitionDetail": "4,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (Currently not accepting enrolments)",
+            "location": "NSW/QLD",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
@@ -22,7 +23,8 @@
             "durationDetail": "66 wks Tuition + 12 wks Break",
             "tuition": "19,500",
             "tuitionDetail": "19,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (Currently not accepting enrolments)",
+            "location": "NSW/QLD",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
@@ -35,7 +37,8 @@
             "durationDetail": "93 wks Tuition + 24 wks Break",
             "tuition": "29,250",
             "tuitionDetail": "29,250 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (Currently not accepting enrolments)",
+            "location": "NSW/QLD",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
@@ -100,7 +103,8 @@
             "durationDetail": "66 wks Tuition + 12 wks Break",
             "tuition": "16,000",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (Currently not accepting enrolments)",
+            "location": "NSW/QLD",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
