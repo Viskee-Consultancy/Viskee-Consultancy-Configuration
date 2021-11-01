@@ -2,7 +2,7 @@
     "courses": [
         {
             "cricosCode": "089486D",
-            "department": "BESPOKE GRAMMAR SCHOOL OF ENGLISH",
+            "department": "ENGLISH",
             "name": "General English (Beginner to Upper Intermediate) - ELICOS only ",
             "durationMin": "10 weeks",
             "tuition": "185/week\r\n1,850 total",
@@ -13,7 +13,7 @@
         },
         {
             "cricosCode": "089486D",
-            "department": "BESPOKE GRAMMAR SCHOOL OF ENGLISH",
+            "department": "ENGLISH",
             "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
             "duration": "First 10 weeks",
             "tuition": "Free",
