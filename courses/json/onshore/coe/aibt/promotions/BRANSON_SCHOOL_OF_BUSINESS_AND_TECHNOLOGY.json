@@ -3,7 +3,7 @@
         {
             "vetCode": "BSB50820",
             "cricosCode": "104063J",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Management",
             "name": "Diploma of Project Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -15,7 +15,7 @@
         {
             "vetCode": "BSB60720",
             "cricosCode": "104452G",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Management",
             "name": "Advanced Diploma of Program Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -27,7 +27,7 @@
         {
             "vetCode": "TLI50219",
             "cricosCode": "102526K",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Logistics",
             "name": "Diploma of Logistics",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -39,7 +39,7 @@
         {
             "vetCode": "TLI60119",
             "cricosCode": "102524A",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Logistics",
             "name": "Advanced Diploma of Deployment Logistics",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -51,7 +51,7 @@
         {
             "vetCode": "BSB50420",
             "cricosCode": "104262B",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Management",
             "name": "Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -63,7 +63,7 @@
         {
             "vetCode": "BSB60420",
             "cricosCode": "107118H",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Management",
             "name": "Advanced Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -75,7 +75,7 @@
         {
             "vetCode": "ICT50220",
             "cricosCode": "107121B",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Information Technology",
             "name": "Diploma of Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -87,7 +87,7 @@
         {
             "vetCode": "ICT60220",
             "cricosCode": "107122A",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Information Technology",
             "name": "Advanced Diploma of Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -99,7 +99,7 @@
         {
             "vetCode": "BSB80120",
             "cricosCode": "107120C",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Graduate Studies",
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -111,7 +111,7 @@
         {
             "vetCode": "BSB80320",
             "cricosCode": "104489E",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Graduate Studies",
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -123,7 +123,7 @@
         {
             "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -135,7 +135,7 @@
         {
             "vetCode": "BSB50420/BSB60420",
             "cricosCode": "104262B/107118H",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -147,7 +147,7 @@
         {
             "vetCode": "ICT50220/ICT60220",
             "cricosCode": "107121B/107122A",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -159,7 +159,7 @@
         {
             "vetCode": "TLI50219/ TLI60119",
             "cricosCode": "102526K/102524A",
-            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
