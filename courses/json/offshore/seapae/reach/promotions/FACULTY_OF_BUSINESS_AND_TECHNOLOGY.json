@@ -3,7 +3,7 @@
         {
             "vetCode": "BSB50820",
             "cricosCode": "105425B",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Business",
             "name": "Diploma of Project Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -15,7 +15,7 @@
         {
             "vetCode": "BSB60420",
             "cricosCode": "105426A",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Business",
             "name": "Advanced Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -27,7 +27,7 @@
         {
             "vetCode": "BSB60120",
             "cricosCode": "105391G",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Business",
             "name": "Advanced Diploma of Business",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -39,7 +39,7 @@
         {
             "vetCode": "BSB80120",
             "cricosCode": "105392F",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Business",
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -51,7 +51,7 @@
         {
             "vetCode": "ICT40120",
             "cricosCode": "105387C",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Information Technology",
             "name": "Certificate IV in Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -63,7 +63,7 @@
         {
             "vetCode": "ICT50220",
             "cricosCode": "105388B",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Information Technology",
             "name": "Diploma of Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -75,7 +75,7 @@
         {
             "vetCode": "ICT60220",
             "cricosCode": "105389A",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Information Technology",
             "name": "Advanced Diploma of Information Technology ",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -87,7 +87,7 @@
         {
             "vetCode": "RII50520",
             "cricosCode": "106654C",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Building and Construction",
             "name": "Diploma of Civil Construction Design",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -99,7 +99,7 @@
         {
             "vetCode": "BSB50820/BSB60720",
             "cricosCode": "105425B/106649M",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -111,7 +111,7 @@
         {
             "vetCode": "FNS50217/FNS60217",
             "cricosCode": "105606H/105607G",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -123,7 +123,7 @@
         {
             "vetCode": "BSB80120",
             "cricosCode": "105392F",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "ANY DIPLOMA OR ADVANCED DIPLOMA + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -135,7 +135,7 @@
         {
             "vetCode": "RII50520/RII60520",
             "cricosCode": "106654C/106655B",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Civil Construction Design + Advanced Diploma of Civil Construction Design",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -148,7 +148,7 @@
         {
             "vetCode": "ICT40120/ICT50220",
             "cricosCode": "105387C/105388B",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Certificate IV in Information Technology + Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -160,7 +160,7 @@
         {
             "vetCode": "ICT50220/ICT60220",
             "cricosCode": "105388B/105389A",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Information Technology +\r\nAdvanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
