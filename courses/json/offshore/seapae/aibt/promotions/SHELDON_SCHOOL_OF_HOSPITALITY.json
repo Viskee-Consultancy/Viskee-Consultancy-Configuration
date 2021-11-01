@@ -1,165 +1,30 @@
 {
     "courses": [
         {
-            "vetCode": "SIT50416",
-            "cricosCode": "091074F",
-            "department": "Hospitality",
-            "name": "Diploma of Hospitality Management",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "7000(TAS);4800(NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT60316",
-            "cricosCode": "091132A/095335B",
-            "department": "Hospitality",
-            "name": "Advanced Diploma of Hospitality Management",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "4,800",
-            "location": "NSW/QLD"
-        },
-        {
-            "vetCode": "SIT30816",
-            "cricosCode": "093480J",
-            "department": "Commercial Cookery",
-            "name": "Certificate III in Commercial Cookery",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "8,500",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT40516",
-            "cricosCode": "095244E",
-            "department": "Commercial Cookery",
-            "name": "Certificate IV in Commercial Cookery",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "9,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT31016",
-            "cricosCode": "093481G",
-            "department": "Commercial Cookery",
-            "name": "Certificate III in Patisserie",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "8,500",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT40716",
-            "cricosCode": "093479B",
-            "department": "Commercial Cookery",
-            "name": "Certificate IV in Patisserie",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "9,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT50116",
-            "cricosCode": "095245D",
-            "department": "Travel Tourism",
-            "name": "Diploma of Travel and Tourism Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT60116",
-            "cricosCode": "095246C",
-            "department": "Travel Tourism",
-            "name": "Advanced Diploma of Travel and Tourism Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6,000",
-            "location": "QLD/TAS"
-        },
-        {
-            "vetCode": "SIT30816/ SIT40516/\r\nSIT50416",
-            "department": "Packages",
-            "name": "Certificate III in Commerical Cookery + Certificate IV in Commerical Cookery + Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "QLD: 14,000\r\nNSW/TAS: 16,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT40516/ SIT60316",
-            "department": "Packages",
-            "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management ",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "QLD: 14,000\r\nNSW/TAS: 16,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT31016/ SIT40716/\r\nSIT50416",
-            "department": "Packages",
-            "name": "Certificate III in Patisserie + Certificate IV in Patisserie + Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "QLD: 14,000\r\nNSW/TAS: 16,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "FBP40217/SIT60316   ",
-            "department": "Packages",
-            "name": "Certificate IV in Baking + Advanced Diploma of Hospitality Management \r\n(Patisserie)",
+            "vetCode": "SIT30816/ SIT40516/SIT50416",
+            "cricosCode": "093480J/095244E/091074F",
+            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery + Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "16,000",
-            "location": "NSW/QLD/TAS"
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available"
         },
         {
-            "vetCode": "SIT40716/ SIT60316",
-            "department": "Packages",
-            "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management (Patisserie)",
+            "vetCode": "SIT40516/ SIT60316",
+            "cricosCode": "095244E/091132A",
+            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "QLD: 14,000\r\nNSW/TAS: 16,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT40416/\r\nSIT50416",
-            "department": "Packages",
-            "name": "Certificate IV in Hospitality + Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "14,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT50416 / SIT60316",
-            "department": "Packages",
-            "name": "Diploma of Hospitality Management  +  Advanced Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "TAS: 14,000\r\nNSW/QLD: 9600",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT50316/ SIT60216",
-            "department": "Packages",
-            "name": "Diploma of Event Management + Advanced Diploma of Event Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13,000",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "SIT50116/ SIT60116",
-            "department": "Packages",
-            "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "12000",
-            "location": "QLD/TAS"
+            "tuition": "16,000",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available"
         }
     ]
 }

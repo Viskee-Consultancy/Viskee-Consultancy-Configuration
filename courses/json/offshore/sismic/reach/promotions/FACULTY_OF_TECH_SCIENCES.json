@@ -1,0 +1,30 @@
+{
+    "courses": [
+        {
+            "vetCode": "AUR30620/ AUR40216/AUR50116",
+            "cricosCode": "105382H/105383G/105384F",
+            "department": "FACULTY OF TECH SCIENCES",
+            "name": "Certificate III in Light Vehicle Mechanical Technology +\r\nCertificate IV in Automotive Mechanical Diagnosis + \r\nDiploma of Automotive Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "25,000",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+        },
+        {
+            "vetCode": "AUR30320/AUR40620/AUR50116",
+            "cricosCode": "105385E/105386D/105384F",
+            "department": "FACULTY OF TECH SCIENCES",
+            "name": "Certificate III in Automotive Electrical Technology +\r\nCertificate IV in Automotive Electrical Technology +\r\nDiploma of Automotive Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "25,000",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+        }
+    ]
+}

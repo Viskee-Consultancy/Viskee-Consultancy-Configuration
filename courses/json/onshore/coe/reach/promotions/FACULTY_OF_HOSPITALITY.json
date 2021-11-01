@@ -1,0 +1,77 @@
+{
+    "courses": [
+        {
+            "vetCode": "SIT30816",
+            "cricosCode": "105395C",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Certificate III in Commercial Cookery",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "8,500",
+            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "SIT40516",
+            "cricosCode": "105422E",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Certificate IV in Commercial Cookery",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,000",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "SIT50416",
+            "cricosCode": "105423D",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Diploma of Hospitality Management\r\n#(Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,500",
+            "tuitionDetail": "7,500 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course."
+        },
+        {
+            "vetCode": "SIT30816/SIT40516/SIT50416",
+            "cricosCode": "105395C/105422E/105423D",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery + Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,000",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "SIT40516/SIT60316",
+            "cricosCode": "105422E/105424C",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,000",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "SIT50416/SIT60316",
+            "cricosCode": "105423D/105424C",
+            "department": "FACULTY OF HOSPITALITY",
+            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "14,000",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        }
+    ]
+}

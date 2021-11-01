@@ -1,0 +1,46 @@
+{
+    "courses": [
+        {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5800\r\n",
+            "tuitionHalfDetail": "5550 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "TLI50219",
+            "cricosCode": "102526K",
+            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "name": "Diploma of Logistics",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7000\r\n",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+        {
+            "vetCode": "TLI60119",
+            "cricosCode": "102524A",
+            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "name": "Advanced Diploma of Deployment Logistics",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7000\r\n",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        }
+    ]
+}

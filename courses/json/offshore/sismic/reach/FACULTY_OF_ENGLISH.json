@@ -1,0 +1,18 @@
+{
+    "courses": [
+        {
+            "vetCode": " ",
+            "cricosCode": "105608F",
+            "department": "FACULTY OF ENGLISH",
+            "name": "General English (Elementary to Advanced)",
+            "durationMin": "10 weeks",
+            "durationMax": "60 weeks",
+            "durationDetail": " ",
+            "tuition": "200/Wk",
+            "tuitionHalf": " ",
+            "tuitionHalfDetail": " ",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        }
+    ]
+}

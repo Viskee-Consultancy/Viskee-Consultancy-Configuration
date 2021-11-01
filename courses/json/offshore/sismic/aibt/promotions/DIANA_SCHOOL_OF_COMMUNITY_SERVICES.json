@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "vetCode": "CHC33015/\r\nCHC43015/\r\nCHC52015",
+            "cricosCode": "090851M/090852K/093815B",
+            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "name": "Certificate III In Individual Support (Ageing) + Certificate IV In Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,000",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "220",
+            "placementFee": "1000",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Monthly Intake Available"
+        }
+    ]
+}

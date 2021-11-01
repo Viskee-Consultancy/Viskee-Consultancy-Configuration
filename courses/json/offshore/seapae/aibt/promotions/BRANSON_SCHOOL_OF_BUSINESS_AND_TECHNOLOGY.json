@@ -1,104 +1,30 @@
 {
     "courses": [
         {
-            "vetCode": "BSB50420",
-            "cricosCode": "104262B",
-            "department": "Management",
-            "name": "Diploma of Leadership and Management",
-            "duration": "52",
-            "durationDetail": "41 wks Tuition + 12 wks Break",
-            "tuition": "6500 (TAS); 4800 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "* BSB61015",
-            "cricosCode": "089799J",
-            "department": "Management",
-            "name": "Advanced Diploma of Leadership and Management",
-            "duration": "52",
-            "durationDetail": "42 wks Tuition + 12 wks Break",
-            "tuition": "6500 (TAS); 4800 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "BSB50820",
-            "cricosCode": "104063J",
-            "department": "Management",
-            "name": "Diploma of Project Management",
-            "duration": "52",
-            "durationDetail": "43 wks Tuition + 12 wks Break",
-            "tuition": "6500 (TAS);4800(NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "BSB60720",
-            "cricosCode": "104452G",
-            "department": "Management",
-            "name": "Advanced Diploma of Program Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 12 wks Break",
-            "tuition": "6500 (TAS);4800(NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "TLI50219",
-            "cricosCode": "102526K",
-            "department": "Logistics",
-            "name": "Diploma of Logistics",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 12 wks Break",
-            "tuition": "8000 (TAS); 7000 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "TLI60119",
-            "cricosCode": "102524A",
-            "department": "Logistics",
-            "name": "Advanced Diploma of Deployment Logistics",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 12 wks Break",
-            "tuition": "8000 (TAS); 7000 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "* BSB80615",
-            "cricosCode": "093486C",
-            "department": "Graduate Studies",
-            "name": "Graduate Diploma of Management (Learning)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 12 wks Break",
-            "tuition": "9000 (TAS); 5800 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "BSB80320",
-            "cricosCode": "104489E",
-            "department": "Graduate Studies",
-            "name": "Graduate Diploma of Strategic Leadership",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 12 wks Break",
-            "tuition": "9000 (TAS); 5800 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
-        },
-        {
             "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
-            "department": "Packages",
+            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
-            "durationDetail": "80 wks Tuition + 24 wks Break",
-            "tuition": "13000 (TAS); 9600 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,000",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "TLI50219/ TLI60119",
-            "cricosCode": "102526K/102524A",
-            "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
+            "vetCode": "ICT50220/ICT60220",
+            "cricosCode": "107121B/107122A",
+            "department": "BRANSON SCHOOL OF BUSINESS AND TECHNOLOGY",
+            "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
             "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "16000 (TAS); 14000 (NSW/QLD)",
-            "location": "NSW/QLD/TAS"
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,000",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Monthly Intake Available"
         }
     ]
 }

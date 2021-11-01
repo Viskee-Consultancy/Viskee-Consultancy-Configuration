@@ -1,0 +1,18 @@
+{
+    "courses": [
+        {
+            "vetCode": " CHC52015",
+            "cricosCode": "106059M",
+            "department": "FACULTY OF EARLY CHILDHOOD & COMMUNITY SERVICES",
+            "name": " Diploma of Community Services",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "12,000",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "placementDuration": "100",
+            "placementFee": "500",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        }
+    ]
+}
