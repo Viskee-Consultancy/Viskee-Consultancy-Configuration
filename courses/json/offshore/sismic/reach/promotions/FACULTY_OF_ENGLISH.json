@@ -3,7 +3,7 @@
         {
             "vetCode": " ",
             "cricosCode": "105608F",
-            "department": "FACULTY OF ENGLISH",
+            "department": "English",
             "name": "General English (Elementary to Advanced)",
             "durationMin": "10 weeks",
             "durationMax": "60 weeks",
@@ -16,7 +16,7 @@
         },
         {
             "cricosCode": "105608F",
-            "department": "FACULTY OF ENGLISH",
+            "department": "English",
             "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
             "duration": "First 10 weeks",
             "tuition": "Free",
