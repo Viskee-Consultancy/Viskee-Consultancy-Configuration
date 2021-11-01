@@ -3,7 +3,7 @@
         {
             "vetCode": "SIT30816",
             "cricosCode": "105395C",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -15,7 +15,7 @@
         {
             "vetCode": "SIT40516",
             "cricosCode": "105422E",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Certificate IV in Commercial Cookery",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -27,7 +27,7 @@
         {
             "vetCode": "SIT50416",
             "cricosCode": "105423D",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -39,7 +39,7 @@
         {
             "vetCode": "SIT60316 ",
             "cricosCode": "105424C",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Hospitality",
             "name": "Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -51,7 +51,7 @@
         {
             "vetCode": "SIT30816/SIT40516/SIT50416",
             "cricosCode": "105395C/105422E/105423D",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery + Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -63,7 +63,7 @@
         {
             "vetCode": "SIT40516/SIT60316",
             "cricosCode": "105422E/105424C",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Packages",
             "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -75,7 +75,7 @@
         {
             "vetCode": "SIT50416/SIT60316",
             "cricosCode": "105423D/105424C",
-            "department": "FACULTY OF HOSPITALITY",
+            "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
