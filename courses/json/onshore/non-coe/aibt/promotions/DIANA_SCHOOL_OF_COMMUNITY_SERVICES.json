@@ -3,7 +3,7 @@
         {
             "vetCode": "*CHC30113",
             "cricosCode": "093818K",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Early Childhood",
             "name": "Certificate III in Early Childhood Education and Care",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
@@ -20,7 +20,7 @@
         {
             "vetCode": "*CHC50113",
             "cricosCode": "093819J",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Early Childhood",
             "name": "Diploma of Early Childhood Education and Care",
             "duration": "52",
             "durationDetail": "49 wks Tuition + 3 wks Break",
@@ -37,7 +37,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break\r\n",
@@ -54,7 +54,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break\r\n",
@@ -71,7 +71,7 @@
         {
             "vetCode": "CHC43015",
             "cricosCode": "090852K",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate IV in Ageing Support\r\n",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break\r\n",
@@ -88,7 +88,7 @@
         {
             "vetCode": "CHC52015",
             "cricosCode": "093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
