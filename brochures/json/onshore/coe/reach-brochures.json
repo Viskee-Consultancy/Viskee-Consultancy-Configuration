@@ -1,8 +1,12 @@
 {
     "brochures": [
         {
-            "name": "REACH Onshore CoE Promotions.pdf",
-            "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/REACH-Onshore_CoE_Promotions.pdf"
+            "name": "REACH Tuition Course Fees 2021.pdf",
+            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach_Tuition_Course_Fees_2021_v1.0.pdf"
+        },
+        {
+            "name": "REACH Q4 Promotions.pdf",
+            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach-NonCoE_CoE-Q4-Promotions-1OCT-31DEC21_Vol-1.0.pdf"
         }
     ]
 }

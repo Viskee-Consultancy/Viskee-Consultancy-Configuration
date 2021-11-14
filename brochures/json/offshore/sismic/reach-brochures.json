@@ -1,5 +1,12 @@
 {
     "brochures": [
-
+        {
+            "name": "REACH Tuition Course Fees 2021.pdf",
+            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/sismic/reach/Reach_Tuition_Course_Fees_2021_v1.0.pdf"
+        },
+        {
+          "name": "REACH SISMIC Q4 Promotion.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/sismic/reach/Reach-Offshore-SISMIC-Q4-Promotions-1OCT-31DEC21_VOL-1.2.pdf"
+      }
     ]
-}
+  }

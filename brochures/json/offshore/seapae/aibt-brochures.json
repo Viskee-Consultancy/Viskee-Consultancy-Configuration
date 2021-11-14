@@ -1,8 +1,12 @@
 {
   "brochures": [
       {
-          "name": "SEAPAE Course Information Brochure Region 2 H1 MAR VOL2.pdf",
-          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/SEAPAE/aibt/AIBT-SEAPAE-Brochure_1JUL-30SEP21_VOL1.0.pdf"
-      }
+          "name": "AIBT Courses Fees 2021.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/seapae/aibt/AIBT_Courses_Fees_2021_VOL_2.2.pdf"
+      },
+      {
+        "name": "AIBT SEAPAE Q4 Promotion.pdf",
+        "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/seapae/aibt/AIBTSEAPAE_Q4_Brochure_1OCT-31DEC21_VOL1.1.pdf"
+    }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "brochures": [
       {
-          "name": "Q3 Promotions Brochure.pdf",
-          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/aibt/AIBTQ3PromotionsBrochure_1JUL-30SEP21_VOL1.0.pdf"
+          "name": "AIBT Courses Fees 2021.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/aibt/AIBT_Courses_Fees_2021_VOL_2.2.pdf"
       },
       {
-          "name": "Courses Fees August 2021 VOL3.pdf",
-          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/aibt/AIBT_Courses_Fees_2021_VOL1.2.pdf"
+          "name": "AIBT Onshore Q4 Promotion Brochure.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/aibt/AIBTOnshoreQ4Brochure_1OCT-31DEC21_VOL1.0.pdf"
       }
   ]
 }

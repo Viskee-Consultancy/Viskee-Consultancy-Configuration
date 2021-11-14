@@ -1,8 +1,12 @@
 {
   "brochures": [
       {
-          "name": "Non CoE Promotions Brochure 1JULY2021-3OSEP2021 VOL1.pdf",
-          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/aibt/AIBT_Non-CoE_Promotions_Brochure_1JUL-30_SEP2021_VOL1.0.pdf"
+          "name": "AIBT Courses Fees 2021.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/aibt/AIBT_Courses_Fees_2021_VOL_2.2.pdf"
+      },
+      {
+          "name": "AIBT Non-COE Q4 Promotion Brochure.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/aibt/AIBTNon-CoEQ4Brochure_1OCT-31DEC21_VOL1.0.pdf"
       }
   ]
 }

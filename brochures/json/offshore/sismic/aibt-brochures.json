@@ -1,8 +1,12 @@
 {
   "brochures": [
       {
-          "name": "New SISMIC Region H1 VOL3.pdf",
-          "link": "https://github.com/AibtGlobal/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/SISMIC/aibt/AIBT_SISMIC%20Brochure_1JUL-30SEP21_VOL1.1.pdf"
-      }
+          "name": "AIBT Courses Fees 2021.pdf",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/sismic/aibt/AIBT_Courses_Fees_2021_VOL_2.2.pdf"
+      },
+      {
+        "name": "AIBT SISMIC Q4 Promotion.pdf",
+        "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/sismic/aibt/AIBTSISMIC_Q4_Brochure_1OCT-31DEC21_VOL1.1.pdf"
+    }
   ]
 }
