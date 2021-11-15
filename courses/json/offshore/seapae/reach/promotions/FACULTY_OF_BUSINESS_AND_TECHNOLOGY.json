@@ -8,7 +8,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,500",
-            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -20,7 +20,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,500",
-            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -32,7 +32,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,500",
-            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -68,7 +68,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,500",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -80,7 +80,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,500",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -92,7 +92,7 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "13,000",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -104,7 +104,7 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,000",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
@@ -116,14 +116,14 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,000",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
         {
             "vetCode": "BSB80120",
             "cricosCode": "105392F",
-            "department": "Packages",
+            "department": "Business",
             "name": "ANY DIPLOMA OR ADVANCED DIPLOMA + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -161,7 +161,7 @@
             "vetCode": "ICT50220/ICT60220",
             "cricosCode": "105388B/105389A",
             "department": "Packages",
-            "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
+            "name": "Diploma of Information Technology +\r\nAdvanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,000",
