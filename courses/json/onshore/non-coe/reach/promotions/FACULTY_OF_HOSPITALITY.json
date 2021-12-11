@@ -1,1 +1,42 @@
-{}
+{
+  "courses": [
+      {
+          "vetCode": "SIT30816",
+          "cricosCode": "105395C",
+          "department": "Hospitality",
+          "name": "Certificate III in Commercial Cookery",
+          "duration": "52",
+          "tuition": "6,200",
+          "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+          "tuitionHalf": "7,000",
+          "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+          "location": "TAS"
+      },
+      {
+          "vetCode": "SIT40516",
+          "cricosCode": "105422E",
+          "department": "Hospitality",
+          "name": "Certificate IV in Commercial Cookery (Fast track intensive course)",
+          "duration": "52",
+          "tuition": "7,200",
+          "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+          "tuitionHalf": "8,000",
+          "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+          "location": "TAS",
+          "note": "Students will be required to do additional training in order to complete a fast track intensive course"
+      },
+      {
+          "vetCode": "SIT50416",
+          "cricosCode": "105423D",
+          "department": "Hospitality",
+          "name": "Diploma of Hospitality Management (Fast track intensive course)",
+          "duration": "52",
+          "tuition": "6,200",
+          "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+          "tuitionHalf": "7,000",
+          "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+          "location": "TAS",
+          "note": "Students will be required to do additional training in order to complete a fast track intensive course"
+      }
+  ]
+}

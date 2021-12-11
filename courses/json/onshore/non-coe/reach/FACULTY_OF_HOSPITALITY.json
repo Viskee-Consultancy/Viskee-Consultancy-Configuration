@@ -7,10 +7,10 @@
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "12,000",
+            "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT40516",
@@ -19,10 +19,10 @@
             "name": "Certificate IV in Commercial Cookery",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,000",
+            "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT50416",
@@ -31,10 +31,10 @@
             "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,000",
+            "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT60316 ",
@@ -43,10 +43,10 @@
             "name": "Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17,000",
+            "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT30816/SIT40516/SIT50416",
@@ -55,10 +55,10 @@
             "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery + Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,000",
+            "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT40516/SIT60316",
@@ -67,10 +67,10 @@
             "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,000",
+            "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         },
         {
             "vetCode": "SIT50416/SIT60316",
@@ -79,10 +79,10 @@
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "14,000",
+            "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": " "
         }
     ]
 }
