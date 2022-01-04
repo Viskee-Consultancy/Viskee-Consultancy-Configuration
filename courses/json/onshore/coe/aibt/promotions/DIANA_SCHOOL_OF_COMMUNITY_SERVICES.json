@@ -3,52 +3,61 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
-            "durationDetail": "42 wks tuition + 10 wks break",
+            "durationDetail": "42 wks tuition + 10 wks break\r\n",
             "tuition": "8,500",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability) ",
             "duration": "52",
-            "durationDetail": "42 wks tuition + 10 wks break",
+            "durationDetail": "42 wks tuition + 10 wks break\r\n",
             "tuition": "8,500",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
+        },
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "090851M",
+            "name": "Certificate III in Individual Support (Ageing, Disability) ",
+            "duration": "52",
+            "tuition": "9,500",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
+            "placementDuration": "120",
+            "placementFee": "500",
+            "placementDetail": "Placement will only commence after the 35th week",
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC43015",
             "cricosCode": "090852K",
-            "department": "Ageing Support",
             "name": "Certificate IV in Ageing Support",
             "duration": "52",
-            "durationDetail": "42 wks tuition + 10 wks break",
+            "durationDetail": "42 wks tuition + 10 wks break\r\n",
             "tuition": "8,500",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC52015",
             "cricosCode": "093815B",
-            "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
@@ -58,12 +67,11 @@
             "placementDuration": "100",
             "placementFee": "500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "** CHC30113",
             "cricosCode": "093818K",
-            "department": "Early Childhood",
             "name": "Certificate III in Early Childhood Education and Care (** This course has been superseded)",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
@@ -73,28 +81,12 @@
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "The intake date for this qualification is available until 6th December 2021",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "** CHC50113",
-            "cricosCode": "093819J",
-            "department": "Early Childhood",
-            "name": "Diploma of Early Childhood Education and Care (** This course has been superseded)",
-            "duration": "52",
-            "durationDetail": "49 wks Tuition + 3 wks Break",
-            "tuition": "8,500",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
-            "location": "NSW / QLD / TAS",
-            "placementDuration": "240",
-            "placementFee": "500",
-            "placementDetail": "The intake date for this qualification is available until 6th December 2021",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC33015 / CHC43015 / CHC52015",
             "cricosCode": "090851M/090852K/093815B",
-            "department": "Packages",
-            "name": "Certificate III in Individual Support(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
+            "name": "Certificate III in Individual Support\r\n(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "15,000",
@@ -103,67 +95,49 @@
             "placementDuration": "220",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC33015 / CHC43015 /",
             "cricosCode": "090851M/090852K",
-            "department": "Packages",
-            "name": "Certificate III in  Individual Support (Ageing)  + Certificate IV in Ageing Support",
+            "name": "Certificate III in  Individual Support\r\n (Ageing)  + Certificate IV in Ageing Support",
             "duration": "104",
-            "durationDetail": "88 wks tuition + 16 wks break",
+            "durationDetail": "88 wks tuition + 16 wks break\r\n",
             "tuition": "12,000",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "120",
             "placementFee": "1,000",
-            "placementDetail": "Placement will only commence after the 52nd week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "placementDetail": "Placement will only commence after the 52th week",
+            "promotionValidity": "Promotion valid until  31th March 2022"
         },
         {
             "vetCode": "CHC33015 / CHC52015  /",
             "cricosCode": "090851M/093815B",
-            "department": "Packages",
-            "name": "Certificate III in  Individual Support (Ageing)  + Diploma of Community Services",
+            "name": "Certificate III in  Individual Support\r\n (Ageing)  + Diploma of Community Services",
             "duration": "104",
-            "durationDetail": "88 wks tuition + 16 wks break",
+            "durationDetail": "88 wks tuition + 16 wks break\r\n",
             "tuition": "14,000",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "220",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2031"
         },
         {
             "vetCode": "CHC33015 / CHC52015  /",
             "cricosCode": "090851M/093815B",
-            "department": "Packages",
-            "name": "Certificate III in  Individual Support (Disability)  + Diploma of Community Services",
+            "name": "Certificate III in  Individual Support\r\n (Disability)  + Diploma of Community Services",
             "duration": "104",
-            "durationDetail": "88 wks tuition + 16 wks break",
+            "durationDetail": "88 wks tuition + 16 wks break\r\n",
             "tuition": "14,000",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "220",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "**CHC30113 / **CHC50113",
-            "cricosCode": "093818K/093819J",
-            "department": "Packages",
-            "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "15000 (NSW/TAS); 13000 (QLD)",
-            "tuitionDetail": "total tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "placementDuration": "240",
-            "placementFee": "1,000",
-            "placementDetail": " The intake date for these qualifications are available until 6th December 2021",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th March 2032"
         }
     ]
 }
