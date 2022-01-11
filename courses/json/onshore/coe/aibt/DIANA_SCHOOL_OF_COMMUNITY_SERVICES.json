@@ -3,7 +3,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -17,7 +17,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -31,7 +31,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Home and Community)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -45,7 +45,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Disability)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -59,7 +59,7 @@
         {
             "vetCode": "CHC33015",
             "cricosCode": "090851M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Home and Community)",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -73,7 +73,7 @@
         {
             "vetCode": "CHC43015",
             "cricosCode": "090852K",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Ageing Support",
             "name": "Certificate IV in Ageing Support",
             "duration": "52",
             "durationDetail": "42 wks Tuition + 10 wks Break",
@@ -87,7 +87,7 @@
         {
             "vetCode": "CHC52015",
             "cricosCode": "093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
@@ -100,7 +100,7 @@
         {
             "vetCode": "HLT42015",
             "cricosCode": "093817M",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Massage",
             "name": "Certificate IV in Massage Therapy",
             "duration": "52",
             "durationDetail": "40 wks Tuition + 12 wks Break",
@@ -113,7 +113,7 @@
         {
             "vetCode": "HLT52015",
             "cricosCode": "093816A",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Massage",
             "name": "Diploma of Remedial Massage",
             "duration": "52",
             "durationDetail": "40 wks Tuition + 12 wks Break",
@@ -126,7 +126,7 @@
         {
             "vetCode": "CHC33015 / CHC43015",
             "cricosCode": "090851M/090852K",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -140,7 +140,7 @@
         {
             "vetCode": "CHC33015 / CHC52015",
             "cricosCode": "090851M/093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing, Disability) + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -153,7 +153,7 @@
         {
             "vetCode": "CHC33015 / CHC52015",
             "cricosCode": "090851M/093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -166,7 +166,7 @@
         {
             "vetCode": "CHC33015 / CHC52015",
             "cricosCode": "090851M/093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Disability) + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -179,7 +179,7 @@
         {
             "vetCode": "CHC33015 / CHC52015",
             "cricosCode": "090851M/093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing, Home and Community) + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -192,7 +192,7 @@
         {
             "vetCode": "CHC33015 / CHC43015 / CHC52015",
             "cricosCode": "090851M/090852K/093815B",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -205,7 +205,7 @@
         {
             "vetCode": "HLT42015 / HLT52015",
             "cricosCode": "093817M/093816A",
-            "department": "DIANA SCHOOL OF COMMUNITY SERVICES",
+            "department": "Packages",
             "name": "Certificate IV in Massage Therapy + Diploma of Remedial Massage",
             "duration": "92",
             "durationDetail": "76 wks Tuition + 16 wks Break",
@@ -214,6 +214,7 @@
             "location": "NSW/QLD/TAS (Currently not accepting enrolments)",
             "placementDuration": "200",
             "placementFee": "1000"
+        
         }
     ]
 }
