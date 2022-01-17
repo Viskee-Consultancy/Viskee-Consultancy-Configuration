@@ -12,7 +12,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
@@ -27,7 +27,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course. For food/service periods information, please visit the individual course outlines on our website."
         },
         {
@@ -42,7 +42,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
@@ -57,23 +57,8 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course. For food/service periods information, please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "FBP40217",
-            "cricosCode": "106672A",
-            "department": "Patisserie and Baking",
-            "name": "Certificate IV in Baking",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "7,200",
-            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "8,000",
-            "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
-            "note": " "
         },
         {
             "vetCode": "SIT50416",
@@ -87,7 +72,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course. Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
         },
         {
@@ -102,7 +87,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": " "
         },
         {
@@ -117,7 +102,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management."
         }
     ]
