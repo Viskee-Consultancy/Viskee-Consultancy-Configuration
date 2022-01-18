@@ -19,8 +19,8 @@
             "name": "Certificate III in Automotive Electrical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "15,200",
+            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         },
@@ -31,8 +31,8 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "15,200",
+            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         },
@@ -55,8 +55,8 @@
             "name": "Certificate IV in Automotive Electrical Technology",
             "duration": "39",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         },
@@ -67,8 +67,8 @@
             "name": "Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "39",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         },
@@ -79,8 +79,20 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+            "tuition": "32,200",
+            "tuitionDetail": "32,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": " "
+        },
+        {
+            "vetCode": "AUR30620/ AUR40216",
+            "cricosCode": "105382H/105383G",
+            "department": "Packages",
+            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         },
@@ -91,8 +103,8 @@
             "name": "Certificate III in Automotive Electrical Technology + Certificate IV in Automotive Electrical Technology + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,000",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "32,200",
+            "tuitionDetail": "32,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": " "
         }
