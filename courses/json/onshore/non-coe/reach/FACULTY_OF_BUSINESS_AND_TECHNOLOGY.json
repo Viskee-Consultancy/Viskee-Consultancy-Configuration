@@ -40,19 +40,19 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "12,700",
+            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
-            "vetCode": "TLI50219",
+            "vetCode": "TLI50221",
             "cricosCode": "106651F",
             "department": "Business",
             "name": "Diploma of Logistics ",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9,200",
-            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -62,8 +62,8 @@
             "name": "Advanced Diploma of Deployment Logistics",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,200",
-            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -73,8 +73,8 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "12,700",
+            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -84,8 +84,8 @@
             "name": "Advanced Diploma of Program Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -161,8 +161,8 @@
             "name": "Diploma of Civil Construction Design",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -183,30 +183,30 @@
             "name": "Diploma of Project Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
             "vetCode": "BSB50820/BSB60720",
             "cricosCode": "105425B/106649M",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
+            "department": "Packages",
             "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
-            "vetCode": "TLI50219/TLI60119",
+            "vetCode": "TLI50221/TLI60119",
             "cricosCode": "106651F/106652E",
-            "department": "FACULTY OF BUSINESS & TECHNOLOGY",
-            "name": "Diploma of Logistics +\r\nAdvanced Diploma of Deployment Logistics",
+            "department": "Packages",
+            "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -216,8 +216,8 @@
             "name": "Certificate IV in Information Technology + Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
@@ -227,8 +227,19 @@
             "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "TAS"
+        },
+        {
+            "vetCode": "ICT40120/ICT50220/ICT60220",
+            "cricosCode": "105387C/105388B/105389A",
+            "department": "Packages",
+            "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "TAS"
         },
         {
