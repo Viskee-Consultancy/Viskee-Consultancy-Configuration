@@ -232,6 +232,17 @@
             "location": "TAS"
         },
         {
+            "vetCode": "ICT40120/ICT50220/ICT60220",
+            "cricosCode": "105387C/105388B/105389A",
+            "department": "Packages",
+            "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+            "location": "TAS"
+        },
+        {
             "vetCode": "RII50520/RII60520",
             "cricosCode": "106654C/106655B",
             "department": "Packages",
