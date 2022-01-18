@@ -7,10 +7,10 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,000",
+            "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB80320",
@@ -19,10 +19,10 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,000",
+            "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "FNS40217/FNS50217/FNS60217",
@@ -31,10 +31,10 @@
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,000",
+            "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB60420/BSB80120",
@@ -43,10 +43,10 @@
             "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,000",
+            "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB60120/BSB80120",
@@ -55,10 +55,10 @@
             "name": "Advanced Diploma of Business +   Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,000",
+            "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB50820/BSB60120",
@@ -67,10 +67,10 @@
             "name": "Advanced Diploma of Business + Graduate Diploma in Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,000",
+            "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB50820/BSB60420",
@@ -79,10 +79,10 @@
             "name": "Diploma of Project Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,000",
+            "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -91,10 +91,22 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,000",
+            "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+        },
+        {
+            "vetCode": "TLI50221/TLI60119",
+            "cricosCode": "106651F/106652E",
+            "department": "Packages",
+            "name": "Diploma of Logistics  + Advanced Diploma of Deployment Logistics",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "ICT40120/ICT50220",
@@ -103,10 +115,10 @@
             "name": "Certificate IV in Information Technology + Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,000",
+            "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -115,10 +127,22 @@
             "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,000",
+            "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+        },
+        {
+            "vetCode": "RII60520/BSB80120",
+            "cricosCode": "106655B/105392F",
+            "department": "Packages",
+            "name": "Advanced Diploma of Civil Construction Design + Graduate Diploma of Management (Learning)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "RII50520/RII60520",
