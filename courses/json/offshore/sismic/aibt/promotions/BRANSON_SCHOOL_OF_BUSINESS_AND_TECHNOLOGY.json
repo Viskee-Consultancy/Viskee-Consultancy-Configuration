@@ -157,6 +157,19 @@
             "note": "Monthly Intake Available"
         },
         {
+            "vetCode": "BSB50820/ BSB80320",
+            "cricosCode": "104063J/104489E",
+            "department": "Packages",
+            "name": "Diploma of Project Management + Graduate Diploma of Strategic Leadership",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "note": "Monthly Intake Available"
+        },
+        {
             "vetCode": "ICT40120/ICT50220/ICT60220",
             "cricosCode": "104691C/107121B/107122A",
             "department": "Packages",
