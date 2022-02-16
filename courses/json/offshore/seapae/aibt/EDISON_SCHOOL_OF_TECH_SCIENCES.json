@@ -1,20 +1,6 @@
 {
     "courses": [
         {
-            "vetCode": "UEE20120",
-            "cricosCode": "103422K",
-            "department": "Air-Conditioning",
-            "name": "Certificate II in Split Air Conditioning and Heat Pump Systems",
-            "duration": "26",
-            "durationDetail": "22 wks Tuition + 4 wks Break",
-            "tuition": "6,200",
-            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
-        },
-        {
             "vetCode": "UEE42720",
             "cricosCode": "103406K",
             "department": "Air-Conditioning",
@@ -35,8 +21,8 @@
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering",
             "duration": "117",
             "durationDetail": "93 wks Tuition + 24 wks Break",
-            "tuition": "35,200",
-            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
+            "tuition": "34,200",
+            "tuitionDetail": "34,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
@@ -93,20 +79,6 @@
             "location": "NSW/QLD",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
-        },
-        {
-            "vetCode": "UEE20120 / UEE42720",
-            "cricosCode": "103422K/103406K",
-            "department": "Packages",
-            "name": "Certificate II in Split Air Conditioning and Heat Pump Systems + Certificate IV in Air Conditioning and Refrigeration Servicing",
-            "duration": "78",
-            "durationDetail": "66 wks Tuition + 12 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
             "vetCode": "AUR30620 / AUR40216",
