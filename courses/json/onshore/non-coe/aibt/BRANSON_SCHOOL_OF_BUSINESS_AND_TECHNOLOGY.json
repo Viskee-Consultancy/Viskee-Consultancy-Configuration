@@ -69,8 +69,8 @@
             "location": "NSW/QLD/TAS"
         },
         {
-            "vetCode": "TLI50219",
-            "cricosCode": "102526K",
+            "vetCode": "TLI50221",
+            "cricosCode": "108116B",
             "department": "Logistics",
             "name": "Diploma of Logistics",
             "duration": "52",
@@ -212,8 +212,8 @@
             "location": "NSW/QLD/TAS"
         },
         {
-            "vetCode": "TLI50219/ TLI60119",
-            "cricosCode": "102526K/102524A",
+            "vetCode": "TLI50221/ TLI60119",
+            "cricosCode": "108116B/102524A",
             "department": "Packages",
             "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
             "duration": "104",
