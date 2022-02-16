@@ -88,6 +88,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
@@ -101,6 +102,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "Includes 12 complete service periods (shifts) for unit SITHKOP005 - Coordinate cooking operations; Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
@@ -140,6 +142,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
+            "locationDetail": "Currently not accepting enrolments",
             "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": " "
