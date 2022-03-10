@@ -9,7 +9,7 @@
             "durationDetail": "48 wks Tuition + 4 wks Break",
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
@@ -21,19 +21,45 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
             "vetCode": "SIT50416",
             "cricosCode": "105423D",
             "department": "Hospitality",
-            "name": "Diploma of Hospitality Management #(Fast track intensive course)",
+            "name": "Diploma of Hospitality Management #(Fast track intensive course)(TAS)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "7,700",
             "tuitionDetail": "7,500 tuition fee + 200 handling fee",
             "location": "TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course."
+        },
+        {
+            "vetCode": "SIT50416",
+            "cricosCode": "105423D",
+            "department": "Hospitality",
+            "name": "Diploma of Hospitality Management #(Fast track intensive course)(NSW)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,700",
+            "tuitionDetail": "6,500 tuition fee + 200 handling fee",
+            "location": "NSW",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course."
+        },
+        {
+            "vetCode": "SIT60316",
+            "cricosCode": "105424C",
+            "department": "Hospitality",
+            "name": "Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "NSW",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course."
         },
@@ -46,7 +72,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
         {
@@ -58,6 +84,18 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+        },
+        {
+            "vetCode": "SIT50416/SIT60316",
+            "cricosCode": "105423D/105424C",
+            "department": "Packages",
+            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management(TAS)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "15,200",
+            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         },
@@ -65,12 +103,12 @@
             "vetCode": "SIT50416/SIT60316",
             "cricosCode": "105423D/105424C",
             "department": "Packages",
-            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
+            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management(NSW)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "NSW",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
         }
     ]
