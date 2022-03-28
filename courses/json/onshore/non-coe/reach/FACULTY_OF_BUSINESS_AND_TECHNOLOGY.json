@@ -210,6 +210,17 @@
             "location": "NSW/TAS"
         },
         {
+            "vetCode": "FNS50217/FNS60217",
+            "cricosCode": "105606H/105607G",
+            "department": "Packages",
+            "name": "Diploma of Accounting + Advanced Diploma of Accounting",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS"
+        },
+        {
             "vetCode": "ICT40120/ICT50220",
             "cricosCode": "105387C/105388B",
             "department": "Packages",
