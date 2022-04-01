@@ -1,0 +1,17 @@
+{
+  "courses": [
+      {
+          "vetCode": "AVI50119",
+          "cricosCode": "0101215",
+          "department": "AVIATION",
+          "name": "Diploma of Aviation (Aviation Management)",
+          "duration": "52",
+          "durationDetail": "40 wks Tuition + 12 wks Break ",
+          "tuition": "12,500",
+          "tuitionDetail": "12,500 tuition fee + 200 handling fee",
+          "tuitionHalf": " ",
+          "tuitionHalfDetail": " ",
+          "location": "NSW/QLD/TAS"
+      }
+  ]
+}

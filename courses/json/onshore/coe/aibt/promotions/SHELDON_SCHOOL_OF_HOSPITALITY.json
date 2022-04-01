@@ -105,7 +105,7 @@
             "note": "Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management. For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT30816/ SIT40516/\r\nSIT50416",
+            "vetCode": "SIT30816/ SIT40516/SIT50416",
             "cricosCode": "093480J/095244E/091074F",
             "department": "Packages",
             "name": "Certificate III in Commerical Cookery + Certificate IV in Commerical Cookery + Diploma of Hospitality Management",
@@ -131,7 +131,7 @@
             "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT31016/ SIT40716/\r\nSIT50416",
+            "vetCode": "SIT31016/ SIT40716/SIT50416",
             "cricosCode": "093481G/093479B/091074F",
             "department": "Packages",
             "name": "Certificate III in Patisserie + Certificate IV in Patisserie + Diploma of Hospitality Management",

@@ -1,0 +1,19 @@
+{
+    "courses": [
+        {
+            "vetCode": "CHC33015/CHC43015/CHC52015",
+            "cricosCode": "090851M/090852K/093815B",
+            "department": "Packages",
+            "name": "Certificate III In Individual Support (Ageing) + Certificate IV In Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "220",
+            "placementFee": "1000",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "Monthly Intake Available"
+        }
+    ]
+}

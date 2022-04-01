@@ -1,0 +1,29 @@
+{
+    "courses": [
+        {
+            "vetCode": " ",
+            "cricosCode": "105608F",
+            "department": "FACULTY OF ENGLISH",
+            "name": "General English (Elementary to Advanced)",
+            "durationMin": "10 weeks",
+            "durationMax": "60 weeks",
+            "durationDetail": " ",
+            "tuition": "185/Wk",
+            "tuitionHalf": " ",
+            "tuitionHalfDetail": " ",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022"
+        },
+        {
+            "cricosCode": "105608F",
+            "department": "FACULTY OF ENGLISH",
+            "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
+            "duration": "First 10 weeks",
+            "tuition": "Free",
+            "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "undefined": " "
+        }
+    ]
+}

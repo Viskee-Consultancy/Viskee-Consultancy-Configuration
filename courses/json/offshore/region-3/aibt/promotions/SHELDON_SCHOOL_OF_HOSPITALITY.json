@@ -1,0 +1,69 @@
+{
+    "courses": [
+        {
+            "vetCode": "SIT30816/SIT50416",
+            "cricosCode": "093480J/091074F",
+            "department": "Packages",
+            "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management ",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available."
+        },
+        {
+            "vetCode": "SIT40516/SIT60316",
+            "cricosCode": "095244E/091132A",
+            "department": "Packages",
+            "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available."
+        },
+        {
+            "vetCode": "SIT50416/SIT60316",
+            "cricosCode": "091074F/091132A",
+            "department": "Packages",
+            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available."
+        },
+        {
+            "vetCode": "SIT50116/SIT60116",
+            "cricosCode": "095245D/095246C",
+            "department": "Packages",
+            "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available."
+        },
+        {
+            "vetCode": "SIT60316",
+            "cricosCode": "091132A",
+            "department": "Hospitality",
+            "name": "Advanced Diploma Of Hospitality Management (Commercial Cookery and Catering) OR (Patisserie)",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "17,000",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022",
+            "note": "For food/service periods information, please visit the individual course outlines on our website. Monthly Intake Available."
+        }
+    ]
+}

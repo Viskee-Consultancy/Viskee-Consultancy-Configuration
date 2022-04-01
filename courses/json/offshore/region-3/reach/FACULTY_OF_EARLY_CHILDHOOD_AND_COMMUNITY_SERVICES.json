@@ -1,0 +1,123 @@
+{
+    "courses": [
+        {
+            "vetCode": "CHC33015",
+            "cricosCode": "108802B",
+            "department": "Community Services",
+            "name": "Certificate III in Individual Support",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "10,000",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "120",
+            "placementFee": "500"
+        },
+        {
+            "vetCode": "CHC43115",
+            "cricosCode": "108800D",
+            "department": "Community Services",
+            "name": "Certificate IV in Disability",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "10,000",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "120",
+            "placementFee": "500"
+        },
+        {
+            "vetCode": " CHC52015",
+            "cricosCode": "106059M",
+            "department": "Community Services",
+            "name": " Diploma of Community Services",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "14,000",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "100",
+            "placementFee": "500",
+            "promotionValidity": " "
+        },
+        {
+            "vetCode": " CHC62015",
+            "cricosCode": "108799C",
+            "department": "Community Services",
+            "name": "Advanced Diploma of Community Sector Management",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "13,000",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": " ",
+            "placementFee": " ",
+            "promotionValidity": " "
+        },
+        {
+            "vetCode": "CHC33015/CHC43115",
+            "cricosCode": "108802B/108800D",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "18,000",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "120",
+            "placementFee": "1000"
+        },
+        {
+            "vetCode": "CHC33015/CHC52015",
+            "cricosCode": "108802B/106059M",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Disability) + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "22,000",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "220",
+            "placementFee": "1000"
+        },
+        {
+            "vetCode": "CHC43115/CHC52015",
+            "cricosCode": "108800D/106059M",
+            "department": "Packages",
+            "name": "Certificate IV in Disability + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "22,000",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "220",
+            "placementFee": "1000"
+        },
+        {
+            "vetCode": "CHC52015/CHC62015",
+            "cricosCode": "106059M/108799C",
+            "department": "Packages",
+            "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "25,000",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "100",
+            "placementFee": "500"
+        },
+        {
+            "vetCode": "CHC33015/CHC43115/CHC52015",
+            "cricosCode": "108802B/108800D/106059M",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Disability) +Certificate IV in Disability +Diploma of Community Services(FAST TRACK students may be required to attend classes 3 days per week)",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "25,000",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "220",
+            "placementFee": "1500"
+        }
+    ]
+}
