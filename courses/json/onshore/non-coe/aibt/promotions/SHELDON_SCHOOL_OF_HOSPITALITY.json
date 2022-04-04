@@ -12,8 +12,8 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "For food/service periods information, please visit the individual course outlines on our website."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
             "vetCode": "SIT40516",
@@ -27,8 +27,8 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "Students will be required to do additional training in order to complete a fast track intensive course. For food/service periods information, please visit the individual course outlines on our website."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course.Includes 12 complete service periods (shifts) for unit SITHKOP005-Coordinate cooking operations;Includes 48 complete food service periods for unit SITHCCC020-Work effectively as a cook"
         },
         {
             "vetCode": "SIT31016",
@@ -42,8 +42,8 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "For food/service periods information, please visit the individual course outlines on our website."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "For complete service periods (shifts) information, please visit the course outline on our website."
         },
         {
             "vetCode": "SIT40716",
@@ -57,8 +57,8 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "Students will be required to do additional training in order to complete a fast track intensive course. For food/service periods information, please visit the individual course outlines on our website."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course.For complete service periods (shifts) information, please visit the course outline on our website."
         },
         {
             "vetCode": "SIT50416",
@@ -72,8 +72,8 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "Students will be required to do additional training in order to complete a fast track intensive course. Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course. (Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
             "vetCode": "SIT50116",
@@ -87,7 +87,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
             "note": " "
         },
         {
@@ -102,7 +102,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
             "note": "Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management."
         }
     ]
