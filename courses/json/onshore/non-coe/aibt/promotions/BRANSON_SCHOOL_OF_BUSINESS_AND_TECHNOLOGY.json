@@ -12,7 +12,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST June 2022"
         },
         {
             "vetCode": "TLI60119",
@@ -26,7 +26,35 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST June 2022"
+        },
+        {
+            "vetCode": "ICT50220",
+            "cricosCode": "107121B",
+            "department": "Information Technology",
+            "name": "Diploma of Information Technology",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7000",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST June 2022"
+        },
+        {
+            "vetCode": "ICT60220",
+            "cricosCode": "107122A",
+            "department": "Information Technology",
+            "name": "Advanced Diploma of Information Technology",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7000",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST June 2022"
         }
     ]
 }
