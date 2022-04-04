@@ -6,11 +6,11 @@
             "department": "AUTOMOTIVE",
             "name": "Diploma of Automotive Management",
             "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break ",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
         },
         {
             "vetCode": "AUR30320",
@@ -18,11 +18,11 @@
             "department": "AUTOMOTIVE",
             "name": "Certificate III in Automotive Electrical Technology",
             "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break (3 days p/week)",
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
         },
         {
             "vetCode": "AUR30620",
@@ -30,11 +30,11 @@
             "department": "AUTOMOTIVE",
             "name": "Certificate III in Light Vehicle Mechanical Technology",
             "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break (3 days p/week)",
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
         },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
@@ -43,23 +43,23 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "31,200",
-            "tuitionDetail": "31,000 tuition fee + 200 handling fee",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
-            "vetCode": "AUR30620/ AUR40216",
-            "cricosCode": "105382H/105383G",
+            "vetCode": "AUR30320/AUR40620/ AUR50116",
+            "cricosCode": "105385E/105386D/105384F",
             "department": "Packages",
-            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
+            "name": "Certificate III in Automotive Electrical Technology + Certificate IV in Automotive Electrical Technology + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         }
     ]
