@@ -1,16 +1,16 @@
 {
     "courses": [
         {
-            "vetCode": "FNS40217/ FNS50217/ FNS60217  ",
-            "cricosCode": "104695K/104696J/104697H",
+            "vetCode": "FNS40217/ FNS50217",
+            "cricosCode": "104695K/104696J",
             "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting ",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -20,10 +20,10 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022 ",
             "note": "Monthly Intake Available"
         },
         {
@@ -33,10 +33,10 @@
             "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022 ",
             "note": "Monthly Intake Available"
         },
         {
@@ -46,10 +46,23 @@
             "name": "Advanced Diploma of Deployment Logistics + Graduate Diploma of Strategic Leadership",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "BSB50420/ BSB60420",
+            "cricosCode": "104262B/107118H",
+            "department": "Packages",
+            "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -59,10 +72,10 @@
             "name": "Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -72,10 +85,10 @@
             "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -85,10 +98,10 @@
             "name": "Diploma of Leadership and Management (Learning) + Graduate Diploma of Strategic Leadership",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -98,10 +111,10 @@
             "name": "Diploma of Project Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -114,7 +127,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -124,10 +137,10 @@
             "name": "Certificate IV in Information Technology + Diploma of Information Technology ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -140,7 +153,20 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022 ",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "ICT40120/ICT50220/ICT60220",
+            "cricosCode": "104691C/107121B/107122A",
+            "department": "Packages",
+            "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -153,7 +179,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022 ",
             "note": "Monthly Intake Available"
         },
         {
@@ -163,10 +189,10 @@
             "name": "Diploma of Project Management + Graduate Diploma of Strategic Leadership",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -179,7 +205,7 @@
             "tuition": "27,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022 ",
+            "promotionValidity": "Promotion valid until 30th June 2022",
             "note": "Monthly Intake Available"
         }
     ]
