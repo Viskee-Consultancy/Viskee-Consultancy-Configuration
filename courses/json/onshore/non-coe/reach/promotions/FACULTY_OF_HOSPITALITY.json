@@ -10,8 +10,9 @@
           "tuitionDetail": "6,000 tuition fee + 200 handling fee",
           "tuitionHalf": "7,000",
           "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-          "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+          "location": "NSW/TAS",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+          "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
       },
       {
           "vetCode": "SIT40516",
@@ -23,23 +24,23 @@
           "tuitionDetail": "7,000 tuition fee + 200 handling fee",
           "tuitionHalf": "8,000",
           "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-          "location": "TAS",
-          "note": "Students will be required to do additional training in order to complete a fast track intensive course",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+          "location": "NSW/TAS",
+          "note": "includes 12 complete service periods (shifts) for unit SITHKOP005 - Coordinate cooking operations)(Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook);FAST TRACK - students may be required to attend classes 3 days p/w",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
       },
       {
           "vetCode": "SIT50416",
           "cricosCode": "105423D",
           "department": "Hospitality",
-          "name": "Diploma of Hospitality Management (Fast track intensive course)",
+          "name": "Diploma of Hospitality Management",
           "duration": "52",
           "tuition": "6,200",
           "tuitionDetail": "6,000 tuition fee + 200 handling fee",
           "tuitionHalf": "7,000",
           "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-          "location": "TAS",
-          "note": "Students will be required to do additional training in order to complete a fast track intensive course",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+          "location": "NSW/TAS",
+          "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
       }
   ]
 }
