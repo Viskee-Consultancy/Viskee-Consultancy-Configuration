@@ -1,16 +1,17 @@
 {
     "courses": [
-        {
+       {
             "vetCode": "SIT30816",
             "cricosCode": "105395C",
             "department": "Hospitality",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,700",
             "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
             "vetCode": "SIT40516",
@@ -22,20 +23,21 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "includes 12 complete service periods (shifts) for unit SITHKOP005-Coordinate cooking operations;Includes 48 complete food service periods for unit SITHCCC020-Work effectively as a cook."
         },
         {
             "vetCode": "SIT50416",
             "cricosCode": "105423D",
             "department": "Hospitality",
-            "name": "Diploma of Hospitality Management #(Fast track intensive course)",
+            "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
-            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022",
-            "note": "Students will be required to do additional training in order to complete a fast track intensive course."
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
             "vetCode": "SIT30816/SIT40516/SIT50416",
@@ -47,7 +49,8 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40516/SIT60316",
@@ -59,7 +62,8 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT50416/SIT60316",
@@ -68,10 +72,11 @@
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "15,200",
+            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST MARCH 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
+            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         }
     ]
 }
