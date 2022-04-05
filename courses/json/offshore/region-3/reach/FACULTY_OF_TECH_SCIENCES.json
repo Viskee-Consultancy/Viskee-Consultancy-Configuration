@@ -7,7 +7,7 @@
             "name": "Diploma of Automotive Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "15,000",
+            "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
@@ -19,7 +19,7 @@
             "name": "Certificate III in Automotive Electrical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "17,000",
+            "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
@@ -31,7 +31,7 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "17,000",
+            "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
@@ -40,10 +40,10 @@
             "vetCode": "AUR31120 ",
             "cricosCode": "105381J",
             "department": "Automotive",
-            "name": "Certificate III in Heavy Commercial Vehicle Mechanical Technology",
+            "name": "Certificate III  in Heavy Commercial Vehicle Mechanical Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "18,000",
+            "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
@@ -55,7 +55,7 @@
             "name": "Certificate IV in Automotive Electrical Technology",
             "duration": "39",
             "durationDetail": "33 wks Tuition + 6 wks Break",
-            "tuition": "15,000",
+            "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
@@ -67,8 +67,20 @@
             "name": "Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "39",
             "durationDetail": "33 wks Tuition + 6 wks Break",
-            "tuition": "15,000",
+            "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": " "
+        },
+        {
+            "vetCode": "AUR30620/ AUR40216/AUR50116",
+            "cricosCode": "105382H/105383G/105384F",
+            "department": "Packages",
+            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "35,200",
+            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " "
         },
@@ -76,73 +88,25 @@
             "vetCode": "AUR30620/ AUR40216",
             "cricosCode": "105382H/105383G",
             "department": "Packages",
-            "name": "Certificate III in Light Vehicle Mechanical Technology +Certificate IV in Automotive Mechanical Diagnosis",
+            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "30,000",
+            "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": " ",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
-        },
-        {
-            "vetCode": "AUR30620/ AUR40216/AUR50116",
-            "cricosCode": "105382H/105383G/105384F",
-            "department": "Packages",
-            "name": "Certificate III in Light Vehicle Mechanical Technology +Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "35,000",
-            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": " ",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+            "promotionValidity": " "
         },
         {
             "vetCode": "AUR30320/AUR40620/AUR50116",
             "cricosCode": "105385E/105386D/105384F",
             "department": "Packages",
-            "name": "Certificate III in Automotive Electrical Technology +Certificate IV in Automotive Electrical Technology +Diploma of Automotive Management",
+            "name": "Certificate III in Automotive Electrical Technology + Certificate IV in Automotive Electrical Technology + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "35,000",
+            "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": " ",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
-        },
-        {
-            "vetCode": "CPC40120",
-            "cricosCode": "106656A",
-            "department": "BUILDING AND CONSTRUCTION ",
-            "name": "Certificate IV in Building and Construction",
-            "duration": "65",
-            "durationDetail": "55 wks Tuition + 10 wks Break",
-            "tuition": "17,000",
-            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
-            "location": "NSW"
-        },
-        {
-            "vetCode": "CPC50220",
-            "cricosCode": "106653D",
-            "department": "BUILDING AND CONSTRUCTION ",
-            "name": "Diploma of Building and Construction (Building)",
-            "duration": "78",
-            "durationDetail": "66 wks Tuition + 12 wks Break",
-            "tuition": "20,000",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW"
-        },
-        {
-            "vetCode": "CPC40120/CPC50220",
-            "cricosCode": "106656A/106653D",
-            "department": "Packages",
-            "name": "Certificate IV in Building and Construction + Diploma of Building and Construction (Building)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "35,000",
-            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "location": "NSW"
+            "promotionValidity": " "
         }
     ]
 }
