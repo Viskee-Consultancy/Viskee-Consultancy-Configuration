@@ -177,6 +177,17 @@
             "location": "NSW/TAS"
         },
         {
+            "vetCode": "BSB50420/BSB60420",
+            "cricosCode": "108801C/105426A",
+            "department": "Packages",
+            "name": "Diploma of Leadership and Management  + Advanced Diploma of Leadership and Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS"
+        },
+        {
             "vetCode": "BSB50820/BSB60420",
             "cricosCode": "105425B/105426A",
             "department": "Packages",
@@ -218,6 +229,17 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS"
+        },
+        {
+            "vetCode": "FNS40217/FNS50217/FNS60217",
+            "cricosCode": "105390H/105606H/105607G",
+            "department": "Packages",
+            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "30,200",
+            "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS"
         },
         {
