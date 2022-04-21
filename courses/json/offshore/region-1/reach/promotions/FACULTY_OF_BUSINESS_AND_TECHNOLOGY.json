@@ -121,14 +121,26 @@
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
         },
         {
-            "vetCode": "FNS50217/FNS60217",
-            "cricosCode": "105606H/105607G",
+            "vetCode": "FNS40217/FNS50217",
+            "cricosCode": "104695K/104696J",
             "department": "Packages",
-            "name": "Diploma of Accounting + Advanced Diploma of Accounting",
+            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
+        },
+        {
+            "vetCode": "FNS40217/FNS50217/FNS60217",
+            "cricosCode": "104695K/104696J/104697H",
+            "department": "Packages",
+            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
         },
