@@ -5,8 +5,8 @@
             "department": "English",
             "name": "General English (Beginner to Upper Intermediate) - ELICOS only ",
             "durationMin": "10 weeks",
-            "tuition": "185/week1,850 total",
-            "tuitionDetail": "185/week1,850 total",
+            "tuition": "(1 - 10 weeks)185/week;(11 - 25 weeks)165/week;(26weeks or more)145/week",
+            "tuitionDetail": "(1 - 10 weeks)185/week;(11 - 25 weeks)165/week;(26weeks or more)145/week",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
         },
