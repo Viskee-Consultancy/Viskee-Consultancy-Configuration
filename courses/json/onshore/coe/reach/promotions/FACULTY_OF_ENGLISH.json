@@ -8,11 +8,22 @@
             "durationMin": "10 weeks",
             "durationMax": "60 weeks",
             "durationDetail": " ",
-            "tuition": "185/Wk",
+            "tuition": "185/week(1 - 10 weeks);165/week(11 - 25 weeks);145/week(26weeks or more)",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
+        },
+        {
+            "vetCode": " ",
+            "cricosCode": "105608F",
+            "department": "English",
+            "name": "General English (Elementary to Advanced)",
+            "duration": "First 10 weeks",
+            "tuition": "Free",
+            "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  30th June 2022"
         }
     ]
 }
