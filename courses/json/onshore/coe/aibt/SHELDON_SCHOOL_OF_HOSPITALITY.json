@@ -10,7 +10,7 @@
             "tuition": "9,200",
             "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
+            "note": "Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT40416",
@@ -34,7 +34,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT60316",
@@ -46,7 +46,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT30816",
@@ -130,7 +130,7 @@
             "tuition": "11,700",
             "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS (Currently not accepting enrolments)",
-            "note": " "
+            "note": "Includes 4 shifts for the unit FBPRBK3013 - Schedule and produce cake and pastry production."
         },
         {
             "vetCode": "FBP40221",
@@ -166,7 +166,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": " "
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
             "vetCode": "SIT50116",
@@ -178,7 +178,7 @@
             "tuition": "9,200",
             "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "For food/service periods information, please visit the individual course outlines on our website."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
             "vetCode": "SIT60116",
@@ -190,7 +190,7 @@
             "tuition": "13,700",
             "tuitionDetail": "13,500 tuition fee + 200 handling fee",
             "location": "QLD/TAS",
-            "note": "For food/service periods information, please visit the individual course outlines on our website."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
             "vetCode": "SIT31116/ SIT40816",
