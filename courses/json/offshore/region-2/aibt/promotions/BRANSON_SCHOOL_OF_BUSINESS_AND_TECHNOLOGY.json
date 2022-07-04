@@ -1,5 +1,31 @@
 {
     "courses": [
+         {
+            "vetCode": "BSB80120",
+            "cricosCode": "107120C",
+            "department": "Graduate Studies",
+            "name": "Graduate Diploma of Management (Learning)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30th September 2022",
+            "note": "Monthly Intake Available"
+        },
+         {
+            "vetCode": "BSB80320",
+            "cricosCode": "104489E",
+            "department": "Graduate Studies",
+            "name": "Graduate Diploma of Strategic Leadership",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30th September 2022",
+            "note": "Monthly Intake Available"
+        },
         {
             "vetCode": "FNS40217/ FNS50217",
             "cricosCode": "104695K/104696J",
@@ -7,11 +33,11 @@
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
-            "note": "Monthly Intake Available"
+            "promotionValidity": "Promotion valid until 30th September 2022",
+            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Monthly Intake Available"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -23,7 +49,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022 ",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -36,7 +62,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022 ",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -49,7 +75,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -62,7 +88,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -75,7 +101,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -88,7 +114,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -101,7 +127,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -114,7 +140,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -127,7 +153,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -140,7 +166,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -153,7 +179,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022 ",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -166,20 +192,7 @@
             "tuition": "28,200",
             "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
-            "note": "Monthly Intake Available"
-        },
-        {
-            "vetCode": "BSB80120",
-            "cricosCode": "107120C",
-            "department": "Graduate Studies",
-            "name": "Graduate Diploma of Management (Learning)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022 ",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -192,7 +205,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         },
         {
@@ -205,7 +218,7 @@
             "tuition": "27,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th June 2022",
+            "promotionValidity": "Promotion valid until 30th September 2022",
             "note": "Monthly Intake Available"
         }
     ]
