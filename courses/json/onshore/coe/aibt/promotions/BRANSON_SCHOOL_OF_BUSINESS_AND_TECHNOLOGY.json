@@ -55,7 +55,7 @@
             "name": "Diploma of Logistics",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8500 (TAS); 7500 (NSW/QLD)",
+            "tuition": "8500",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
@@ -67,7 +67,7 @@
             "name": "Advanced Diploma of Deployment Logistics",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8500 (TAS); 7500 (NSW/QLD)",
+            "tuition": "8500",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
@@ -79,7 +79,7 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9000 (TAS); 6000 (NSW/QLD)",
+            "tuition": "9000 (TAS); 6500 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
@@ -91,7 +91,7 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9000 (TAS); 6000 (NSW/QLD)",
+            "tuition": "9000 (TAS); 6500 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
@@ -163,7 +163,7 @@
             "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17000 (TAS); 15000 (NSW/QLD)",
+            "tuition": "17000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until  30th June 2022"
