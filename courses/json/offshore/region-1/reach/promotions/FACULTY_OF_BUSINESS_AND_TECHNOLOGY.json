@@ -147,8 +147,8 @@
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
         },
         {
-            "vetCode": "BSB80120",
-            "cricosCode": "105392F",
+            "vetCode": "BSB80120 + ",
+            "cricosCode": "105392F + ",
             "department": "Business",
             "name": "ANY DIPLOMA OR ADVANCED DIPLOMA + Graduate Diploma of Management (Learning)",
             "duration": "104",
