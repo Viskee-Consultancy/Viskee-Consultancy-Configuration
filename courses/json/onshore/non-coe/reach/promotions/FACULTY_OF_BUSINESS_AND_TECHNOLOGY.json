@@ -1,34 +1,6 @@
 {
     "courses": [
         {
-            "vetCode": "ICT50220",
-            "cricosCode": "105388B",
-            "department": "Information Technology",
-            "name": "Diploma of Information Technology",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6,200",
-            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "7,000",
-            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
-        },
-        {
-            "vetCode": "RII50520",
-            "cricosCode": "106654C",
-            "department": "Building and Construction",
-            "name": "Diploma of Civil Construction Design",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "7,200",
-            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "8,000",
-            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
-        },
-        {
             "vetCode": "TLI50221",
             "cricosCode": "108118M",
             "department": "Business",
@@ -57,6 +29,20 @@
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
         },
         {
+            "vetCode": "ICT50220",
+            "cricosCode": "105388B",
+            "department": "Information Technology",
+            "name": "Diploma of Information Technology",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+        },
+        {
             "vetCode": "ICT60220",
             "cricosCode": "105389A",
             "department": "Information Technology",
@@ -67,6 +53,20 @@
             "tuitionDetail": "6,000 tuition fee + 200 handling fee",
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+        },
+        {
+            "vetCode": "RII50520",
+            "cricosCode": "106654C",
+            "department": "Building and Construction",
+            "name": "Diploma of Civil Construction Design",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
         },
