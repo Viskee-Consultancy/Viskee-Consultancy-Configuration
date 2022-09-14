@@ -134,6 +134,21 @@
             "placementFee": "1,000",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30th September 2022"
+        },
+        {
+            "vetCode": "CHC30121 / CHC50121 ",
+            "cricosCode": "110912M/110911A",
+            "department": "Packages",
+            "name": "Certiﬁcate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
+            "duration": "156",
+            "durationDetail": "132 wks tuition + 24 wks break",
+            "tuition": "21,700",
+            "tuitionDetail": "21,500 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
+            "placementDuration": "440",
+            "placementFee": "1,000",
+            "placementDetail": " ",
+            "promotionValidity": "Promotion valid until 30th September 2022"
         }
     ]
 }
