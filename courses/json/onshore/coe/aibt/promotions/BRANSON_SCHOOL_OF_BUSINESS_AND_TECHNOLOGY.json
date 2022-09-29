@@ -10,7 +10,7 @@
             "tuition": "6500 (TAS);4800(NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB60720",
@@ -22,7 +22,7 @@
             "tuition": "6500 (TAS);4800(NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB50420",
@@ -34,7 +34,7 @@
             "tuition": "6500 (TAS); 4800 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB60420",
@@ -46,7 +46,7 @@
             "tuition": "6500 (TAS); 4800 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "TLI50221",
@@ -58,7 +58,7 @@
             "tuition": "8500",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "TLI60119",
@@ -70,7 +70,7 @@
             "tuition": "8500",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB80120",
@@ -82,7 +82,7 @@
             "tuition": "9000 (TAS); 6500 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB80320",
@@ -94,7 +94,7 @@
             "tuition": "9000 (TAS); 6500 (NSW/QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "ICT50220",
@@ -103,10 +103,10 @@
             "name": "Diploma of Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8500",
+            "tuition": "8000 (QLD); 8500(NSW/TAS)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "ICT60220",
@@ -115,10 +115,10 @@
             "name": "Advanced Diploma of Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8500",
+            "tuition": "8000 (QLD); 8500(NSW/TAS)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -127,10 +127,10 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13000 (TAS); 9600 (NSW/QLD)",
+            "tuition": "13000 (NSW/TAS); 9600 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -139,10 +139,10 @@
             "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13000 (TAS); 9600 (NSW/QLD)",
+            "tuition": "13000 (NSW/TAS); 9600 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -151,10 +151,10 @@
             "name": "Diploma of Information Technology + Advanced Diploma of Information Technology",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16500",
+            "tuition": "16500 (NSW/TAS); 16000 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         },
         {
             "vetCode": "TLI50221/ TLI60119",
@@ -166,7 +166,7 @@
             "tuition": "17000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30th September 2022"
+            "promotionValidity": "Promotion valid until 31th December 2022"
         }
     ]
 }
