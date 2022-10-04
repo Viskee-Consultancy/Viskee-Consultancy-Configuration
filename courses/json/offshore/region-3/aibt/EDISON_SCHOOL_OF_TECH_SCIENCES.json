@@ -11,6 +11,7 @@
             "tuitionDetail": "22,200 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "locationDetail": "Currently not accepting enrolments",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -18,12 +19,13 @@
             "cricosCode": "103378J",
             "department": "Air-Conditioning",
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering",
-            "duration": "117",
-            "durationDetail": "93 wks Tuition + 24 wks Break",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "34,200",
             "tuitionDetail": "34,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "locationDetail": "Currently not accepting enrolments",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -36,6 +38,7 @@
             "tuition": "26,200",
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -48,6 +51,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -60,6 +64,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -72,6 +77,7 @@
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -84,6 +90,7 @@
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -96,6 +103,7 @@
             "tuition": "39,700",
             "tuitionDetail": "39,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         }
     ]
