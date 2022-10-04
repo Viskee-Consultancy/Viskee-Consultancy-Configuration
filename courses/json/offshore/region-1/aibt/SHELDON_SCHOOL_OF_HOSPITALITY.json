@@ -53,8 +53,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
         },
         {
-            "vetCode": "SIT30816",
-            "cricosCode": "093480J",
+            "vetCode": "SIT30821",
+            "cricosCode": "111040B",
             "department": "Cookery",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
@@ -66,10 +66,10 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
-            "vetCode": "SIT40516",
-            "cricosCode": "095244E",
+            "vetCode": "SIT40521",
+            "cricosCode": "111041A",
             "department": "Cookery",
-            "name": "Certificate IV in Commercial Cookery",
+            "name": "Certificate IV in Kitchen Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
@@ -79,36 +79,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
         },
         {
-            "vetCode": "SIT31116",
-            "cricosCode": "093487B",
-            "department": "Cookery",
-            "name": "Certificate III in Asian Cookery",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
-        },
-        {
-            "vetCode": "SIT40816",
-            "cricosCode": "093488A",
-            "department": "Cookery",
-            "name": "Certificate IV in Asian Cookery",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
-        },
-        {
-            "vetCode": "SIT31016",
-            "cricosCode": "093481G",
+            "vetCode": "SIT31021",
+            "cricosCode": "111044J",
             "department": "Patisserie and Baking",
             "name": "Certificate III in Patisserie",
             "duration": "52",
@@ -120,8 +92,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40716",
-            "cricosCode": "093479B",
+            "vetCode": "SIT40721",
+            "cricosCode": "111045H",
             "department": "Patisserie and Baking",
             "name": "Certificate IV in Patisserie",
             "duration": "104",
@@ -131,35 +103,6 @@
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "FBP30321",
-            "cricosCode": " 107371F",
-            "department": "Patisserie and Baking",
-            "name": "Certificate III in Cake and Pastry",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": " ",
-            "note": "Includes 4 shifts for the unit FBPRBK3013 - Schedule and produce cake and pastry production."
-        },
-        {
-            "vetCode": "FBP40221",
-            "cricosCode": " 107358C",
-            "department": "Patisserie and Baking",
-            "name": "Certificate IV in Baking",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": " ",
-            "note": " "
         },
         {
             "vetCode": "SIT50316",
@@ -201,8 +144,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
-            "vetCode": "SIT60116",
-            "cricosCode": "095246C",
+            "vetCode": "SIT60122",
+            "cricosCode": "111046G",
             "department": "Travel and Tourism",
             "name": "Advanced Diploma of Travel and Tourism Management",
             "duration": "78",
@@ -214,24 +157,10 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
-            "vetCode": "SIT31116/ SIT40816",
-            "cricosCode": "093487B/093488A",
+            "vetCode": "SIT30821/ SIT40521",
+            "cricosCode": "111040B/111041A",
             "department": "Packages",
-            "name": "Certificate III in Asian Cookery + Certificate IV in Asian Cookery",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "SIT30816/ SIT40516",
-            "cricosCode": "093480J/095244E",
-            "department": "Packages",
-            "name": "Certificate III in Commercial Cookery + Certificate IV in Commercial Cookery",
+            "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "20,200",
@@ -241,8 +170,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT31016/ SIT40716",
-            "cricosCode": "093481G/093479B",
+            "vetCode": "SIT31021/ SIT40721",
+            "cricosCode": "111044J/111045H",
             "department": "Packages",
             "name": "Certificate III in Patisserie + Certificate IV in Patisserie",
             "duration": "104",
@@ -254,8 +183,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT30816/ SIT50416",
-            "cricosCode": "093480J/091074F",
+            "vetCode": "SIT30821/ SIT50416",
+            "cricosCode": "111040B/091074F",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management",
             "duration": "104",
@@ -267,8 +196,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT30816/ SIT60316",
-            "cricosCode": "093480J/091132A",
+            "vetCode": "SIT30821/ SIT60316",
+            "cricosCode": "111040B/091132A",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -281,22 +210,21 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Duration can be fast tracked to be completed in 104 weeks. For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40816/ SIT60316",
-            "cricosCode": "093488A/091132A",
+            "vetCode": "SIT31021/ SIT60316",
+            "cricosCode": "111044J/091132A",
             "department": "Packages",
-            "name": "Certificate IV in Asian Cookery + Advanced Diploma of Hospitality Management",
+            "name": "Certificate III in Patisserie + Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "locationDetail": "Currently not accepting enrolments",
             "promotionValidity": " ",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40516/ SIT60316",
-            "cricosCode": "095244E/091132A",
+            "vetCode": "SIT40521/ SIT60316",
+            "cricosCode": "111041A/091132A",
             "department": "Packages",
             "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management ",
             "duration": "104",
@@ -308,8 +236,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40716/ SIT60316",
-            "cricosCode": "093479B/091132A",
+            "vetCode": "SIT40721/ SIT60316",
+            "cricosCode": "111045H/091132A",
             "department": "Packages",
             "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -334,8 +262,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT50116/ SIT60116",
-            "cricosCode": "095245D/095246C",
+            "vetCode": "SIT50116/ SIT60122",
+            "cricosCode": "095245D/111046G",
             "department": "Packages",
             "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
             "duration": "104",
