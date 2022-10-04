@@ -10,7 +10,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "AUR30320",
@@ -22,7 +22,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "AUR30620",
@@ -34,7 +34,7 @@
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
@@ -46,7 +46,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -59,7 +59,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         }
     ]
