@@ -101,8 +101,8 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS40217 ",
-            "cricosCode": "105390H",
+            "vetCode": "FNS40222 ",
+            "cricosCode": "110024K",
             "department": "Business",
             "name": "Certificate IV in Accounting and Bookkeeping",
             "duration": "52",
@@ -224,8 +224,8 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS40217/FNS50217",
-            "cricosCode": "105390H/105606H",
+            "vetCode": "FNS40222/FNS50217",
+            "cricosCode": "110024K/105606H",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
             "duration": "104",
@@ -235,8 +235,8 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS40217/FNS50217/FNS60217",
-            "cricosCode": "105390H/105606H/105607G",
+            "vetCode": "FNS40222/FNS50217/FNS60217",
+            "cricosCode": "110024K/105606H/105607G",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "156",
