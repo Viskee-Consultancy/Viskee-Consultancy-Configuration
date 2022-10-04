@@ -10,7 +10,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "BSB60420",
@@ -22,7 +22,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "BSB60120",
@@ -34,7 +34,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "BSB80120",
@@ -46,7 +46,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "ICT40120",
@@ -58,7 +58,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "ICT50220",
@@ -70,7 +70,7 @@
             "tuition": "11,700",
             "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "ICT60220",
@@ -82,7 +82,7 @@
             "tuition": "11,700",
             "tuitionDetail": "11,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "RII50520",
@@ -94,7 +94,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "RII60520",
@@ -106,7 +106,7 @@
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -118,11 +118,11 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
-            "vetCode": "FNS40217/FNS50217",
-            "cricosCode": "104695K/104696J",
+            "vetCode": "FNS40222/FNS50217",
+            "cricosCode": "110024K/104696J",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
             "duration": "104",
@@ -131,11 +131,11 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
-            "vetCode": "FNS40217/FNS50217/FNS60217",
-            "cricosCode": "104695K/104696J/104697H",
+            "vetCode": "FNS40222/FNS50217/FNS60217",
+            "cricosCode": "110024K/104696J/104697H",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "156",
@@ -144,7 +144,7 @@
             "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "BSB80120 + ",
@@ -156,7 +156,19 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
+        },
+        {
+            "vetCode": " / ",
+            "cricosCode": " / ",
+            "department": "Business",
+            "name": "ANY DIPLOMA + ADVANCED DIPLOMA",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "RII50520/RII60520",
@@ -165,10 +177,10 @@
             "name": "Diploma of Civil Construction Design + Advanced Diploma of Civil Construction Design",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "27,200",
-            "tuitionDetail": "27,000 tuition fee + 200 handling fee",
+            "tuition": "25,200",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022",
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -181,7 +193,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -193,7 +205,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST SEPTEMBER 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         }
     ]
 }
