@@ -12,7 +12,7 @@
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022"
         },
         {
             "cricosCode": "105608F",
@@ -22,8 +22,8 @@
             "tuition": "Free",
             "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
             "location": "NSW/TAS",
-            "promotionValidity": "PROMOTIONS VALID UNTIL 30ST JUNE 2022",
-            "undefined": "PROMOTIONS VALID UNTIL 30ST JUNE 2022"
+            "promotionValidity": "PROMOTIONS VALID UNTIL 31ST DECEMBER 2022",
+            "undefined": " "
         }
     ]
 }
