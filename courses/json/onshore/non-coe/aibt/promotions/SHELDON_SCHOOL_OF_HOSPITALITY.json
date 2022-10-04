@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "SIT30816",
-            "cricosCode": "093480J",
+            "vetCode": "SIT30821",
+            "cricosCode": "111040B",
             "department": "Cookery",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
@@ -13,7 +13,7 @@
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST December 2022",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT40521",
@@ -28,7 +28,7 @@
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST December 2022",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Students will be required to do additional training in order to complete a fast track intensive course.Includes 48 complete food service periods for unit SITHCCC020-Work effectively as a cook"
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT31021",
@@ -43,7 +43,7 @@
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST December 2022",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For complete service periods (shifts) information, please visit the course outline on our website."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT40721",
@@ -58,7 +58,7 @@
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST December 2022",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Students will be required to do additional training in order to complete a fast track intensive course.For complete service periods (shifts) information, please visit the course outline on our website."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT50416",
@@ -103,7 +103,7 @@
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "TAS",
             "promotionValidity": "PROMOTIONS VALID UNTIL 31ST December 2022",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management.(Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices) "
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         }
     ]
 }
