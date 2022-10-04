@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "FNS40217",
-            "cricosCode": "104695K",
+            "vetCode": "FNS40222",
+            "cricosCode": "111047F",
             "department": "Accounting",
             "name": "Certificate IV in Accounting and Bookkeeping",
             "duration": "52",
@@ -186,8 +186,8 @@
             "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
         {
-            "vetCode": "FNS40217/FNS50217",
-            "cricosCode": "104695K/104696J",
+            "vetCode": "FNS40222/FNS50217",
+            "cricosCode": "111047F/104696J",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
             "duration": "104",
@@ -197,8 +197,8 @@
             "location": "NSW/QLD/TAS"
         },
         {
-            "vetCode": "FNS40217/FNS50217/FNS60217",
-            "cricosCode": "104695K/104696J/104697H",
+            "vetCode": "FNS40222/FNS50217/FNS60217",
+            "cricosCode": "111047F/104696J/104697H",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "156",
