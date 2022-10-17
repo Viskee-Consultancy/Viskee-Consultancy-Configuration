@@ -1,5 +1,31 @@
 {
     "courses": [
+         {
+            "vetCode": "BSB50420",
+            "cricosCode": "104262B",
+            "department": "Management",
+            "name": "Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th December 2022 ",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "Management",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until  31th December 2022 ",
+            "note": "Monthly Intake Available"
+        },
         {
             "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
