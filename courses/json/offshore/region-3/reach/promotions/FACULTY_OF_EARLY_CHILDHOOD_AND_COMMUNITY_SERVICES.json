@@ -12,7 +12,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC62015",
@@ -24,7 +24,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC43115/CHC52015",
@@ -38,7 +38,7 @@
             "location": "NSW/TAS",
             "placementDuration": "220",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC52015/CHC62015",
@@ -52,7 +52,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC33015/CHC43115/CHC52015",
@@ -66,7 +66,7 @@
             "location": "NSW/TAS",
             "placementDuration": "220",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC52015/BSB80120",
@@ -80,7 +80,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
             "vetCode": "CHC52015/BSB60420",
@@ -94,7 +94,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2022"
+            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         }
     ]
 }
