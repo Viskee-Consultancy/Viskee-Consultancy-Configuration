@@ -1,3 +1,76 @@
 {
-  "courses": []
+  "courses": [
+      {
+          "vetCode": "AHC30716",
+          "cricosCode": "110597F",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "CERTIFICATE III IN HORTICULTURE",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      },
+      {
+          "vetCode": "AHC40416",
+          "cricosCode": "110598E",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "CERTIFICATE IV IN HORTICULTURE",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      },
+      {
+          "vetCode": "AHC51422",
+          "cricosCode": "110774E",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "DIPLOMA OF AGRIBUSINESS MANAGEMENT",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      },
+      {
+          "vetCode": "AHC30716 / AHC40416",
+          "cricosCode": "110597F / 110598E",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "CERTIFICATE III IN HORTICULTURE +\r\nCERTIFICATE IV IN HORTICULTURE",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "16,700",
+          "tuitionDetail": "16,500 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      },
+      {
+          "vetCode": "AHC30716 / AHC51422",
+          "cricosCode": "110597F / 110774E",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "CERTIFICATE III IN HORTICULTURE +\r\nDIPLOMA OF AGRIBUSINESS MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      },
+      {
+          "vetCode": "AHC40416 / AHC51422",
+          "cricosCode": "110598E / 110774E",
+          "department": "FACULTY OF TECH SCIENCES",
+          "name": "CERTIFICATE IV IN HORTICULTURE +\r\nDIPLOMA OF AGRIBUSINESS MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "Promotions valid from 1st September 2022 to 31st December 2022"
+      }
+  ]
 }
