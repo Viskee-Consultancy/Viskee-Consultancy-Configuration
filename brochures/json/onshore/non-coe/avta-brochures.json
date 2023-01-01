@@ -1,4 +1,12 @@
 {
-    "brochures": [
-    ]
-  }
+  "brochures": [
+    {
+      "name": "AVTA Course Fees VOL 1.0.pdf",
+      "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/avta/AVTA_Course_Fees_VOL1.0.pdf"
+    },
+    {
+      "name": "AVTA Onshore Promotion VOL 1.0.pdf",
+      "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/avta/avta-onshore-promotion-vol1.0.pdf"
+    }
+  ]
+}
