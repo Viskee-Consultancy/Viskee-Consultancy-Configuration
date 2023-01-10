@@ -1,3 +1,52 @@
 {
-  "courses": []
+  "courses": [
+      {
+          "vetCode": "RII50520",
+          "cricosCode": "111827M",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "10,200",
+          "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+      },
+      {
+          "vetCode": "RII60520",
+          "cricosCode": "111826A",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+      },
+      {
+          "vetCode": "ICT60220",
+          "cricosCode": "111825B",
+          "department": "INFORMATION TECHNOLOGY",
+          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY (Telecommunications Network Engineering)",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "16,200",
+          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+      },
+      {
+          "vetCode": "RII50520/RII60520",
+          "cricosCode": "111827M/111826A",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+          "location": "TAS",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+      }
+  ]
 }

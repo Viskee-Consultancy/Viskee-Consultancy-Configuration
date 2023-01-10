@@ -1,3 +1,48 @@
 {
-  "courses": []
+  "courses": [
+      {
+          "vetCode": "RII50520",
+          "cricosCode": "111827M",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "19,200",
+          "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+          "location": "TAS"
+      },
+      {
+          "vetCode": "RII60520",
+          "cricosCode": "111826A",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "29,200",
+          "tuitionDetail": "29,000 tuition fee + 200 handling fee",
+          "location": "TAS"
+      },
+      {
+          "vetCode": "ICT60220",
+          "cricosCode": "111825B",
+          "department": "INFORMATION TECHNOLOGY",
+          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY  (TELECOMMUNICATIONS NETWORK ENGINEERING) ",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "14,200",
+          "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+          "location": "TAS"
+      },
+      {
+          "vetCode": "RII50520/RII60520",
+          "cricosCode": "111827M/111826A",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "29,200",
+          "tuitionDetail": "29,000 tuition fee + 200 handling fee",
+          "location": "TAS"
+      }
+  ]
 }
