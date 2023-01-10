@@ -1,12 +1,12 @@
 {
     "brochures": [
         {
-            "name": "REACH Course Fees Brochure 2022",
-            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach%20Tuition%20Course%20Fees%202022_VOL2.5.pdf"
+            "name": "REACH Course Fees Brochure 2023",
+            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach%20Tuition%20Course%20Fees%202023%20VOL1.0.pdf"
         },
         {
-            "name": "REACH ONSHORE Q4 Promotions 2022.pdf",
-            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach%20NonCoE_CoE%20Q4%20Promotions%201OCT-31DEC22_VOL%201.3.pdf"
+            "name": "REACH ONSHORE Q4 Promotions-Extended.pdf",
+            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/coe/reach/Reach%20NonCoE_CoE%20Q4%20Promotions%20Extended%20VOL1.4.pdf"
         }
     ]
 }
