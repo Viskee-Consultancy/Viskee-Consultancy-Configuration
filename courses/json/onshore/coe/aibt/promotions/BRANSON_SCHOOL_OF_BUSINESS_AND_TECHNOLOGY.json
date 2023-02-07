@@ -61,10 +61,10 @@
             "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
-            "vetCode": "TLI60119",
-            "cricosCode": "102524A",
+            "vetCode": "TLI60222",
+            "cricosCode": "111987F",
             "department": "Logistics",
-            "name": "Advanced Diploma of Deployment Logistics",
+            "name": "Advanced Diploma of Supply Chain Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "8500",
@@ -157,10 +157,10 @@
             "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
-            "vetCode": "TLI50221/ TLI60119",
-            "cricosCode": "108116B/102524A",
+            "vetCode": "TLI50221/ TLI60222",
+            "cricosCode": "108116B/111987F",
             "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
+            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "17000",
