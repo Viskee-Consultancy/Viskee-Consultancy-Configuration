@@ -56,10 +56,10 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "TLI60119",
-            "cricosCode": "106652E",
+            "vetCode": "TLI60222",
+            "cricosCode": "111988E",
             "department": "Business",
-            "name": "Advanced Diploma of Deployment Logistics",
+            "name": "Advanced Diploma of Supply Chain Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,700",
@@ -151,10 +151,10 @@
             "cricosCode": "105389A",
             "department": "Information Technology",
             "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS"
         },
         {
@@ -213,10 +213,10 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "TLI50221/TLI60119",
-            "cricosCode": "108118M/106652E",
+            "vetCode": "TLI50221/TLI60222",
+            "cricosCode": "108118M/111988E",
             "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Deployment Logistics",
+            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
