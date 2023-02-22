@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "vetCode": "SIT50422",
+      "cricosCode": " 112316D",
+      "department": "HOSPITALITY",
+      "name": "Diploma of Hospitality Management",
+      "duration": 52,
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": 7700,
+      "tuitionDetail": "7,500 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
+      "vetCode": "SIT60322",
+      "cricosCode": "112317C",
+      "department": "HOSPITALITY",
+      "name": "Advanced Diploma of Hospitality Management",
+      "duration": 104,
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": 16200,
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
+      "vetCode": " SIT40521/SIT60322",
+      "cricosCode": " 112264M/112317C",
+      "department": "PACKAGES",
+      "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
+      "duration": 104,
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": 16200,
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
+      "vetCode": " SIT50422/SIT60322",
+      "cricosCode": " 112316D/112317C",
+      "department": "PACKAGES",
+      "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
+      "duration": 104,
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": 15200,
+      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    }
+  ]
+}

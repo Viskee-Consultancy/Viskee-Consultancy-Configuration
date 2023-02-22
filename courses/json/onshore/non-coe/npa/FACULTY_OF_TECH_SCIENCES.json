@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "vetCode": "AUR30620",
+      "cricosCode": "112261C",
+      "department": "AUTOMOTIVE",
+      "name": "Certificate III in Light Vehicle Mechanical Technology",
+      "duration": 52,
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": 15200,
+      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " "
+    },
+    {
+      "vetCode": "AUR40216",
+      "cricosCode": "112262B",
+      "department": "AUTOMOTIVE",
+      "name": "Certificate IV in Automotive Mechanical Diagnosis",
+      "duration": 39,
+      "durationDetail": "33 wks Tuition + 6 wks Break",
+      "tuition": 13200,
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " "
+    },
+    {
+      "vetCode": "AUR50116",
+      "cricosCode": "112263A",
+      "department": "AUTOMOTIVE",
+      "name": "Diploma of Automotive Management",
+      "duration": 52,
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": 13200,
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " "
+    },
+    {
+      "vetCode": "AUR30620/ AUR40216",
+      "cricosCode": "112261C/112262B",
+      "department": "PACKAGES",
+      "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
+      "duration": 104,
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": 28200,
+      "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " "
+    },
+    {
+      "vetCode": "AUR30620/ AUR40216/AUR50116",
+      "cricosCode": "112261C/112262B/112263A",
+      "department": "PACKAGES",
+      "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
+      "duration": 104,
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": 32200,
+      "tuitionDetail": "32,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " "
+    }
+  ]
+}
