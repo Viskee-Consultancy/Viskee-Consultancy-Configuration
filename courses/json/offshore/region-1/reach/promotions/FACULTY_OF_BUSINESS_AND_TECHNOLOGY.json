@@ -9,8 +9,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "BSB60420",
@@ -21,8 +21,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "BSB60120",
@@ -34,7 +34,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "BSB80120",
@@ -45,8 +45,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "ICT40120",
@@ -58,7 +58,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "ICT50220",
@@ -69,8 +69,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,700",
             "tuitionDetail": "11,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "ICT60220",
@@ -81,8 +81,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "RII50520",
@@ -93,8 +93,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "RII60520",
@@ -105,8 +105,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -117,8 +117,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "FNS40222/FNS50217",
@@ -131,7 +131,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "FNS40222/FNS50217/FNS60217",
@@ -144,7 +144,7 @@
             "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "BSB80120 + ",
@@ -156,7 +156,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": " / ",
@@ -168,7 +168,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "RII50520/RII60520",
@@ -179,8 +179,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -193,7 +193,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -204,8 +204,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30TH June 2023"
         }
     ]
 }
