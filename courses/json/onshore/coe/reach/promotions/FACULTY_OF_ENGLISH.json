@@ -11,7 +11,7 @@
             "tuition": "185/week;For every 10 weeks ELICOS purchased receive an additional 10 weeks FREE",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
-            "location": "NSW/TAS",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         },
         {
@@ -22,7 +22,7 @@
             "duration": " ",
             "tuition": "First 10 weeks Free",
             "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
-            "location": "NSW/QLD/TAS",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
         }
     ]
