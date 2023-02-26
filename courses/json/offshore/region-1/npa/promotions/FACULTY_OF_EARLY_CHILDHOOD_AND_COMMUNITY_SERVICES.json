@@ -5,13 +5,13 @@
       "cricosCode": "112312H",
       "department": "EARLY CHILDHOOD",
       "name": "Certificate III in Early Childhood Education and Care",
-      "duration": 52,
+      "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": 8700,
+      "tuition": "8,700",
       "tuitionDetail": "8,500 tuition fee + 200 handling fee",
       "location": "NSW",
-      "placementDuration": 160,
-      "placementFee": 500,
+      "placementDuration": "160",
+      "placementFee": "500",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
@@ -19,13 +19,13 @@
       "cricosCode": "112313G",
       "department": "EARLY CHILDHOOD",
       "name": "Diploma of Early Childhood Education and Care",
-      "duration": 52,
+      "duration": "52",
       "durationDetail": "49 wks Tuition + 3 wks Break",
-      "tuition": 8700,
+      "tuition": "8,700",
       "tuitionDetail": "8,500 tuition fee + 200 handling fee",
       "location": "NSW",
-      "placementDuration": 280,
-      "placementFee": 500,
+      "placementDuration": "280",
+      "placementFee": "500",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
@@ -33,13 +33,13 @@
       "cricosCode": "112312H/112313G",
       "department": "PACKAGES",
       "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
-      "duration": 104,
+      "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": 17200,
+      "tuition": "17,200",
       "tuitionDetail": "17,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "placementDuration": 440,
-      "placementFee": 1000,
+      "placementDuration": "440",
+      "placementFee": "1000",
       "promotionValidity": "Promotion valid until 30th June 2023"
     }
   ]
