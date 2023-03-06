@@ -73,6 +73,18 @@
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
+      "vetCode": " + BSB80120",
+      "cricosCode": " + 112269F",
+      "department": "PACKAGES",
+      "name": "ANY DIPLOMA OR ADVANCED DIPLOMA + Graduate Diploma of Strategic Leadership",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "18,200",
+      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
       "vetCode": "ICT40120",
       "cricosCode": " 112265K",
       "department": " INFORMATION TECHNOLOGY",
@@ -93,18 +105,6 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "11,700",
       "tuitionDetail": "11,500 tuition fee + 200 handling fee",
-      "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
-    },
-    {
-      "vetCode": "ICT60220",
-      "cricosCode": " 112267H",
-      "department": " INFORMATION TECHNOLOGY",
-      "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "18,200",
-      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
