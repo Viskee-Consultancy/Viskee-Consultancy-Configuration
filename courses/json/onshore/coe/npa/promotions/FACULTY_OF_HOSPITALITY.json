@@ -1,6 +1,18 @@
 {
   "courses": [
     {
+      "vetCode": "SIT40521",
+      "cricosCode": " 112264M",
+      "department": "HOSPITALITY",
+      "name": "Certificate IV in Kitchen Management (Fast track intensive course)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "9,200",
+      "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+     {
       "vetCode": "SIT50422",
       "cricosCode": " 112316D",
       "department": "HOSPITALITY",
