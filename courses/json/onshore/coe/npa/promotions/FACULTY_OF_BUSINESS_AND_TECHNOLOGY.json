@@ -7,8 +7,8 @@
       "name": "Diploma of Project Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "6,200",
-      "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+      "tuition": "5,200",
+      "tuitionDetail": "5,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
@@ -19,8 +19,8 @@
       "name": "Advanced Diploma of Leadership and Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "6,200",
-      "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+      "tuition": "5,200",
+      "tuitionDetail": "5,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
@@ -31,8 +31,8 @@
       "name": "Advanced Diploma of Program Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "6,200",
-      "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+      "tuition": "5,200",
+      "tuitionDetail": "5,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
@@ -49,14 +49,50 @@
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
+      "vetCode": "ICT50220",
+      "cricosCode": " 112266J",
+      "department": "BUSINESS",
+      "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "8,200",
+      "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
+      "vetCode": "ICT50220/ICT60220",
+      "cricosCode": " 112266J/112267H",
+      "department": "PACKAGES",
+      "name": "Diploma of Information Technology (Telecommunications Network Engineering) + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "16,200",
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
       "vetCode": "BSB50820/BSB60420",
       "cricosCode": " 112259H/112260D",
       "department": "PACKAGES",
       "name": "Diploma of Project Management + Advanced Diploma of Leadership and Management",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "12,200",
-      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "tuition": "10,200",
+      "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
+      "vetCode": "BSB50820/BSB60720",
+      "cricosCode": " 112259H/112268G",
+      "department": "PACKAGES",
+      "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "10,200",
+      "tuitionDetail": "10,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": "Promotion valid until 30th June 2023"
     }
