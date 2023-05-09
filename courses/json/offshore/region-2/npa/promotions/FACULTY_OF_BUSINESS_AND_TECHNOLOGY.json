@@ -25,6 +25,18 @@
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
+      "vetCode": "BSB50820/BSB60720",
+      "cricosCode": " 112259H/112268G",
+      "department": "PACKAGES",
+      "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "16,200",
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2023"
+    },
+    {
       "vetCode": "BSB60420/BSB80120 ",
       "cricosCode": " 112260D/112269F",
       "department": "PACKAGES",
