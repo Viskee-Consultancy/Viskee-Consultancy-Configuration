@@ -2,11 +2,11 @@
   "brochures": [
       {
           "name": "AIBT Courses Fees 2023.pdf",
-          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/blob/master/brochures/pdf/onshore/non-coe/aibt/AIBT_Courses_Fees_2023_VOL1.3.1.pdf"
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/aibt/AIBT_Courses_Fees_2023_VOL1.3.1.pdf"
       },
       {
           "name": "AIBT SUMMER Onshore Promotion.pdf",
-          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/blob/master/brochures/pdf/onshore/non-coe/aibt/AIBT_NonCoE_CoE_Summer_Promotions_VOL2.1.1.pdf"
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/onshore/non-coe/aibt/AIBT_NonCoE_CoE_Summer_Promotions_VOL2.1.1.pdf"
       }
   ]
 }
