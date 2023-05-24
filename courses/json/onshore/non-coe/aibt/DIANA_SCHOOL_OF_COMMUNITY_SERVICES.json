@@ -12,6 +12,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -26,6 +27,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -40,6 +42,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -54,6 +57,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -68,6 +72,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -76,7 +81,7 @@
             "department": "Ageing Support",
             "name": "Certificate IV in Ageing Support",
             "duration": "52",
-            "durationDetail": "42 wks Tuition + 10 wks Break",
+            "durationDetail": "42 wks Tuition + 10 wks Break (Placement will only commence after the 35th week)",
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
@@ -95,6 +100,7 @@
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "100",
+             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "500"
         },
         {
