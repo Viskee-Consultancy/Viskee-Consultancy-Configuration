@@ -6,6 +6,8 @@
           "name": "General English (Beginner to Upper Intermediate)",
           "tuition": "200/ Wk",
           "tuitionDetail": "total tuition + 200 handling fee",
+          "duration": "12",
+          "durationDetail": "Minimum 12 weeks (10 wks Tuition + 2 wks Break)",
           "location": "NSW/QLD/TAS"
       }
   ]
