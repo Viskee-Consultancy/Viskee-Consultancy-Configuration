@@ -7,6 +7,8 @@
           "tuition": "200/ Wk",
           "tuitionDetail": "total tuition + 200 handling fee",
           "location": "NSW/QLD/TAS",
+          "duration": "12",
+          "durationDetail": "Minimum 12 weeks (10 wks Tuition + 2 wks Break)",
           "promotionValidity": "Promotion valid until  31th Dec 2021"
       }
   ]
