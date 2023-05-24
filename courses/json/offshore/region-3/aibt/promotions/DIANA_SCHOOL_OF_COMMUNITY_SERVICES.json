@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": "CHC52015",
+            "vetCode": "CHC52015#",
             "cricosCode": "093815B",
             "department": "Community Services",
             "name": "Diploma of Community Services",
@@ -13,10 +13,10 @@
             "placementDuration": "100",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 30th June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Monthly Intake Available"
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Monthly Intake Available"
         },
         {
-            "vetCode": "CHC33015/CHC43015/CHC52015",
+            "vetCode": "CHC33015#/CHC43015/CHC52015#",
             "cricosCode": "090851M/090852K/093815B",
             "department": "Packages",
             "name": "Certificate III In Individual Support (Ageing) + Certificate IV In Ageing Support + Diploma of Community Services",
@@ -28,7 +28,7 @@
             "placementDuration": "220",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 30th June 2023",
-            "note": "Monthly Intake Available"
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure. Monthly Intake Available"
         }
     ]
 }
