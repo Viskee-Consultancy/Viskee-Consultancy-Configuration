@@ -40,30 +40,17 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "FNS40222/FNS50217",
-            "cricosCode": "111047F/104696J",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
+             "vetCode": "ICT60220",
+            "cricosCode": "107122A",
+            "department": "Information Technology",
+            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Monthly Intake Available.",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "FNS40222/FNS50217/FNS60217",
-            "cricosCode": "111047F/104696J/104697H",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "28,200",
-            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Monthly Intake Available.",
-            "location": "NSW/QLD/TAS"
+            "note": "Monthly Intake Available"
         },
         {
             "vetCode": "ICT40120/ICT50220",
