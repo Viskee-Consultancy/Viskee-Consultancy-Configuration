@@ -27,19 +27,6 @@
             "note": "Monthly Intake Available"
         },
         {
-            "vetCode": "BSB50820/ BSB60720",
-            "cricosCode": "104063J/104452G",
-            "department": "Packages",
-            "name": "Diploma of Project Management + Advanced Diploma of Program Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "Monthly Intake Available"
-        },
-        {
              "vetCode": "ICT60220",
             "cricosCode": "107122A",
             "department": "Information Technology",
@@ -48,6 +35,19 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "BSB50820/ BSB60720",
+            "cricosCode": "104063J/104452G",
+            "department": "Packages",
+            "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
             "note": "Monthly Intake Available"
