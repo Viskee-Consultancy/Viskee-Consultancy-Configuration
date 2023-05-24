@@ -31,10 +31,10 @@
             "cricosCode": "091074F",
             "department": "Hospitality",
             "name": "Diploma of Hospitality Management",
-            "duration": "78",
-            "durationDetail": "68 wks Tuition + 10 wks Break",
-            "tuition": "14,700",
-            "tuitionDetail": "10,450 tuition fee + 200 handling fee",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
@@ -63,7 +63,7 @@
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT40521",
@@ -76,12 +76,12 @@
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT31021",
             "cricosCode": "111044J",
-            "department": "Patisserie and Baking",
+            "department": "Patisserie",
             "name": "Certificate III in Patisserie",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
@@ -89,12 +89,12 @@
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
         {
             "vetCode": "SIT40721",
             "cricosCode": "111045H",
-            "department": "Patisserie and Baking",
+            "department": "Patisserie",
             "name": "Certificate IV in Patisserie",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
@@ -102,7 +102,7 @@
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
         {
             "vetCode": "SIT50316",
@@ -154,7 +154,7 @@
             "tuitionDetail": "10,450 tuition fee + 200 handling fee",
             "location": "QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT30821/ SIT40521",
@@ -167,7 +167,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT31021/ SIT40721",
@@ -180,7 +180,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
             "vetCode": "SIT30821/ SIT50416",
