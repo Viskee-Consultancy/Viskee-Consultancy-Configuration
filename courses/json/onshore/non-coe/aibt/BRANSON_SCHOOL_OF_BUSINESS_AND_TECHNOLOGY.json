@@ -24,7 +24,7 @@
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "FNS60217",
@@ -36,7 +36,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "ICT40120",
@@ -179,7 +179,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "FNS40222/FNS50217/FNS60217",
@@ -191,7 +191,7 @@
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "note": "Those qualifications have been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "ICT40120/ICT50220",
