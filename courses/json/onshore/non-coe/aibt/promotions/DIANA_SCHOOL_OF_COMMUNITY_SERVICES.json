@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": "CHC33015",
+            "vetCode": "CHC33015#",
             "cricosCode": "090851M",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
@@ -14,11 +14,12 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": "CHC33015",
+            "vetCode": "CHC33015#",
             "cricosCode": "090851M",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability)",
@@ -31,11 +32,12 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": "CHC33015",
+            "vetCode": "CHC33015#",
             "cricosCode": "090851M",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Disability)",
@@ -48,6 +50,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
@@ -69,7 +72,7 @@
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": "CHC52015",
+            "vetCode": "CHC52015#",
             "cricosCode": "093815B",
             "department": "Community Services",
             "name": "Diploma of Community Services",
@@ -82,6 +85,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "100",
             "placementFee": "500 ( must be paid in 1st Instalment)",
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
