@@ -10,6 +10,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
@@ -22,6 +23,7 @@
       "tuition": "9,700",
       "tuitionDetail": "9,500 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
@@ -34,6 +36,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "These qualifications may require service periods / complete food service periods / complete service periods (shifts).  Please visit the individual course outlines on our website.",
       "promotionValidity": "Promotion valid until 30th June 2023"
     },
     {
@@ -46,6 +49,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "These qualifications may require service periods / complete food service periods / complete service periods (shifts).  Please visit the individual course outlines on our website.",
       "promotionValidity": "Promotion valid until 30th June 2023"
     }
   ]
