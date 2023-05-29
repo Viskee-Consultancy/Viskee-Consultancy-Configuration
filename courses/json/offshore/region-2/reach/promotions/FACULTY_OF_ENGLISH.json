@@ -8,10 +8,10 @@
             "durationMin": "12",
             "durationMax": "60 weeks",
             "durationDetail": "Minimum 12 weeks(10 wks Tuition + 2 wks Break) ",
-            "tuition": "185/week;For every 10 weeks ELICOS purchased receive an additional 10 weeks FREE",
+            "tuition": "185/week",
             "tuitionHalf": " ",
-            "tuitionHalfDetail": " ",
-            "location": "NSW/TAS",
+            "tuitionDetail": "Students will receive the first 12 weeks (10 weeks Tuition + 2 weeks Break) of General English FREE.If the duration of General English within the package is greater than 12 weeks (10 weeks Tuition + 2 weeks Break), the remaining duration of General English will be $185 per week. ",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         }
     ]
