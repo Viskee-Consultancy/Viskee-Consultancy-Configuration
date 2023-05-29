@@ -1,21 +1,22 @@
 {
     "courses": [
         {
-            "vetCode": " CHC52015",
+            "vetCode": "CHC52015#",
             "cricosCode": "106059M",
             "department": "Community Services",
             "name": " Diploma of Community Services",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
             "tuition": "8,200",
             "tuitionDetail": "8,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC33015",
+            "vetCode": " CHC33015#",
             "cricosCode": "108802B",
             "department": "Individual Support",
             "name": " Certificate III in Individual Support (Disability)",
@@ -26,10 +27,11 @@
             "location": "NSW/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC43115",
+            "vetCode": " CHC43115#",
             "cricosCode": "108800D",
             "department": "Individual Support",
             "name": "Certificate IV in Disability",
@@ -40,6 +42,7 @@
             "location": "NSW/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
@@ -57,7 +60,7 @@
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC33015/CHC43115",
+            "vetCode": " CHC33015#/CHC43115#",
             "cricosCode": "108802B/108800D",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability",
@@ -68,10 +71,11 @@
             "location": "NSW/TAS",
             "placementDuration": "120",
             "placementFee": "500",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC33015/CHC52015",
+            "vetCode": " CHC33015#/CHC52015#",
             "cricosCode": "108802B/106059M",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Disability) + Diploma of Community Services",
@@ -82,10 +86,11 @@
             "location": "NSW/TAS",
             "placementDuration": "220",
             "placementFee": "1000",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC43115/CHC52015",
+            "vetCode": " CHC43115#/CHC52015#",
             "cricosCode": "108800D/106059M",
             "department": "Packages",
             "name": "Certificate IV in Disability + Diploma of Community Services",
@@ -96,10 +101,11 @@
             "location": "NSW/TAS",
             "placementDuration": "220",
             "placementFee": "1000",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
-            "vetCode": " CHC52015/CHC62015",
+            "vetCode": " CHC52015#/CHC62015",
             "cricosCode": "106059M/108799C",
             "department": "Packages",
             "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
@@ -110,6 +116,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
+             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         }
     ]
