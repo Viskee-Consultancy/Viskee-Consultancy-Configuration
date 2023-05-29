@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": "SIT60316 ",
+            "vetCode": "SIT60316#",
             "cricosCode": "105424C",
             "department": "Hospitality",
             "name": "Advanced Diploma of Hospitality Management ",
@@ -11,10 +11,10 @@
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 12 complete service periods (shifts) for unit SITHKOP005-Coordinate cooking operations."
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 12 complete service periods (shifts) for unit SITHKOP005-Coordinate cooking operations."
         },
         {
-            "vetCode": "SIT30821/SIT40521/SIT50416",
+            "vetCode": "SIT30821/SIT40521/SIT50416#",
             "cricosCode": "109904K/109596F/105423D",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
@@ -24,10 +24,10 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40521/SIT60316",
+            "vetCode": "SIT40521/SIT60316#",
             "cricosCode": "109596F/105424C",
             "department": "Packages",
             "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
@@ -37,10 +37,10 @@
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT50416/SIT60316",
+            "vetCode": "SIT50416#/SIT60316#",
             "cricosCode": "105423D/105424C",
             "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
@@ -50,7 +50,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         }
     ]
 }
