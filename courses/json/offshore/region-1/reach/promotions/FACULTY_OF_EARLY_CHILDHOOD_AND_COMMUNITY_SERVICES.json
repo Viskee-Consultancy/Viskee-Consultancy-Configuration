@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": " CHC52015",
+            "vetCode": " CHC52015#",
             "cricosCode": "106059M",
             "department": "Community Services",
             "name": " Diploma of Community Services",
@@ -12,6 +12,7 @@
             "location": "NSW/TAS",
             "placementDuration": "100",
             "placementFee": "500",
+            
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
         {
