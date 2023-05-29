@@ -10,6 +10,7 @@
       "tuition": "18,200",
       "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW",
+       "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook",
       "promotionValidity": " "
     },
     {
@@ -22,6 +23,7 @@
       "tuition": "13,200",
       "tuitionDetail": "13,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
       "promotionValidity": " "
     },
     {
@@ -31,9 +33,10 @@
       "name": "Advanced Diploma of Hospitality Management",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "17,200",
+      "tuition": "17,20",
       "tuitionDetail": "17,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
       "promotionValidity": " "
     },
     {
@@ -46,6 +49,7 @@
       "tuition": "20,200",
       "tuitionDetail": "20,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "hese qualifications may require service periods / complete food service periods / complete service periods (shifts).  Please visit the individual course outlines on our website.",
       "promotionValidity": " "
     },
     {
@@ -58,6 +62,7 @@
       "tuition": "20,200",
       "tuitionDetail": "20,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "hese qualifications may require service periods / complete food service periods / complete service periods (shifts).  Please visit the individual course outlines on our website.",
       "promotionValidity": " "
     }
   ]
