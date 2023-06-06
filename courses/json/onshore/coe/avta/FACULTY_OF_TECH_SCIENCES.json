@@ -1,7 +1,7 @@
 {
     "courses": [
         {
-            "vetCode": "AHC30716",
+            "vetCode": "#AHC30716",
             "cricosCode": "110597F",
             "department": "HORTICULTURE",
             "name": "CERTIFICATE III IN HORTICULTURE",
@@ -12,7 +12,7 @@
             "location": "TAS"
         },
         {
-            "vetCode": "AHC40416",
+            "vetCode": "#AHC40416",
             "cricosCode": "110598E",
             "department": "HORTICULTURE",
             "name": "CERTIFICATE IV IN HORTICULTURE",
@@ -34,7 +34,7 @@
             "location": "TAS"
         },
         {
-            "vetCode": "AHC30716 / AHC40416",
+            "vetCode": "#AHC30716 / #AHC40416",
             "cricosCode": "110597F / 110598E",
             "department": "PACKAGES",
             "name": "CERTIFICATE III IN HORTICULTURE + CERTIFICATE IV IN HORTICULTURE",
@@ -45,7 +45,7 @@
             "location": "TAS"
         },
         {
-            "vetCode": "AHC30716 / AHC51422",
+            "vetCode": "#AHC30716 / AHC51422",
             "cricosCode": "110597F / 110774E",
             "department": "PACKAGES",
             "name": "CERTIFICATE III IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
@@ -56,7 +56,7 @@
             "location": "TAS"
         },
         {
-            "vetCode": "AHC40416 / AHC51422",
+            "vetCode": "#AHC40416 / AHC51422",
             "cricosCode": "110598E / 110774E",
             "department": "PACKAGES",
             "name": "CERTIFICATE IV IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
