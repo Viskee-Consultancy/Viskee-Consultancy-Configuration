@@ -10,7 +10,7 @@
           "tuition": "10,200",
           "tuitionDetail": "10,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
       },
       {
           "vetCode": "RII60520",
@@ -18,23 +18,23 @@
           "department": "CIVIL CONSTRUCTION DESIGN",
           "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
           "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
           "tuition": "20,200",
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
       },
       {
           "vetCode": "ICT60220",
           "cricosCode": "111825B",
           "department": "INFORMATION TECHNOLOGY",
-          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY  (TELECOMMUNICATIONS NETWORK ENGINEERING) ",
+          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY (Telecommunications Network Engineering)",
           "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
           "tuition": "16,200",
           "tuitionDetail": "16,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
       },
       {
           "vetCode": "RII50520/RII60520",
@@ -42,11 +42,11 @@
           "department": "PACKAGES",
           "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
           "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
           "tuition": "20,200",
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 28TH FEBRUARY 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
       }
   ]
 }
