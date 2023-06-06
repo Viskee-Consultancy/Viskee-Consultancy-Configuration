@@ -1,3 +1,28 @@
 {
-  "courses": []
+  "courses": [
+      {
+          "vetCode": "SIT50422",
+          "cricosCode": "113028D",
+          "department": "HOSPITALITY MANAGEMENT",
+          "name": "DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "13,200",
+          "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+          "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
+          "location": "TAS(Currently not accepting enrolments)"
+      },
+     {
+          "vetCode": "SIT60322",
+          "cricosCode": "113029C",
+          "department": "HOSPITALITY MANAGEMENT",
+          "name": "ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
+          "location": "TAS(Currently not accepting enrolments)"
+      }
+  ]
 }
