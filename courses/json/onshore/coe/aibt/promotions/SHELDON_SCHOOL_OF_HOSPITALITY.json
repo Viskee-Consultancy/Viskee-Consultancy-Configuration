@@ -37,7 +37,7 @@
             "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook.Students will be required to do additional training in order to complete a fast track intensive course"
         },
         {
             "vetCode": "SIT40721",
@@ -50,7 +50,7 @@
             "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
+            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen.Students will be required to do additional training in order to complete a fast track intensive course"
         },
         {
             "vetCode": "SIT50416#",
@@ -71,7 +71,7 @@
             "department": "Travel and Tourism",
             "name": "Diploma of Travel and Tourism Management",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "8000(TAS); 4800(NSW/QLD)",
             "tuitionDetail": "total tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
@@ -84,12 +84,12 @@
             "department": "Travel and Tourism",
             "name": "Advanced Diploma of Travel and Tourism Management",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "8000(TAS);4800(QLD)",
             "tuitionDetail": "total tuition fee + 200 handling fee",
             "location": "QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website. "
+            "note": "Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management;This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website. "
         },
         {
             "vetCode": "SIT30821/ SIT40521/SIT50416#",
