@@ -9,6 +9,8 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "9,700",
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "placementDuration": "120",
+          "placementFee": "500",
           "location": "TAS"
       },
      {
@@ -20,6 +22,8 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "9,700",
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "placementDuration": "40",
+          "placementFee": "500",
           "location": "TAS"
       },
       {
@@ -31,6 +35,8 @@
           "durationDetail": "68 wks Tuition + 10 wks Break",
           "tuition": "12,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "placementDuration": "200",
+          "placementFee": "500",
           "location": "TAS"
       },
      {
@@ -53,6 +59,8 @@
           "durationDetail": "46 wks tuition + 6 wks break",
           "tuition": "9,700",
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "placementDuration": "160",
+          "placementFee": "500",
           "location": "TAS(Currently Not Accepting Enrolments)"
       },
       {
@@ -64,6 +72,8 @@
           "durationDetail": "49 wks tuition + 3 wks break",
           "tuition": "11,700",
           "tuitionDetail": "11,500 tuition fee + 200 handling fee",
+          "placementDuration": "280",
+            "placementFee": "500",
           "location": "TAS(Currently Not Accepting Enrolments)"
       }
   ]
