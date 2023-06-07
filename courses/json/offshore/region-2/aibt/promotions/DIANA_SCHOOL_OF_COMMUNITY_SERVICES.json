@@ -9,11 +9,11 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,700",
             "tuitionDetail": "18,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
+            "location": "NSW/QLD",
             "placementDuration": "220",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure. Monthly Intake Available"
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
         },
         {
             "vetCode": "CHC52015#",
@@ -28,7 +28,7 @@
             "placementDuration": "100",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure. Monthly Intake Available"
+            "note": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
         },
         {
             "vetCode": "CHC30121/ CHC50121",
@@ -43,7 +43,7 @@
             "placementDuration": "440",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "Monthly Intake Available"
+            "note": " "
         }
     ]
 }
