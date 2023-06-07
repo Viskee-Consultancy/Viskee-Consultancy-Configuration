@@ -28,7 +28,7 @@
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course;This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT31021",
@@ -58,7 +58,7 @@
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen; Students will be required to do additional training in order to complete a fast track intensive course"
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course;This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen; Students will be required to do additional training in order to complete a fast track intensive course"
         },
         {
             "vetCode": "SIT50416#",
@@ -96,7 +96,7 @@
             "department": "Travel and Tourism",
             "name": "Advanced Diploma of Travel and Tourism Management",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "6,200",
             "tuitionDetail": "6,000 tuition fee + 200 handling fee",
             "tuitionHalf": "7,000",
