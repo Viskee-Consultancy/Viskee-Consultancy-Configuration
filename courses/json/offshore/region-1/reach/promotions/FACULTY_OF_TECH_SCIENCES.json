@@ -37,6 +37,19 @@
             "note": "Students will be required to do additional training in order to complete a fast track intensive course.",
             "promotionValidity": "Promotion valid until 30TH June 2023"
         },
+         {
+            "vetCode": "AUR30620/ AUR40216",
+            "cricosCode": "105382H/105383G",
+            "department": "Packages",
+            "name": "Certificate III in Light Vehicle Mechanical Technology (VIC Only) + Certificate IV in Automotive Mechanical Diagnosis(NSW/TAS Only) ",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "New Melbourne Location",
+            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+        },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
             "cricosCode": "105382H/105383G/105384F",
