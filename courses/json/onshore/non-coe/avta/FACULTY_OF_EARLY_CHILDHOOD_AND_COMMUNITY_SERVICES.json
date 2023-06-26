@@ -61,7 +61,7 @@
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
           "placementDuration": "160",
           "placementFee": "500",
-          "location": "TAS(Currently Not Accepting Enrolments)"
+          "location": "TAS (Currently Only Accepting Offshore Enrolments)"
       },
       {
           "vetCode": "CHC50121",
@@ -74,7 +74,7 @@
           "tuitionDetail": "11,500 tuition fee + 200 handling fee",
           "placementDuration": "280",
             "placementFee": "500",
-          "location": "TAS(Currently Not Accepting Enrolments)"
+          "location": "TAS (Currently Only Accepting Offshore Enrolments)"
       }
   ]
 }
