@@ -85,6 +85,18 @@
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
+            "vetCode": "CPC30620",
+            "cricosCode": "103825B",
+            "department": "Painting and Decorating ",
+            "name": "Certificate III in Painting and Decorating",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW (Currently Not Accepting Enrolments)",
+            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+        },
+        {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
             "cricosCode": "103638E/095065G/095067F",
             "department": "Packages",
