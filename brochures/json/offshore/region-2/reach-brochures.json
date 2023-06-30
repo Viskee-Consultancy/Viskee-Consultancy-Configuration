@@ -1,12 +1,8 @@
 {
     "brochures": [
         {
-            "name": "REACH Course Fees Brochure 2023",
-            "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-2/reach/Reach%20Tuition%20Course%20Fees%202023%20VOL1.5.pdf"
-        },
-        {
-          "name": "REACH Offshore Region2 Q4 Promotions-Extended.pdf",
-          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-2/reach/Reach%20Region2%20Offshore%20Q4%20Brochure%20Extended%20VOL2.0.pdf"
+          "name": "REACH Offshore Region2 H2 Promotions 2023",
+          "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-2/reach/Reach%20Region2%20H2%20Promotions%20VOL1.0.pdf"
       }
     ]
   }
