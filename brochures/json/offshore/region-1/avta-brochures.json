@@ -1,12 +1,8 @@
 {
   "brochures": [
     {
-      "name": "AVTA Course Fees 2023.pdf",
-      "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-1/avta/AVTA%20Course%20%26%20Fees%202023%20VOL1.4.pdf"
-    },
-    {
-      "name": "AVTA Offshore Region1 Promotion 2023.pdf",
-      "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-1/avta/AVTA%20Region1%20Promotions%202023%20VOL1.3.pdf"
+      "name": "AVTA Offshore Region1 H2 Promotion 2023 ",
+      "link": "https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/brochures/pdf/offshore/region-1/avta/AVTA%20Region1%20H2%20Promotions%20VOL1.1.pdf"
     }
   ]
 }
