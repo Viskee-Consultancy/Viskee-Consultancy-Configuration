@@ -1,15 +1,15 @@
 {
     "courses": [
         {
-            "vetCode": "BSB50820",
-            "cricosCode": "104063J",
+            "vetCode": "BSB40920",
+            "cricosCode": "103930A",
             "department": "Management",
-            "name": "Diploma of Project Management",
+            "name": "Certiﬁcate IV in Project Management Practice",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6000 (NSW/TAS);4800(QLD)",
+            "tuition": "4800 ",
             "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS",
+            "location": "QLD",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
@@ -104,18 +104,6 @@
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "8000 ",
-            "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
-        },
-        {
-            "vetCode": "ICT60220",
-            "cricosCode": "107122A",
-            "department": "Information Technology",
-            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
