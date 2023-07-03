@@ -12,7 +12,7 @@
       "location": "NSW",
       "placementDuration": "160",
       "placementFee": "500",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     },
     {
       "vetCode": " CHC50121",
@@ -26,7 +26,7 @@
       "location": "NSW",
       "placementDuration": "280",
       "placementFee": "500",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     },
     {
       "vetCode": "CHC30121/CHC50121",
@@ -40,7 +40,7 @@
       "location": "NSW",
       "placementDuration": "440",
       "placementFee": "1000",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     }
   ]
 }
