@@ -1,3 +1,54 @@
 {
-  "courses": []
+  "courses": [
+      {
+          "vetCode": "CHC33021",
+          "cricosCode": "113022K",
+          "department": "INDIVIDUAL SUPPORT",
+          "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY)",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "placementDuration": "120",
+          "placementFee": "500",
+          "location": "TAS"
+      },
+     {
+          "vetCode": "CHC43121",
+          "cricosCode": "113024H",
+          "department": "DISABILITY SUPPORT",
+          "name": "CERTIFICATE IV IN DISABILITY SUPPORT",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "placementDuration": "40",
+          "placementFee": "500",
+          "location": "TAS"
+      },
+      {
+          "vetCode": "CHC52021",
+          "cricosCode": "113026F",
+          "department": "COMMUNITY SERVICES",
+          "name": "DIPLOMA OF COMMUNITY SERVICES",
+          "duration": "52",
+          "durationDetail": "48 wks Tuition + 4 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "placementDuration": "200",
+          "placementFee": "500",
+          "location": "TAS"
+      },
+     {
+          "vetCode": "CHC62015",
+          "cricosCode": "113027E",
+          "department": "COMMUNITY SERVICES",
+          "name": "ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
+          "duration": "52",
+          "durationDetail": "46 wks tuition + 6 wks break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "location": "TAS"
+      }
+  ]
 }
