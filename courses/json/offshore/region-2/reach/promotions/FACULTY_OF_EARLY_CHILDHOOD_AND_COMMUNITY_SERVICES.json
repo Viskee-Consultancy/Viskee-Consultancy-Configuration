@@ -1,20 +1,5 @@
 {
     "courses": [
-         {
-            "vetCode": "CHC52015#",
-            "cricosCode": "106059M",
-            "department": "Community Services",
-            "name": " Diploma of Community Services",
-            "duration": "52",
-            "durationDetail": "46 wks Tuition + 6 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
         {
             "vetCode": " CHC62015",
             "cricosCode": "108799C",
@@ -22,41 +7,12 @@
             "name": "Advanced Diploma of Community Sector Management",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "placementDuration": " ",
             "placementFee": " ",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": " CHC33015#/CHC52015#",
-            "cricosCode": "108802B/106059M",
-            "department": "Packages",
-            "name": "Certificate III in Individual Support (Disability) + Diploma of Community Services",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "220",
-            "placementFee": "1000",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": " CHC52015#/CHC62015",
-            "cricosCode": "106059M/108799C",
-            "department": "Packages",
-            "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
         }
     ]
 }
