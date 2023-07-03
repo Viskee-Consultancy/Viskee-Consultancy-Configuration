@@ -4,26 +4,13 @@
             "vetCode": " ",
             "cricosCode": "105608F",
             "department": "English",
-            "name": "General English ONLY(Elementary to Advanced)",
-            "durationMin": "10 weeks",
-            "durationMax": "60 weeks",
-            "durationDetail": " ",
-            "tuition": "185/week;For every 10 weeks ELICOS purchased receive an additional 10 weeks FREE",
-            "tuitionHalf": " ",
-            "tuitionHalfDetail": " ",
+            "name": "General English (Elementary to Advanced)",
+            "duration": "12 ",
+            "durationDetail": "Minimum of 12 weeks(10 wks Tuition + 2 wks Break)",
+            "tuition": "$1,800 per Block",
+            "tuitionDetail": "1 ELICOS BLOCK = 12 WEEKS (10 wks Tuition + 2 wks Break)($200 per week if enrolled for less than 12 weeks)",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
-        },
-        {
-            "vetCode": " ",
-            "cricosCode": "105608F",
-            "department": "English",
-            "name": "General English (Elementary to Advanced) PACKAGE WITH ANY OTHER VET COURSE",
-            "duration": " ",
-            "tuition": "First 10 weeks Free",
-            "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
-            "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 28TH FEBRUARY 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         }
     ]
 }
