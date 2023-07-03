@@ -11,6 +11,7 @@
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "placementDuration": "120",
           "placementFee": "500",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
           "location": "TAS"
       },
      {
@@ -24,6 +25,7 @@
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "placementDuration": "40",
           "placementFee": "500",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
           "location": "TAS"
       },
       {
@@ -37,6 +39,7 @@
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
           "location": "TAS"
       },
      {
@@ -48,6 +51,7 @@
           "durationDetail": "46 wks tuition + 6 wks break",
           "tuition": "8,700",
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
           "location": "TAS"
       }
   ]
