@@ -10,7 +10,7 @@
             "tuition": "12200(NSW/QLD);10200(TAS)",
             "tuitionDetail": " 12000(NSW/QLD)+ 200 handling fee;10000(TAS)tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -23,7 +23,7 @@
             "tuition": "23200",
             "tuitionDetail": " 23000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -38,7 +38,7 @@
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         }
     ]
