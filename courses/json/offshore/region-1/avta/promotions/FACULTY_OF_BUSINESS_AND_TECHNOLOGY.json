@@ -10,7 +10,7 @@
           "tuition": "12,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       },
       {
           "vetCode": "RII60520",
@@ -22,7 +22,7 @@
           "tuition": "22,200",
           "tuitionDetail": "22,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       },
       {
           "vetCode": "ICT60220",
@@ -34,7 +34,7 @@
           "tuition": "18,200",
           "tuitionDetail": "18,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       },
       {
           "vetCode": "RII50520/RII60520",
@@ -46,7 +46,7 @@
           "tuition": "22,200",
           "tuitionDetail": "22,000 tuition fee + 200 handling fee",
           "location": "TAS",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2023 "
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       }
   ]
 }
