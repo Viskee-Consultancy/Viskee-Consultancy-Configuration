@@ -5,14 +5,12 @@
       "cricosCode": "112258J",
       "department": "ENGLISH",
       "name": "General English Levels 1-5",
-      "durationMin": "12 ",
-      "durationMax": "60 weeks",
+      "duration": "12 ",
       "durationDetail": "Minimum 12 Weeks(10 wks Tuition + 2 wks Break) ",
-      "tuition": "$185 per week",
-      "tuitionHalf": " ",
-      "tuitionDetail": "Students will receive the first 12 Weeks (10 Weeks Tuition + 2 Weeks Break of General English FREE.If the duration of General English within the package is greater than 12 Weeks (10 Weeks Tuition + 2 Weeks Break), the remaining duration of General English will be $185 per Week. ",
+      "tuition": "$1,800 per Block",
+      "tuitionDetail": "1 ELICOS BLOCK = 12 WEEKS (10 wks Tuition + 2 wks Break)($200 per week if enrolled for less than 12 weeks)",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     }
   ]
 }
