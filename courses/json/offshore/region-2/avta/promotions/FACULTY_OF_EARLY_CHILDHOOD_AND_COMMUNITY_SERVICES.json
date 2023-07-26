@@ -40,21 +40,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
-      },
-      {
-          "vetCode": "CHC30121/CHC50121",
-          "cricosCode": "113023J/113025G",
-          "department": "PACKAGES",
-          "name": "DIPLOMA OF COMMUNITY SERVICES + ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
-          "duration": "104",
-          "durationDetail": "92 wks Tuition + 12 wks Break",
-          "tuition": "17,200",
-          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
-          "placementDuration": "440",
-          "placementFee": "1000",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS/NSW(Accepting Enrolments in NSW from 7th August 2023)"
       },
       {
           "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -68,7 +54,7 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS/NSW(Accepting Enrolments in NSW from 7th August 2023)"
       }
   ]
 }
