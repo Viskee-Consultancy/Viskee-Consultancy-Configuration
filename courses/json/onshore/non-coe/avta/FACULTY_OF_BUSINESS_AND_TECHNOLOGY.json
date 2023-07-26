@@ -9,7 +9,7 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "12,700",
           "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-          "location": "TAS(Accepting Enrolments from 1st September 2023)"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 14th August 2023)"
       },
      {
           "vetCode": "BSB80320",
@@ -20,7 +20,7 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "12,700",
           "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-          "location": "TAS(Currently not accepting enrolments)"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 14th August 2023)"
       },
       {
           "vetCode": "ICT60220",
@@ -31,7 +31,7 @@
           "durationDetail": "88 wks Tuition + 16 wks Break",
           "tuition": "23,200",
           "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-          "location": "TAS"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 14th August 2023)"
       },
      {
           "vetCode": "RII50520",
@@ -53,7 +53,7 @@
           "durationDetail": "88 wks tuition + 16 wks break",
           "tuition": "25,200",
           "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-          "location": "TAS"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 14th August 2023)"
       },
       {
           "vetCode": "RII50520/RII60520",
@@ -64,7 +64,7 @@
           "durationDetail": "88 wks tuition + 16 wks break",
           "tuition": "27,200",
           "tuitionDetail": "27,000 tuition fee + 200 handling fee",
-          "location": "TAS"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 14th August 2023)"
       }
   ]
 }
