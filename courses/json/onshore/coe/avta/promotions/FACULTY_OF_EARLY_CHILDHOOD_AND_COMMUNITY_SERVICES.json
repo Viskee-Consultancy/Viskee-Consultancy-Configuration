@@ -26,7 +26,7 @@
           "placementDuration": "40",
           "placementFee": "500",
           "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS(Currently Not Accepting Enrolments)"
       },
       {
           "vetCode": "CHC52021",
@@ -52,7 +52,35 @@
           "tuition": "8,700",
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS(Currently Not Accepting Enrolments)"
+      },
+      {
+          "vetCode": "CHC33021/CHC43121/CHC52021",
+          "cricosCode": "113022K/113024H/113026F",
+          "department": "PACKAGES",
+          "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY) + CERTIFICATE IV IN DISABILITY SUPPORT + DIPLOMA OF COMMUNITY SERVICES",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "16,200",
+          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+          "placementDuration": "360",
+          "placementFee": "1000",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
+          "location": "NSW(Accepting Enrolments in NSW from 7th August 2023)"
+      },
+      {
+          "vetCode": "CHC52021/CHC62015",
+          "cricosCode": "113026F/113027E",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF COMMUNITY SERVICES + ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "placementDuration": "200",
+          "placementFee": "500",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
+          "location": "NSW(Accepting Enrolments in NSW from 7th August 2023)"
       }
   ]
 }
