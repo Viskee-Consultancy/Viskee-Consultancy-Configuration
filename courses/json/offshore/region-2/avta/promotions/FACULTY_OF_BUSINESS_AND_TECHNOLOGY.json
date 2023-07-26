@@ -13,6 +13,42 @@
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       },
       {
+          "vetCode": "RII60520",
+          "cricosCode": "111826A",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+          "location": "NSW(Accepting Enrolments in NSW from 14th August 2023)",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
+      },
+      {
+          "vetCode": "BSB80120",
+          "cricosCode": "113031J",
+          "department": "GRADUATE DIPLOMA",
+          "name": "GRADUATE DIPLOMA OF MANAGEMENT (LEARNING)",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "11,200",
+          "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+          "location": "TAS/NSW(Accepting Enrolments in NSW from 14th August 2023)",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
+      },
+      {
+          "vetCode": "BSB80320",
+          "cricosCode": "113030K",
+          "department": "GRADUATE DIPLOMA",
+          "name": "GRADUATE DIPLOMA OF  STRATEGIC LEADERSHIP",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "11,200",
+          "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+          "location": "TAS/NSW(Accepting Enrolments in NSW from 14th August 2023)",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
+      },
+      {
           "vetCode": "RII50520/RII60520",
           "cricosCode": "111827M/111826A",
           "department": "PACKAGES",
@@ -21,7 +57,7 @@
           "durationDetail": "88 wks Tuition + 16 wks Break",
           "tuition": "20,200",
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS",
+          "location": "TAS/NSW(Accepting Enrolments in NSW from 14th August 2023)",
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 "
       }
   ]
