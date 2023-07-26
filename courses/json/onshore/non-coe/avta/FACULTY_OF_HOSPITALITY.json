@@ -22,7 +22,19 @@
           "tuition": "17,200",
           "tuitionDetail": "17,000 tuition fee + 200 handling fee",
           "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
-          "location": "TAS(Currently not accepting enrolments)"
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 9th October 2023)"
+      },
+     {
+          "vetCode": "SIT50422/SIT60322",
+          "cricosCode": "113028D/113029C",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF HOSPITALITY MANAGEMENT + ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+          "note": "These qualifications may require service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website.",
+          "location": "TAS/NSW (Accepting Enrolments in NSW from 9th October 2023)"
       }
   ]
 }
