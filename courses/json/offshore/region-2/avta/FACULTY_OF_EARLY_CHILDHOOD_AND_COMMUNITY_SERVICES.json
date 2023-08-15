@@ -11,7 +11,7 @@
           "tuitionDetail": "10,000 tuition fee + 200 handling fee",
           "placementDuration": "120",
           "placementFee": "500",
-          "location": "TAS/NSW (Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "TAS/NSW "
       },
      {
           "vetCode": "CHC43121",
@@ -37,7 +37,7 @@
           "tuitionDetail": "14,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "location": "TAS/NSW (Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "TAS/NSW "
       },
      {
           "vetCode": "CHC62015",
@@ -87,7 +87,7 @@
           "tuitionDetail": "25,000 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
-          "location": "TAS/NSW (Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "TAS/NSW "
       },
       {
           "vetCode": "CHC52021/CHC62015",
@@ -100,7 +100,7 @@
           "tuitionDetail": "25,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "location": "TAS/NSW (Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "TAS/NSW "
       }
   ]
 }
