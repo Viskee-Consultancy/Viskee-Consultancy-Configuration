@@ -66,7 +66,7 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
-          "location": "NSW(Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "NSW"
       },
       {
           "vetCode": "CHC52021/CHC62015",
@@ -80,7 +80,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "PROMOTIONS VALID UNTIL 30TH SEPTEMBER 2023 ",
-          "location": "NSW(Accepting Enrolments in NSW from 7th August 2023)"
+          "location": "NSW"
       }
   ]
 }
