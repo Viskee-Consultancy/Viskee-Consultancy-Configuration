@@ -12,7 +12,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC30121/CHC50121",
@@ -40,7 +40,7 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
+          "location": "TAS/NSW"
       }
   ]
 }
