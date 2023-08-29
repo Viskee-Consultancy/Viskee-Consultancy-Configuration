@@ -108,6 +108,19 @@
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
+         {
+            "vetCode": "ICT60220",
+            "cricosCode": "107122A",
+            "department": "Information Technology",
+            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16000 ",
+            "tuitionDetail": "total tuition + 200 handling fee",
+            "location": "NSW/QLD/TAS(Currently not accepting Enrolments in QLD)",
+            "note": "TAS students - The first three months of study will be delivered online only. ",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+        },
         {
             "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
