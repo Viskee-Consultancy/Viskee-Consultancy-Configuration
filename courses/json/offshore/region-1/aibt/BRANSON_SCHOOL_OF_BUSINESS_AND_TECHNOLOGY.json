@@ -74,8 +74,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently only accepting enrolments in NSW)",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "location": "NSW/QLD/TAS (Currently not accepting enrolments in QLD)",
+            "note": "TAS students - The first three months of study will be delivered online only."
         },
         {
             "vetCode": "TLI50221",
