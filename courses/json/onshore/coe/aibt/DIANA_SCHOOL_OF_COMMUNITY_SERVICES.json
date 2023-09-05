@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "#CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
@@ -12,12 +12,11 @@
             "location": "NSW/QLD/TAS (Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
-            "vetCode": "#CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability)",
             "duration": "52",
@@ -27,12 +26,11 @@
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
-            "vetCode": "#CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Home and Community)",
             "duration": "52",
@@ -42,12 +40,11 @@
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
-            "vetCode": "#CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Disability)",
             "duration": "52",
@@ -57,12 +54,11 @@
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
-            "vetCode": "#CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Home and Community)",
             "duration": "52",
@@ -72,7 +68,6 @@
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
@@ -90,8 +85,8 @@
             "placementDetail": "Placement will only commence after the 35th week"
         },
         {
-            "vetCode": "#CHC52015",
-            "cricosCode": "093815B",
+            "vetCode": "CHC52021",
+            "cricosCode": "113809H",
             "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
@@ -100,7 +95,6 @@
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "100",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "500"
         },
         {
@@ -130,8 +124,8 @@
             "placementFee": "500"
         },
         {
-            "vetCode": "#CHC33015 / CHC43015",
-            "cricosCode": "090851M/090852K",
+            "vetCode": "CHC33021 / CHC43015",
+            "cricosCode": "113808J/090852K",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support",
             "duration": "104",
@@ -141,12 +135,11 @@
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "120",
             "placementFee": "500",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementDetail": "Placement will only commence after the 52th week"
         },
         {
-            "vetCode": "#CHC33015 / #CHC52015",
-            "cricosCode": "090851M/093815B",
+            "vetCode": "CHC33021 / CHC52021",
+            "cricosCode": "113808J/113809H",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing, Disability) + Diploma of Community Services",
             "duration": "104",
@@ -155,12 +148,11 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "220",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "1000"
         },
         {
-            "vetCode": "#CHC33015 / #CHC52015",
-            "cricosCode": "090851M/093815B",
+            "vetCode": "CHC33021 / CHC52021",
+            "cricosCode": "113808J/113809H",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Diploma of Community Services",
             "duration": "104",
@@ -169,12 +161,11 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "220",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "1000"
         },
         {
-            "vetCode": "#CHC33015 / #CHC52015",
-            "cricosCode": "090851M/093815B",
+            "vetCode": "CHC33021 / CHC52021",
+            "cricosCode": "113808J/113809H",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Disability) + Diploma of Community Services",
             "duration": "104",
@@ -183,12 +174,11 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "220",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "1000"
         },
         {
-            "vetCode": "#CHC33015 / #CHC52015",
-            "cricosCode": "090851M/093815B",
+            "vetCode": "CHC33021 / CHC52021",
+            "cricosCode": "113808J/113809H",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing, Home and Community) + Diploma of Community Services",
             "duration": "104",
@@ -197,12 +187,11 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "220",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "1000"
         },
         {
-            "vetCode": "#CHC33015 / CHC43015 / #CHC52015",
-            "cricosCode": "090851M/090852K/093815B",
+            "vetCode": "CHC33021 / CHC43015 / CHC52021",
+            "cricosCode": "113808J/090852K/113809H",
             "department": "Packages",
             "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
@@ -211,7 +200,6 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
             "placementDuration": "220",
-             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "placementFee": "1000"
         },
         {
