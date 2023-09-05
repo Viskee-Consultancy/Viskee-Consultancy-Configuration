@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "#SIT50416",
-            "cricosCode": "091074F",
+            "vetCode": "SIT50422",
+            "cricosCode": "113812B",
             "department": "Hospitality",
             "name": "Diploma of Hospitality Management",
             "duration": "52",
@@ -11,11 +11,11 @@
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
         },
         {
-            "vetCode": "#SIT60316",
-            "cricosCode": "091132A",
+            "vetCode": "SIT60322",
+            "cricosCode": "113813A",
             "department": "Hospitality",
             "name": "Advanced Diploma of Hospitality Management ",
             "duration": "104",
@@ -24,7 +24,7 @@
             "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT30821",
@@ -79,8 +79,8 @@
             "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
         {
-            "vetCode": "#SIT50316",
-            "cricosCode": "093811F",
+            "vetCode": "SIT50322",
+            "cricosCode": "113816J",
             "department": "Event Management",
             "name": "Diploma of Event Management",
             "duration": "52",
@@ -88,8 +88,7 @@
             "tuition": "10,700",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure. "
+            "promotionValidity": " "
         },
         {
             "vetCode": "#SIT60216",
@@ -105,8 +104,8 @@
             "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
-            "vetCode": "#SIT50116",
-            "cricosCode": "095245D",
+            "vetCode": "SIT50122",
+            "cricosCode": "113817H",
             "department": "Travel and Tourism",
             "name": "Diploma of Travel and Tourism Management",
             "duration": "52",
@@ -115,7 +114,7 @@
             "tuitionDetail": "10,750 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
+            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
         {
             "vetCode": "SIT60122",
@@ -157,8 +156,8 @@
             "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
         {
-            "vetCode": "SIT30821/ #SIT50416",
-            "cricosCode": "111040B/091074F",
+            "vetCode": "SIT30821/ SIT50422",
+            "cricosCode": "111040B/113812B",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management",
             "duration": "104",
@@ -167,11 +166,11 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT30821/ #SIT60316",
-            "cricosCode": "111040B/091132A",
+            "vetCode": "SIT30821/ SIT60322",
+            "cricosCode": "111040B/113813A",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -181,11 +180,11 @@
             "location": "NSW/QLD/TAS",
             "placementDetail": " ",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.hese qualifications may require service periods / complete food service periods / complete service periods (shifts), please visit the individual course outlines on our website."
+            "note": "These qualifications may require service periods / complete food service periods / complete service periods (shifts), please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT31021/ #SIT60316",
-            "cricosCode": "111044J/091132A",
+            "vetCode": "SIT31021/ SIT60322",
+            "cricosCode": "111044J/113813A",
             "department": "Packages",
             "name": "Certificate III in Patisserie + Advanced Diploma of Hospitality Management ",
             "duration": "104",
@@ -194,11 +193,11 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40521/ #SIT60316",
-            "cricosCode": "111041A/091132A",
+            "vetCode": "SIT40521/ SIT60322",
+            "cricosCode": "111041A/113813A",
             "department": "Packages",
             "name": "Certificate IV in Kitchen Management  + Advanced Diploma of Hospitality Management ",
             "duration": "104",
@@ -207,11 +206,11 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40721/ #SIT60316",
-            "cricosCode": "111045H/091132A",
+            "vetCode": "SIT40721/ SIT60322",
+            "cricosCode": "111045H/113813A",
             "department": "Packages",
             "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -220,11 +219,11 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "#SIT50416/ #SIT60316",
-            "cricosCode": "091074F/091132A",
+            "vetCode": "SIT50422/ SIT60322",
+            "cricosCode": "113812B/113813A",
             "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -233,11 +232,11 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "#SIT50116/ SIT60122",
-            "cricosCode": "095245D/111046G",
+            "vetCode": "SIT50122/ SIT60122",
+            "cricosCode": "113817H/111046G",
             "department": "Packages",
             "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
             "duration": "104",
@@ -246,11 +245,11 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "QLD/TAS",
             "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
+            "note": "For food/service periods information, please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "#SIT50316/ #SIT60216",
-            "cricosCode": "093811F/093812E",
+            "vetCode": "SIT50322/ #SIT60216",
+            "cricosCode": "113816J/093812E",
             "department": "Packages",
             "name": "Diploma of Event Management + Advanced Diploma of Event Management",
             "duration": "104",
