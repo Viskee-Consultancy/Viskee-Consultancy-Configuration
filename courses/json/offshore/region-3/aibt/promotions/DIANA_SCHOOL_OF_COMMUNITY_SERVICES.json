@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "CHC52015#",
-            "cricosCode": "093815B",
+            "vetCode": "CHC52021",
+            "cricosCode": "113809H",
             "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
@@ -12,8 +12,7 @@
             "location": "QLD",
             "placementDuration": "100",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
         },
         {
             "vetCode": "CHC30121",
@@ -43,11 +42,11 @@
             "placementDuration": "280",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 31th DECEMBER 2023",
-            "note": "n order to complete CHC50121 - Diploma of Early Childhood Education and Care, students must attend face to face classes, up to four days per week. Students will be required to complete placement during breaks and outside of their face to face classes."
+            "note": "In order to complete CHC50121 - Diploma of Early Childhood Education and Care, students must attend face to face classes, up to four days per week. Students will be required to complete placement during breaks and outside of their face to face classes."
         },
         {
-            "vetCode": "CHC33015#/CHC43015/CHC52015#",
-            "cricosCode": "090851M/090852K/093815B",
+            "vetCode": "CHC33021/CHC43015/CHC52021",
+            "cricosCode": "113808J/090852K/113809H",
             "department": "Packages",
             "name": "Certificate III In Individual Support (Ageing) + Certificate IV In Ageing Support + Diploma of Community Services",
             "duration": "104",
@@ -57,8 +56,7 @@
             "location": "QLD",
             "placementDuration": "220",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 31th DECEMBER 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
         },
         {
             "vetCode": "CHC30121/CHC50121",
