@@ -32,35 +32,7 @@
             "vetCode": "CHC33021",
             "cricosCode": "113808J",
             "department": "Ageing Support",
-            "name": "Certificate III in Individual Support (Home and Community)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9,700",
-            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "120",
-            "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week"
-        },
-        {
-            "vetCode": "CHC33021",
-            "cricosCode": "113808J",
-            "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Disability)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9,700",
-            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "120",
-            "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week"
-        },
-        {
-            "vetCode": "CHC33021",
-            "cricosCode": "113808J",
-            "department": "Ageing Support",
-            "name": "Certificate III in Individual Support (Ageing, Home and Community)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
@@ -94,7 +66,7 @@
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "100",
+            "placementDuration": "200",
             "placementFee": "500"
         },
         {
@@ -133,7 +105,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "120",
+            "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week"
         },
@@ -147,7 +119,7 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "220",
+            "placementDuration": "320",
             "placementFee": "1000"
         },
         {
@@ -173,7 +145,7 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "220",
+            "placementDuration": "320",
             "placementFee": "1000"
         },
         {
@@ -186,7 +158,7 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "220",
+            "placementDuration": "320",
             "placementFee": "1000"
         },
         {
@@ -199,7 +171,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
-            "placementDuration": "220",
+            "placementDuration": "440",
             "placementFee": "1000"
         },
         {
