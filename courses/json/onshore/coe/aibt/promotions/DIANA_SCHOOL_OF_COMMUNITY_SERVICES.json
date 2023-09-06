@@ -55,7 +55,7 @@
             "tuition": "8,200",
             "tuitionDetail": "8,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "100",
+            "placementDuration": "200",
             "placementFee": "500",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
@@ -85,7 +85,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "220",
+            "placementDuration": "440",
             "placementFee": "1,000",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
@@ -100,7 +100,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "340",
+            "placementDuration": "440",
             "placementFee": "1,500",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
@@ -115,7 +115,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "120",
+            "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
@@ -130,7 +130,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "220",
+            "placementDuration": "320",
             "placementFee": "1000",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
@@ -145,7 +145,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "placementDuration": "220",
+            "placementDuration": "320",
             "placementFee": "1,000",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
