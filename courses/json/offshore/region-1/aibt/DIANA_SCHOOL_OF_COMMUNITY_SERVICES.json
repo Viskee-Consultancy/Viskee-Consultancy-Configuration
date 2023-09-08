@@ -123,7 +123,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "320",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
@@ -137,7 +137,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "320",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
@@ -151,7 +151,21 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "placementDuration": "320",
+            "placementFee": "1000",
+            "promotionValidity": "Promotion valid until  31th Dec 2021"
+        },
+         {
+            "vetCode": "CHC43015 / CHC52021",
+            "cricosCode": "090852K/113809H",
+            "department": "Packages",
+            "name": "Certificate IV in Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until  31th Dec 2021"
@@ -165,10 +179,11 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "440",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students are required to attend class 3 days per week.",
         },
         {
             "vetCode": "CHC30121 / CHC50121 ",
