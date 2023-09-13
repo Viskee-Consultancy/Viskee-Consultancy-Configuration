@@ -79,31 +79,6 @@
             "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
         {
-            "vetCode": "SIT50322",
-            "cricosCode": "113816J",
-            "department": "Event Management",
-            "name": "Diploma of Event Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,700",
-            "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": " "
-        },
-        {
-            "vetCode": "#SIT60216",
-            "cricosCode": "093812E",
-            "department": "Event Management",
-            "name": "Advanced Diploma of Event Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
-        },
-        {
             "vetCode": "SIT50122",
             "cricosCode": "113817H",
             "department": "Travel and Tourism",
@@ -112,7 +87,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "10,950",
             "tuitionDetail": "10,750 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
+            "location": "QLD",
             "promotionValidity": " ",
             "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
         },
@@ -125,7 +100,7 @@
             "durationDetail": "68 wks Tuition + 10 wks Break",
             "tuition": "14,700",
             "tuitionDetail": "10,450 tuition fee + 200 handling fee",
-            "location": "QLD/TAS",
+            "location": "QLD",
             "promotionValidity": " ",
             "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
         },
@@ -243,22 +218,9 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "QLD/TAS",
+            "location": "QLD",
             "promotionValidity": " ",
             "note": "For food/service periods information, please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "SIT50322/ #SIT60216",
-            "cricosCode": "113816J/093812E",
-            "department": "Packages",
-            "name": "Diploma of Event Management + Advanced Diploma of Event Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": " ",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.For food/service periods information, please visit the individual course outlines on our website."
         }
     ]
 }
