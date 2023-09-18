@@ -9,7 +9,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS (Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week"
@@ -23,7 +23,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week"
@@ -37,7 +37,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week"
@@ -65,7 +65,7 @@
             "durationDetail": "46 wks Tuition + 6 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "200",
             "placementFee": "500"
         },
@@ -104,7 +104,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week"
@@ -118,7 +118,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in QLD Only)",
+            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
             "placementDuration": "320",
             "placementFee": "1000"
         },
