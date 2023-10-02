@@ -6,13 +6,14 @@
           "department": "Hospitality",
           "name": "Certificate III in Commercial Cookery",
           "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "6,200",
           "tuitionDetail": "6,000 tuition fee + 200 handling fee",
           "tuitionHalf": "7,000",
           "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
           "location": "NSW/TAS",
-          "promotionValidity": "Promotion valid until 30TH June 2023",
-          "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts)."
+          "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
+          "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
       },
       {
           "vetCode": "SIT40521",
@@ -20,27 +21,29 @@
           "department": "Hospitality",
           "name": "Certificate IV in Kitchen Management (Fast track intensive course)",
           "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "7,200",
           "tuitionDetail": "7,000 tuition fee + 200 handling fee",
           "tuitionHalf": "8,000",
           "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
           "location": "NSW/TAS",
-          "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).FAST TRACK - students may be required to attend classes 3 days p/w",
-          "promotionValidity": "Promotion valid until 30TH June 2023"
+          "note": "Students may be required to attend classes 3 days p/w;This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook.FAST TRACK - students may be required to attend classes 3 days p/w",
+          "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
       },
       {
-          "vetCode": "SIT50416",
+          "vetCode": "SIT50416#",
           "cricosCode": "105423D",
           "department": "Hospitality",
           "name": "Diploma of Hospitality Management",
           "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "6,200",
           "tuitionDetail": "6,000 tuition fee + 200 handling fee",
           "tuitionHalf": "7,000",
           "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
           "location": "NSW/TAS",
-          "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook",
-          "promotionValidity": "Promotion valid until 30TH June 2023"
+          "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook",
+          "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
       }
   ]
 }

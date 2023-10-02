@@ -12,7 +12,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "TLI60222",
@@ -26,7 +26,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "ICT50220",
@@ -40,21 +40,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "ICT60220",
-            "cricosCode": "107122A",
-            "department": "Information Technology",
-            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "52",
-            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
-            "tuition": "6,200",
-            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "7000",
-            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         }
     ]
 }

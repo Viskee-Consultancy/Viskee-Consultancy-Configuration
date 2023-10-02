@@ -5,10 +5,10 @@
       "cricosCode": "112261C",
       "department": "AUTOMOTIVE",
       "name": "Certificate III in Light Vehicle Mechanical Technology",
-      "duration": "52",
-      "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "15,200",
-      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+      "duration": "92",
+      "durationDetail": "80 wks Tuition + 12 wks Break",
+      "tuition": "24,200",
+      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": " "
     },
@@ -46,6 +46,7 @@
       "tuition": "28,200",
       "tuitionDetail": "28,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
     },
     {
@@ -58,6 +59,7 @@
       "tuition": "32,200",
       "tuitionDetail": "32,000 tuition fee + 200 handling fee",
       "location": "NSW",
+      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
     }
   ]

@@ -1,21 +1,21 @@
 {
     "courses": [
         {
-            "vetCode": "SIT30821/SIT50416",
-            "cricosCode": "111040B/091074F",
+            "vetCode": "SIT30821/SIT50422",
+            "cricosCode": "111040B/113812B",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "19,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.This qualification requires complete food service periods. Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "This qualification requires complete food service periods. Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40521/SIT60316",
-            "cricosCode": "111041A/091132A",
+            "vetCode": "SIT40521/SIT60322",
+            "cricosCode": "111041A/113813A",
             "department": "Packages",
             "name": "Certificate IV in Commercial Cookery + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -23,12 +23,12 @@
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.This qualification requires complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "This qualification requires complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
          {
-            "vetCode": "SIT30821/SIT40521/SIT50416",
-            "cricosCode": "111040B/111041A/091074F",
+            "vetCode": "SIT30821/SIT40521/SIT50422",
+            "cricosCode": "111040B/111041A/113812B",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management ",
             "duration": "104",
@@ -36,12 +36,12 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.This qualification requires complete food service periods. Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "This qualification requires complete food service periods. Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT50416/SIT60316",
-            "cricosCode": "091074F/091132A",
+            "vetCode": "SIT50422/SIT60322",
+            "cricosCode": "113812B/113813A",
             "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -49,34 +49,33 @@
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.This qualification requires complete food service periods. Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "Intake Commences 5th February 2024;Intake commences 5th February 2024;This qualification requires complete food service periods. Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT50116/SIT60122",
-            "cricosCode": "095245D/111046G",
+            "vetCode": "SIT50122/SIT60122",
+            "cricosCode": "113817H/111046G",
             "department": "Packages",
             "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,000",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure. "
+            "tuition": "20,000",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "QLD",
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
         },
         {
-            "vetCode": "SIT60316",
-            "cricosCode": "091132A",
+            "vetCode": "SIT60322",
+            "cricosCode": "113813A",
             "department": "Hospitality",
             "name": "Advanced Diploma Of Hospitality Management ",
             "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.This qualification requires service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "Intake Commences 5th February 2024;Intake commences 5th February 2024;This qualification requires service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
         }
     ]
 }

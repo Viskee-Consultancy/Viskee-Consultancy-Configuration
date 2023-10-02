@@ -1,55 +1,55 @@
 {
     "courses": [
         {
-            "vetCode": "CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
-            "durationDetail": "42 wks Tuition + 10 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "6,700",
             "tuitionDetail": "6,000 tuition fee + 500 Placement fee +200 handling fee",
             "tuitionHalf": "7,500",
             "tuitionHalfDetail": "6,750 tuition fee + 500 Placement fee + 200 handling fee + 2x25 instalment fee ",
-            "location": "NSW/QLD/TAS",
+            "location": "TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
-            "vetCode": "CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Disability)",
             "duration": "52",
-            "durationDetail": "42 wks Tuition + 10 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "6,700",
             "tuitionDetail": "6,000 tuition fee + 500 Placement fee +200 handling fee",
             "tuitionHalf": "7,500",
             "tuitionHalfDetail": "6,750 tuition fee + 500 Placement fee + 200 handling fee + 2x25 instalment fee ",
-            "location": "NSW/QLD/TAS",
+            "location": "TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
-            "vetCode": "CHC33015",
-            "cricosCode": "090851M",
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
             "department": "Ageing Support",
             "name": "Certificate III in Individual Support (Ageing, Disability)",
             "duration": "52",
-            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "7,700",
             "tuitionDetail": "7,000 tuition fee + 500 Placement fee +200 handling fee",
             "tuitionHalf": "8,500",
             "tuitionHalfDetail": "7,750 tuition fee + 500 Placement fee + 200 handling fee + 2x25 instalment fee ",
-            "location": "NSW/QLD/TAS",
+            "location": "TAS",
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "CHC43015",
@@ -57,7 +57,7 @@
             "department": "Ageing Support",
             "name": "Certificate IV in Ageing Support",
             "duration": "52",
-            "durationDetail": "42 wks Tuition + 10 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "6,700",
             "tuitionDetail": "6,000 tuition fee + 500 Placement fee +200 handling fee",
             "tuitionHalf": "7,500",
@@ -66,11 +66,11 @@
             "placementDuration": "120",
             "placementFee": "500 ( must be paid in 1st Instalment)",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
-            "vetCode": "CHC52015",
-            "cricosCode": "093815B",
+            "vetCode": "CHC52021",
+            "cricosCode": "113809H",
             "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
@@ -80,9 +80,9 @@
             "tuitionHalf": "7,500",
             "tuitionHalfDetail": "6,750 tuition fee + 500 Placement fee + 200 handling fee + 2x25 instalment fee ",
             "location": "NSW/QLD/TAS",
-            "placementDuration": "100",
+            "placementDuration": "200",
             "placementFee": "500 ( must be paid in 1st Instalment)",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "CHC30121",
@@ -98,7 +98,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "160",
             "placementFee": "500 ( must be paid in 1st Instalment)",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         }
     ]
 }

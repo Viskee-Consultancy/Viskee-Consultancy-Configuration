@@ -1,16 +1,29 @@
 {
     "courses": [
         {
+            "vetCode": "AUR30620",
+            "cricosCode": "105382H",
+            "department": "Light Vehicle",
+            "name": "Certificate III in Light Vehicle Mechanical Technology",
+            "duration": "92",
+            "durationDetail": "80wks Tuition + 12 wks Break",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "VIC",
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+        },
+        {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
             "cricosCode": "105382H/105383G/105384F",
             "department": "Packages",
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -20,10 +33,10 @@
             "name": "Certificate III in Automotive Electrical Technology + Certificate IV in Automotive Electrical Technology + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023",
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         }
     ]

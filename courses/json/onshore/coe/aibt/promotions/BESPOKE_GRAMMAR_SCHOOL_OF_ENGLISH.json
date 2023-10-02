@@ -3,22 +3,13 @@
         {
             "cricosCode": "089486D",
             "department": "English",
-            "name": "General English (Beginner to Upper Intermediate) - ELICOS only ",
-            "durationMin": "10 weeks",
-            "tuition": "185/week;For every 10 weeks ELICOS purchased receive an additional 10 weeks FREE",
-            "tuitionDetail": " ",
+            "name": "General English (Beginner to Upper Intermediate) ",
+            "duration": "12 ",
+            "durationDetail": "10 wks Tuition + 2 wks Break ",
+            "tuition": "$1,800 per Block",
+            "tuitionDetail": "1 ELICOS BLOCK = 12 WEEKS (10 wks Tuition + 2 wks Break)($200 per week if enrolled for less than 12 weeks)",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "cricosCode": "089486D",
-            "department": "English",
-            "name": "General English (Beginner to Upper Intermediate) - packaged with any other VET course",
-            "duration": " ",
-            "tuition": "First 10 weeks Free",
-            "tuitionDetail": "if ELICOS duration is greater than 10 weeks, the remaining duration of ELICOS will be 185/week",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         }
     ]
 }

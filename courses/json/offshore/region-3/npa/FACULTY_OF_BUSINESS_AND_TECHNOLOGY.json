@@ -136,7 +136,7 @@
       "vetCode": "ICT50220",
       "cricosCode": " 112266J",
       "department": " INFORMATION TECHNOLOGY",
-      "name": "Diploma of Information Technology",
+      "name": "Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "13,200",
@@ -144,21 +144,10 @@
       "location": "NSW"
     },
     {
-      "vetCode": "ICT60220",
-      "cricosCode": " 112267H",
-      "department": " INFORMATION TECHNOLOGY",
-      "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "24,200",
-      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-      "location": "NSW"
-    },
-    {
       "vetCode": "ICT40120/ICT50220",
       "cricosCode": "112265K/112266J",
       "department": "PACKAGES",
-      "name": "Certificate IV in Information Technology + Diploma of Information Technology",
+      "name": "Certificate IV in Information Technology + Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "22,200",
@@ -166,25 +155,14 @@
       "location": "NSW"
     },
     {
-      "vetCode": "ICT40120/ICT60220",
-      "cricosCode": "112265K/112267H",
-      "department": "PACKAGES",
-      "name": "Certificate IV in Information Technology + Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
+      "vetCode": "ICT60220",
+      "cricosCode": "112267H",
+      "department": " INFORMATION TECHNOLOGY",
+      "name": "Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "24,200",
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-      "location": "NSW"
-    },
-    {
-      "vetCode": "ICT40120/ICT50220/ICT60220",
-      "cricosCode": "112265K/112266J/112267H",
-      "department": "PACKAGES",
-      "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
-      "duration": "156",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "30,200",
-      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
       "location": "NSW"
     }
   ]

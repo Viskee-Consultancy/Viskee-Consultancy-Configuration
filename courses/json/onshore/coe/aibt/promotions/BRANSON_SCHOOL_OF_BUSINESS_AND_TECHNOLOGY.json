@@ -1,16 +1,16 @@
 {
     "courses": [
         {
-            "vetCode": "BSB50820",
-            "cricosCode": "104063J",
+            "vetCode": "BSB40920",
+            "cricosCode": "103930A",
             "department": "Management",
-            "name": "Diploma of Project Management",
+            "name": "Certiﬁcate IV in Project Management Practice",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6000 (NSW/TAS);4800(QLD)",
+            "tuition": "4800 ",
             "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "location": "QLD",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB60720",
@@ -22,7 +22,7 @@
             "tuition": "6000 (NSW/TAS);4800(QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB50420",
@@ -34,7 +34,7 @@
             "tuition": "6000 (NSW/TAS); 4800 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB60420",
@@ -46,7 +46,7 @@
             "tuition": "6000 (NSW/TAS); 4800 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "TLI50221",
@@ -58,7 +58,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "TLI60222",
@@ -70,7 +70,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB80120",
@@ -82,7 +82,7 @@
             "tuition": "8000 (NSW/TAS); 6500 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB80320",
@@ -94,7 +94,7 @@
             "tuition": "8000 (NSW/TAS); 6500 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "ICT50220",
@@ -106,19 +106,20 @@
             "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
-        {
+         {
             "vetCode": "ICT60220",
             "cricosCode": "107122A",
             "department": "Information Technology",
             "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16000",
+            "tuition": "16000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "location": "NSW/QLD/TAS(Currently not accepting Enrolments in QLD)",
+            "note": "TAS students - The first three months of study will be delivered online only. ",
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -130,7 +131,7 @@
             "tuition": "12000 (NSW/TAS); 9600 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -142,7 +143,7 @@
             "tuition": "12000 (NSW/TAS); 9600 (QLD)",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -154,7 +155,7 @@
             "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         },
         {
             "vetCode": "TLI50221/ TLI60222",
@@ -166,7 +167,7 @@
             "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
         }
     ]
 }

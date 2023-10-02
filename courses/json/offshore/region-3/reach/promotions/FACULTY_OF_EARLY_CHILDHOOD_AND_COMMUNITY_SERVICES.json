@@ -1,100 +1,16 @@
 {
     "courses": [
         {
-            "vetCode": " CHC52015",
-            "cricosCode": "106059M",
-            "department": "Community Services",
-            "name": " Diploma of Community Services",
-            "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
             "vetCode": "CHC62015",
             "cricosCode": "108799C",
             "department": "Management",
             "name": "Advanced Diploma of Community Sector Management",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "CHC43115/CHC52015",
-            "cricosCode": "108800D/106059M",
-            "department": "Packages",
-            "name": "Certificate IV in Disability + Diploma of Community Services",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "21,700",
-            "tuitionDetail": "21,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "220",
-            "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "CHC52015/CHC62015",
-            "cricosCode": "106059M/108799C",
-            "department": "Packages",
-            "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "CHC33015/CHC43115/CHC52015",
-            "cricosCode": "108802B/108800D/106059M ",
-            "department": "Packages",
-            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability +Diploma of Community Services(Fast Track students may be required to attend classes 3 days per week)",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "220",
-            "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "CHC52015/BSB80120",
-            "cricosCode": "106059M/105392F",
-            "department": "Packages",
-            "name": "Diploma of Community Services + Graduate Diploma of Strategic Leadership",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
-        },
-        {
-            "vetCode": "CHC52015/BSB60420",
-            "cricosCode": "106059M/105426A",
-            "department": "Packages",
-            "name": "Diploma of Community Services +Advanced Diploma of Leadership and Management",
-            "duration": "104",
-            "durationDetail": "96 wks Tuition + 8 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "placementDuration": "100",
-            "placementFee": "500",
-            "promotionValidity": "Promotion valid until 30TH June 2023"
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
         }
     ]
 }

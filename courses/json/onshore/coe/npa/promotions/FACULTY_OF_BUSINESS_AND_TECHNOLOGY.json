@@ -10,7 +10,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
     },
     {
       "vetCode": "BSB60420",
@@ -22,7 +22,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
     },
     {
       "vetCode": "BSB60720",
@@ -34,7 +34,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
     },
     {
       "vetCode": "BSB80120",
@@ -46,7 +46,31 @@
       "tuition": "8,200",
       "tuitionDetail": "8,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
+    },
+    {
+      "vetCode": "ICT50220",
+      "cricosCode": " 112266J",
+      "department": "BUSINESS",
+      "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "8,200",
+      "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
+    },
+    {
+      "vetCode": "ICT60220",
+      "cricosCode": " 112267H",
+      "department": "BUSINESS",
+      "name": "Advanced Diploma of Information Technology(Telecommunications Network Engineering",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "16,200",
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
     },
     {
       "vetCode": "BSB50820/BSB60420",
@@ -58,7 +82,19 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2023"
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
+    },
+    {
+      "vetCode": "BSB50820/BSB60720",
+      "cricosCode": " 112259H/112268G",
+      "department": "PACKAGES",
+      "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th SEPTEMBER 2023"
     }
   ]
 }
