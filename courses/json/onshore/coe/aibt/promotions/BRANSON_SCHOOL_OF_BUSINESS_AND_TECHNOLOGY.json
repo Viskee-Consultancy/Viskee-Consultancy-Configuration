@@ -7,10 +7,10 @@
             "name": "Certiﬁcate IV in Project Management Practice",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "4800 ",
+            "tuition": "6000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "QLD",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB60720",
@@ -19,10 +19,10 @@
             "name": "Advanced Diploma of Program Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6000 (NSW/TAS);4800(QLD)",
+            "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB50420",
@@ -31,10 +31,22 @@
             "name": "Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6000 (NSW/TAS); 4800 (QLD)",
+            "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+        },
+         {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "Management",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6000",
+            "tuitionDetail": "total tuition + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB60420",
@@ -43,10 +55,10 @@
             "name": "Advanced Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "6000 (NSW/TAS); 4800 (QLD)",
+            "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "TLI50221",
@@ -58,7 +70,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "TLI60222",
@@ -70,7 +82,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB80120",
@@ -79,10 +91,10 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8000 (NSW/TAS); 6500 (QLD)",
+            "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB80320",
@@ -91,10 +103,10 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8000 (NSW/TAS); 6500 (QLD)",
+            "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "ICT50220",
@@ -106,7 +118,7 @@
             "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
          {
             "vetCode": "ICT60220",
@@ -117,9 +129,9 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently not accepting Enrolments in QLD)",
+            "location": "NSW/TAS",
             "note": "TAS students - The first three months of study will be delivered online only. ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -128,10 +140,10 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "12000 (NSW/TAS); 9600 (QLD)",
+            "tuition": "12000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -140,10 +152,10 @@
             "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "12000 (NSW/TAS); 9600 (QLD)",
+            "tuition": "12000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -155,7 +167,7 @@
             "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "TLI50221/ TLI60222",
@@ -167,7 +179,7 @@
             "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         }
     ]
 }
