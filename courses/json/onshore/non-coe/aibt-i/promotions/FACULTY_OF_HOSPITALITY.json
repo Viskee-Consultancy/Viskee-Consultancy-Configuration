@@ -1,16 +1,3 @@
 {
-  "courses": [
-    {
-      "vetCode": "SIT60316",
-      "cricosCode": "095335B",
-      "department": "HOSPITALITY",
-      "name": "Advanced Diploma of Hospitality Management",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "16,200",
-      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-      "location": "NSW/QLD",
-      "promotionValidity": "Promotion valid until 31th December 2023"
-    }
-  ]
+  "courses": []
 }
