@@ -7,13 +7,13 @@
             "name": "Certificate III in Individual Support (Ageing)",
             "duration": "52",
             "durationDetail": "44 wks tuition + 8 wks break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC33021",
@@ -22,13 +22,13 @@
             "name": "Certificate III in Individual Support (Disability) ",
             "duration": "52",
             "durationDetail": "44 wks tuition + 8 wks break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC43015",
@@ -37,13 +37,13 @@
             "name": "Certificate IV in Ageing Support",
             "duration": "52",
             "durationDetail": "44 wks tuition + 8 wks break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC52021",
@@ -52,13 +52,13 @@
             "name": "Diploma of Community Services",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
-            "tuition": "8,200",
-            "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "200",
             "placementFee": "500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC30121",
@@ -67,13 +67,13 @@
             "name": "Certiﬁcate III in Early Childhood Education and Care",
             "duration": "52",
             "durationDetail": "46 wks Tuition + 6 wks Break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "160",
             "placementFee": "500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC33021 / CHC43015 / CHC52021",
@@ -82,13 +82,13 @@
             "name": "Certificate III in Individual Support(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "440",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
             "note": "Students are required to attend class 3 days per week. "
         },
         {
@@ -98,13 +98,13 @@
             "name": "Certificate III in Individual Support(Disability) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,200",
-            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "440",
             "placementFee": "1,500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
             "note": "Students are required to attend class 3 days per week. "
         },
         {
@@ -114,13 +114,28 @@
             "name": "Certificate III in  Individual Support (Ageing)  + Certificate IV in Ageing Support",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+        },
+        {
+            "vetCode": "CHC33021 / CHC43015",
+            "cricosCode": "113808J/090852K",
+            "department": "Packages",
+            "name": "Certificate III in  Individual Support (Disability)  + Certificate IV in Ageing Support",
+            "duration": "104",
+            "durationDetail": "88 wks tuition + 16 wks break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "placementDuration": "240",
+            "placementFee": "1000",
+            "placementDetail": "Placement will only commence after the 52th week",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC33021 / CHC52021",
@@ -129,13 +144,13 @@
             "name": "Certificate III in  Individual Support (Ageing)  + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "320",
             "placementFee": "1000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC33021 / CHC52021 ",
@@ -144,29 +159,13 @@
             "name": "Certificate III in  Individual Support (Disability)  + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "TAS",
             "placementDuration": "320",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
-        },
-        {
-            "vetCode": "CHC43015 / CHC52021",
-            "cricosCode": "090852K/113809H",
-            "department": "Packages",
-            "name": " Certificate IV in Ageing Support + Diploma of Community Services",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-            "location": "NSW / QLD / TAS",
-            "placementDuration": "320",
-            "placementFee": "1,000",
-            "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
-            "note": "Students are required to attend class 3 days per week. "
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
         {
             "vetCode": "CHC30121 / CHC50121 ",
@@ -175,13 +174,13 @@
             "name": "Certiﬁcate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
             "duration": "104",
             "durationDetail": "92 wks tuition + 12 wks break",
-            "tuition": "17,200",
-            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
             "placementDuration": "440",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         }
     ]
 }
