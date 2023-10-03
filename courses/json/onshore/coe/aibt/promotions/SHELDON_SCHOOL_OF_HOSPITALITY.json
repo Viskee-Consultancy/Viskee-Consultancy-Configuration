@@ -166,7 +166,8 @@
             "tuition": "12200",
             "tuitionDetail": "12000 tuition fee + 200 handling fee",
             "location": "QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "note": "These qualifications may require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
         }
     ]
 }
