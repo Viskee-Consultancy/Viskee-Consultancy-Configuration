@@ -2,13 +2,13 @@
   "courses": [
     {
       "vetCode": "BSB80220",
-      "cricosCode": " 104499C",
+      "cricosCode": "104499C",
       "department": "BUSINESS",
       "name": "Graduate Diploma of Portfolio Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "11,200",
-      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
       "location": "NSW/QLD"
     }
   ]

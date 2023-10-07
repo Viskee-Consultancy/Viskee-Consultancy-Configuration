@@ -4,14 +4,14 @@
             "vetCode": "AUR30620",
             "cricosCode": "103638E",
             "department": "Automotive",
-            "name": "Certiﬁcate III in Light Vehicle Mechanical Technology ",
+            "name": "Certiﬁcate III in Light Vehicle Mechanical Technology (Fast track intensive course)",
             "duration": "52",
             "durationDetail": "44 wks tuition + 8 wks break",
-            "tuition": "12200(NSW/QLD);10200(TAS)",
-            "tuitionDetail": " 12000(NSW/QLD)+ 200 handling fee;10000(TAS)tuition fee + 200 handling fee",
-            "location": "NSW / QLD / TAS",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "tuition": "11200",
+            "tuitionDetail": " 11000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "note": "Students will be required to do additional training in order to complete a fast track intensive course;This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
             "vetCode": "UEE62520",
@@ -20,10 +20,10 @@
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering ",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "23200",
-            "tuitionDetail": " 23000 tuition fee + 200 handling fee",
+            "tuition": "25200",
+            "tuitionDetail": " 25000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -33,12 +33,12 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "21,700",
+            "tuitionDetail": "21,500 tuition fee + 200 handling fee",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 30TH SEPTEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         }
     ]
