@@ -75,7 +75,7 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,700",
       "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW/VIC"
     },
     {
       "vetCode": "BSB50820/BSB60720",
@@ -130,7 +130,7 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "10,200",
       "tuitionDetail": "10,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW/VIC"
     },
     {
       "vetCode": "ICT50220",
@@ -141,7 +141,7 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW/VIC"
     },
     {
       "vetCode": "ICT40120/ICT50220",
@@ -152,18 +152,18 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "20,200",
       "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW/VIC"
     },
     {
       "vetCode": "ICT60220",
       "cricosCode": "112267H",
-      "department": "INFORMATION TECHNOLOGY",
+      "department": " INFORMATION TECHNOLOGY",
       "name": "Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "23,200",
       "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW/VIC"
     }
   ]
 }
