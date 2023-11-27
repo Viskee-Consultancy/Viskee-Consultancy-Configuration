@@ -168,32 +168,6 @@
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
             "note": "Monthly Intake Available"
-        },
-        {
-            "vetCode": "ICT50220/ICT60220",
-            "cricosCode": "107121B/107122A",
-            "department": "Packages",
-            "name": "Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "Students are required to attend class up to 4 days per week.Monthly Intake Available"
-        },
-        {
-            "vetCode": "ICT40120/ICT50220/ICT60220",
-            "cricosCode": "104691C/107121B/107122A",
-            "department": "Packages",
-            "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "156",
-            "durationDetail": "132 wks tuition + 24 wks break",
-            "tuition": "26,200",
-            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "Monthly Intake Available"
         }
     ]
 }
