@@ -129,8 +129,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "16000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/TAS",
-            "note": "TAS students - The first three months of study will be delivered online only. ",
+            "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
         },
          {
@@ -165,18 +164,6 @@
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "12000 ",
-            "tuitionDetail": "total tuition + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
-        },
-        {
-            "vetCode": "ICT50220/ICT60220",
-            "cricosCode": "107121B/107122A",
-            "department": "Packages",
-            "name": "Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
