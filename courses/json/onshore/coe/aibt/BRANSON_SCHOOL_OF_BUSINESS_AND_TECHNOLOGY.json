@@ -67,8 +67,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently not accepting enrolments in QLD)",
-            "note": "TAS students - The first three months of study will be delivered online only."
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "TLI50221",
@@ -203,25 +202,14 @@
             "location": "NSW/QLD/TAS"
         },
         {
-            "vetCode": "ICT40120/ICT50220/ICT60220",
-            "cricosCode": "104691C/107121B/107122A",
-            "department": "Packages",
-            "name": "Certificate IV in Information Technology + Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "28,200",
-            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS"
-        },
-        {
             "vetCode": "ICT50220/ICT60220",
             "cricosCode": "107121B/107122A",
             "department": "Packages",
             "name": "Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "35,200",
+            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "note": "Students are required to attend class up to 4 days per week",
             "location": "NSW/QLD/TAS"
         },
