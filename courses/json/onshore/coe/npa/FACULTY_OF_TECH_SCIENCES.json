@@ -13,6 +13,19 @@
       "promotionValidity": " "
     },
     {
+      "vetCode": "UEE30920",
+      "cricosCode": "113943B",
+      "department": "Electronics",
+      "name": "Certiﬁcate III in Electronics and Communications",
+      "duration": "52",
+      "durationDetail": "46 wks Tuition + 6 wks Break",
+      "tuition": "24,200",
+      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " ",
+      "note": "Accepting enrolments from 5th February 2024"
+    },
+    {
       "vetCode": "AUR40216",
       "cricosCode": "112262B",
       "department": "AUTOMOTIVE",
@@ -35,6 +48,19 @@
       "tuitionDetail": "13,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "promotionValidity": " "
+    },
+    {
+      "vetCode": "UEE60220",
+      "cricosCode": "113948H",
+      "department": "Electronics",
+      "name": "Advanced Diploma of Electronics and Communications Engineering",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " ",
+      "note": "Accepting enrolments from 5th February 2024"
     },
     {
       "vetCode": "AUR30620/ AUR40216",
