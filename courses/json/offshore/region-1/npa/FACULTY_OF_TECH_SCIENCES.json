@@ -50,6 +50,19 @@
       "promotionValidity": " "
     },
     {
+      "vetCode": "UEE60220",
+      "cricosCode": "113948H",
+      "department": "Electronics",
+      "name": "Advanced Diploma of Electronics and Communications Engineering",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "14,200",
+      "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": " ",
+      "note": "Accepting enrolments from 5th February 2024"
+    },
+    {
       "vetCode": "AUR30620/ AUR40216",
       "cricosCode": "112261C/112262B",
       "department": "PACKAGES",
