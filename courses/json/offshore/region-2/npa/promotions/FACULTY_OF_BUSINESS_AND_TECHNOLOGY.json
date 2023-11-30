@@ -9,7 +9,7 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,000",
       "tuitionDetail": "11,800 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     },
     {
@@ -93,7 +93,7 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "20,200",
       "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     },
     {
@@ -105,7 +105,7 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "18,200",
       "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 31th DECEMBER 2023"
     }
   ]
