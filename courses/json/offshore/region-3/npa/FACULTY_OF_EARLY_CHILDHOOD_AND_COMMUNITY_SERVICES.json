@@ -9,7 +9,7 @@
       "durationDetail": "46 wks Tuition + 6 wks Break",
       "tuition": "10,700",
       "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC (Not accepting enrolments in VIC)",
       "placementDuration": "160",
       "placementFee": "500",
       "promotionValidity": " "
@@ -23,7 +23,7 @@
       "durationDetail": "49 wks Tuition + 3 wks Break",
       "tuition": "12,700",
       "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC (Not accepting enrolments in VIC)",
       "placementDuration": "280",
       "placementFee": "500",
       "promotionValidity": " "
@@ -37,7 +37,7 @@
       "durationDetail": "92 wks Tuition + 12 wks Break",
       "tuition": "23,200",
       "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC",
       "placementDuration": "440",
       "placementFee": "1000"
     }
