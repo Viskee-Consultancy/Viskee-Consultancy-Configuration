@@ -118,7 +118,8 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "**Only available for any Diploma or Advanced Diploma with a 52 week duration."
         },
         {
             "vetCode": " / ",
@@ -130,7 +131,8 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "note": "**Only available for any Diploma or Advanced Diploma with a 52 week duration."
         },
         {
             "vetCode": "RII50520/RII60520",
@@ -155,18 +157,6 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
-        },
-        {
-            "vetCode": "ICT50220/ICT60220",
-            "cricosCode": "105388B/105389A",
-            "department": "Packages",
-            "name": "Diploma of Information Technology + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
         }
     ]
