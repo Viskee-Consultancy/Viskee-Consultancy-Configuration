@@ -10,7 +10,7 @@
             "tuition": "11200",
             "tuitionDetail": " 11000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course;This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -23,7 +23,7 @@
             "tuition": "25200",
             "tuitionDetail": " 25000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -38,7 +38,7 @@
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         }
     ]
