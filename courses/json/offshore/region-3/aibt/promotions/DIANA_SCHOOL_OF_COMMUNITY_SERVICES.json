@@ -46,6 +46,21 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.In order to complete CHC50121 - Diploma of Early Childhood Education and Care, students must attend face to face classes, up to four days per week. Students will be required to complete placement during breaks and outside of their face to face classes."
         },
         {
+            "vetCode": "CHC43015/CHC52021",
+            "cricosCode": "090852K/113809H",
+            "department": "Packages",
+            "name": "Certificate IV In Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "320",
+            "placementFee": "1000",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
+        },
+         {
             "vetCode": "CHC33021/CHC43015/CHC52021",
             "cricosCode": "113808J/090852K/113809H",
             "department": "Packages",
