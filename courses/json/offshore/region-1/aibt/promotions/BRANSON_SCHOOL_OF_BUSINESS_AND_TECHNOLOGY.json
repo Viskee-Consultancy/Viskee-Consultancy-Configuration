@@ -10,7 +10,33 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+         {
+            "vetCode": "TLI50221",
+            "cricosCode": "108116B",
+            "department": "Logistics",
+            "name": "Diploma of Logistics",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "Management",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
             "note": "Monthly Intake Available"
         },
         {
@@ -20,10 +46,62 @@
             "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+          {
+            "vetCode": "BSB60720",
+            "cricosCode": "104452G",
+            "department": "Management",
+            "name": "Advanced Diploma of Program Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "TLI60222",
+            "cricosCode": "111987F",
+            "department": "Management",
+            "name": "Advanced Diploma of Supply Chain Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+         {
+            "vetCode": "BSB60420",
+            "cricosCode": "107118H",
+            "department": "Management",
+            "name": "Advanced Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Monthly Intake Available"
+        },
+        {
+            "vetCode": "BSB80120",
+            "cricosCode": "107120C",
+            "department": "Management",
+            "name": "Graduate Diploma of Management (Learning)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
             "note": "Monthly Intake Available"
         },
         {
@@ -36,7 +114,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
             "note": "Monthly Intake Available"
         },
         {
@@ -49,7 +127,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
             "note": "Monthly Intake Available"
         },
         {
@@ -62,7 +140,7 @@
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
             "note": "Only available for any Diploma or Advanced Diploma with a 52 week duration"
         },
         {
@@ -75,8 +153,8 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-            "note": "**Only available for any Diploma or Advanced Diploma with a 52 week duration"
+            "promotionValidity": "Promotion valid until 31TH MARCH 2024",
+            "note": "Only available for any Diploma or Advanced Diploma with a 52 week duration"
         }
     ]
 }
