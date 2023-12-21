@@ -9,11 +9,12 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021",
@@ -24,11 +25,12 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021",
@@ -38,11 +40,12 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC43015",
@@ -57,7 +60,8 @@
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC52021",
@@ -71,7 +75,8 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC30121",
@@ -84,7 +89,8 @@
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "160",
-            "placementFee": "500"
+            "placementFee": "500",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC50121",
@@ -97,7 +103,8 @@
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "280",
-            "placementFee": "500"
+            "placementFee": "500",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021 / CHC43015",
@@ -108,11 +115,12 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "18,200",
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021 / CHC52021",
@@ -123,10 +131,11 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021 / CHC52021",
@@ -137,10 +146,11 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021 / CHC52021",
@@ -151,10 +161,11 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Accepting Enrolments in TAS Only)",
+            "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
          {
             "vetCode": "CHC43015 / CHC52021",
@@ -168,7 +179,8 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC33021 / CHC43015 / CHC52021",
@@ -183,7 +195,22 @@
             "placementDuration": "440",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until  31th Dec 2021",
-            "note": "Students are required to attend class 3 days per week"
+            "note": "Students are required to attend class 3 days per week;Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services"
+        },
+         {
+            "vetCode": "CHC33021 / CHC43015 / CHC52021",
+            "cricosCode": "113808J/090852K/113809H",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "440",
+            "placementFee": "1000",
+            "promotionValidity": "Promotion valid until  31th Dec 2021",
+            "note": "Students are required to attend class 3 days per week;Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services"
         },
         {
             "vetCode": "CHC30121 / CHC50121 ",
@@ -196,7 +223,8 @@
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "440",
-            "placementFee": "1000"
+            "placementFee": "1000",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         }
     ]
 }
