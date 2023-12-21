@@ -12,7 +12,8 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC30121",
@@ -27,7 +28,7 @@
             "placementDuration": "160",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 31ST MARCH 2024",
-            "note": " "
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC50121",
@@ -42,7 +43,7 @@
             "placementDuration": "280",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 31ST MARCH 2024",
-            "note": "In order to complete CHC50121 - Diploma of Early Childhood Education and Care, students must attend face to face classes, up to four days per week. Students will be required to complete placement during breaks and outside of their face to face classes."
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.In order to complete CHC50121 - Diploma of Early Childhood Education and Care, students must attend face to face classes, up to four days per week. Students will be required to complete placement during breaks and outside of their face to face classes."
         },
         {
             "vetCode": "CHC33021/CHC43015/CHC52021",
@@ -56,7 +57,8 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "440",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
             "vetCode": "CHC30121/CHC50121",
@@ -71,7 +73,7 @@
             "placementDuration": "440",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 31ST MARCH 2024",
-            "note": " "
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         }
     ]
 }
