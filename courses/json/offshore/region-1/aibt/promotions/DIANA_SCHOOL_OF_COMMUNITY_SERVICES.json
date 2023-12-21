@@ -7,16 +7,32 @@
             "name": "Certificate III in Individual Support (Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,700",
-            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/QLD/TAS",
             "placementDuration": "440",
             "placementFee": "1,000",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-            "note": "Students are required to attend class 3 days per week;Monthly Intake Available",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+            "note": "Students are required to attend class 3 days per week;Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
+        },
+         {
+            "vetCode": "CHC33021 / CHC43015 / CHC52021",
+            "cricosCode": " 113808J/090852K/113809H",
+            "department": "Packages",
+            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Ageing Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+            "tuitionHalf": " ",
+            "tuitionHalfDetail": " ",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "440",
+            "placementFee": "1,000",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+            "note": "Students are required to attend class 3 days per week;Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
          {
             "vetCode": "CHC43015 / CHC52021",
@@ -32,8 +48,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "320",
             "placementFee": "1,000",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-            "note": "Monthly Intake Available",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
@@ -50,8 +65,7 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "440",
             "placementFee": "1,000",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-            "note": "Monthly Intake Available",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         }
     ]
