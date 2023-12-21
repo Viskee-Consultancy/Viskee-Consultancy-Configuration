@@ -223,7 +223,8 @@
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "440",
-            "placementFee": "1000"
+            "placementFee": "1000",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         }
     ]
 }
