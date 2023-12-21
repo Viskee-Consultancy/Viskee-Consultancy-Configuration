@@ -13,7 +13,7 @@
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC33021",
@@ -28,7 +28,7 @@
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC43015",
@@ -43,7 +43,7 @@
             "placementDuration": "120",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 35th week",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC52021",
@@ -58,7 +58,7 @@
             "placementDuration": "200",
             "placementFee": "500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC30121",
@@ -73,7 +73,7 @@
             "placementDuration": "160",
             "placementFee": "500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC33021 / CHC43015 / CHC52021",
@@ -88,7 +88,7 @@
             "placementDuration": "440",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "Students are required to attend class 3 days per week. "
         },
         {
@@ -104,7 +104,7 @@
             "placementDuration": "440",
             "placementFee": "1,500",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024",
             "note": "Students are required to attend class 3 days per week. "
         },
         {
@@ -114,13 +114,13 @@
             "name": "Certificate III in  Individual Support (Ageing)  + Certificate IV in Ageing Support",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "18,700",
-            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
             "placementDuration": "240",
             "placementFee": "500",
             "placementDetail": "Placement will only commence after the 52th week",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC33021 / CHC43015",
@@ -129,13 +129,13 @@
             "name": "Certificate III in  Individual Support (Disability)  + Certificate IV in Ageing Support",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "18,700",
-            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
             "placementDuration": "240",
             "placementFee": "1000",
             "placementDetail": "Placement will only commence after the 52th week",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC33021 / CHC52021",
@@ -144,13 +144,13 @@
             "name": "Certificate III in  Individual Support (Ageing)  + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "18,700",
-            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
             "placementDuration": "320",
             "placementFee": "1000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC33021 / CHC52021 ",
@@ -159,13 +159,13 @@
             "name": "Certificate III in  Individual Support (Disability)  + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks tuition + 16 wks break",
-            "tuition": "18,700",
-            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
-            "location": "TAS",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW / QLD / TAS",
             "placementDuration": "320",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         },
         {
             "vetCode": "CHC30121 / CHC50121 ",
@@ -180,7 +180,7 @@
             "placementDuration": "440",
             "placementFee": "1,000",
             "placementDetail": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2024"
         }
     ]
 }
