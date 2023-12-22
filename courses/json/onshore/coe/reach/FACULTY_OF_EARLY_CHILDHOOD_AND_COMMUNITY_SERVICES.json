@@ -12,8 +12,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
             "placementDuration": "120",
             "placementFee": "500",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
         {
              "vetCode": "CHC43121",
@@ -27,8 +26,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
             "placementDuration": "40",
             "placementFee": "500",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
         {
             "vetCode": " CHC52021",
@@ -42,8 +40,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
         {
             "vetCode": "CHC62015",
@@ -55,8 +52,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
         {
             "vetCode": "CHC33021/CHC43121",
@@ -70,8 +66,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
             "placementDuration": "160",
             "placementFee": "1000",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
         {
             "vetCode": "CHC33021/CHC52021",
@@ -85,8 +80,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
             "placementDuration": "320",
             "placementFee": "1000",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
          {
             "vetCode": "CHC43121/CHC52021",
@@ -100,8 +94,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
             "placementDuration": "240",
             "placementFee": "1000",
-            "promotionValidity": " ",
-             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
          {
             "vetCode": "CHC52021/CHC62015",
@@ -115,8 +108,7 @@
             "location": "NSW/TAS(Currently not accepting enrolments in TAS)",
             "placementDuration": "200",
             "placementFee": "1000",
-            "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         },
          {
             "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -130,8 +122,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
             "placementDuration": "360",
             "placementFee": "1000",
-            "promotionValidity": " ",
-             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "promotionValidity": " "
         }
     ]
 }
