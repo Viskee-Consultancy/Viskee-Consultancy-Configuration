@@ -151,9 +151,9 @@
             "name": "Advanced Diploma of Civil Construction Design",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "21,200",
-            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-            "location": ""NSW/VIC",
+            "tuition": "21,200 (NSW/VIC); 20,000(TAS)",
+            "tuitionDetail": "tuition fee + 200 handling fee",
+            "location": "NSW/VIC/TAS",
             "promotionValidity": "Promotion valid until 31st March 2024"
         },
         {
@@ -211,8 +211,8 @@
             "name": "Diploma of Civil Construction Design + Advanced Diploma of Civil Construction Design",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "21,200",
-            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+            "tuition": "21,200 (NSW/VIC); 20,000(TAS)",
+            "tuitionDetail": "tuition fee + 200 handling fee",
             "location": "NSW/VIC",
             "promotionValidity": "Promotion valid until 31st March 2024",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
