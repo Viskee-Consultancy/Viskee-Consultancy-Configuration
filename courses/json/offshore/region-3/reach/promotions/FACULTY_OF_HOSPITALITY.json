@@ -1,21 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "SIT60316#",
-            "cricosCode": "105424C",
-            "department": "Hospitality",
-            "name": "Advanced Diploma of Hospitality Management ",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 12 complete service periods (shifts) for unit SITHKOP005 - Coordinate cooking operations."
-        },
-        {
-            "vetCode": "SIT30821/SIT40521/SIT50416#",
-            "cricosCode": "109904K/109596F/105423D",
+            "vetCode": "SIT30821/SIT40521/SIT50422",
+            "cricosCode": "109904K/109596F/114549D",
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
@@ -23,12 +10,12 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 30th June 2024",
+            "note": "These qualifications require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT40521/SIT60316#",
-            "cricosCode": "109596F/105424C",
+            "vetCode": "SIT40521/SIT60322",
+            "cricosCode": "109596F/114550M",
             "department": "Packages",
             "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
@@ -36,21 +23,8 @@
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "SIT50416#/SIT60316#",
-            "cricosCode": "105423D/105424C",
-            "department": "Packages",
-            "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "21,200",
-            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
+            "promotionValidity": "Promotion valid until 30th June 2024",
+            "note": "These qualifications require complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
         }
     ]
 }
