@@ -10,7 +10,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31st March 2024"
         },
         {
             "vetCode": "AUR30320",
@@ -22,7 +22,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31st March 2024"
         },
         {
             "vetCode": "AUR30620",
@@ -35,7 +35,7 @@
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course.",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023"
+            "promotionValidity": "Promotion valid until 31st March 2024"
         },
          {
             "vetCode": "AUR30620/ AUR40216",
@@ -47,7 +47,7 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "New Melbourne Location",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31st March 2024",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -60,7 +60,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31st March 2024",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         },
         {
@@ -73,7 +73,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31TH DECEMBER 2023",
+            "promotionValidity": "Promotion valid until 31st March 2024",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
         }
     ]
