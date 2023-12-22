@@ -89,15 +89,14 @@
             "location": "NSW/TAS/VIC"
         },
         {
-            "vetCode": "FNS50217#",
-            "cricosCode": "105606H",
+            "vetCode": "FNS50222",
+            "cricosCode": "114547F",
             "department": "Business",
             "name": "Diploma of Accounting",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "location": "NSW/TAS(Currently not accepting enrolments)"
         },
         {
@@ -113,15 +112,14 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS60217#",
-            "cricosCode": "105607G",
+            "vetCode": "FNS60222",
+            "cricosCode": "114548E",
             "department": "Business",
             "name": "Advanced Diploma of Accounting",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "location": "NSW/TAS(Currently not accepting enrolments)"
         },
         {
@@ -224,28 +222,26 @@
             "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS40222/FNS50217#",
-            "cricosCode": "110024K/105606H",
+            "vetCode": "FNS40222/FNS50222",
+            "cricosCode": "110024K/114547F",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "NSW/TAS(Currently not accepting enrolments)"
+            "location": "NSW/TAS"
         },
         {
-            "vetCode": "FNS40222/FNS50217#/FNS60217#",
-            "cricosCode": "110024K/105606H/105607G",
+            "vetCode": "FNS40222/FNS50222/FNS60222",
+            "cricosCode": "110024K/114547F/114548E",
             "department": "Packages",
             "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
             "duration": "156",
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "NSW/TAS(Currently not accepting enrolments)"
+            "location": "NSW/TAS"
         },
         {
             "vetCode": "ICT40120/ICT50220",
