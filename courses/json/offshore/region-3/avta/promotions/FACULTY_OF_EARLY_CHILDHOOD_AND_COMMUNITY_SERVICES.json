@@ -11,21 +11,21 @@
           "tuitionDetail": "23,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "Promotion valid until 30st June 2024",
           "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC30121/CHC50121",
           "cricosCode": "113023J/113025G",
           "department": "PACKAGES",
-          "name": "DIPLOMA OF COMMUNITY SERVICES + ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
+          "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE + DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
           "duration": "104",
           "durationDetail": "92 wks Tuition + 12 wks Break",
           "tuition": "21,200",
           "tuitionDetail": "21,000 tuition fee + 200 handling fee",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "Promotion valid until 30st June 2024",
           "location": "TAS"
       },
       {
@@ -39,7 +39,7 @@
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "Promotion valid until 30st June 2024",
           "location": "TAS/NSW"
       }
   ]
