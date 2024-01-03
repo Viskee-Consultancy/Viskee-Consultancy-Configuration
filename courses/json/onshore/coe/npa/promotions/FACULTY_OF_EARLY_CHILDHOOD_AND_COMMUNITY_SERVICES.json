@@ -7,12 +7,12 @@
       "name": "Certificate III in Early Childhood Education and Care",
       "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": "8,700",
-      "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+      "tuition": "9,200",
+      "tuitionDetail": "9,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC (Not accepting enrolments in VIC)",
       "placementDuration": "160",
       "placementFee": "500",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": " CHC50121",
@@ -21,12 +21,12 @@
       "name": "Diploma of Early Childhood Education and Care",
       "duration": "52",
       "durationDetail": "49 wks Tuition + 3 wks Break",
-      "tuition": "8,700",
-      "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+      "tuition": "9,200",
+      "tuitionDetail": "9,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC (Not accepting enrolments in VIC)",
       "placementDuration": "280",
       "placementFee": "500",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "CHC30121/CHC50121",
@@ -35,12 +35,12 @@
       "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "17,200",
-      "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+      "tuition": "18,200",
+      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "placementDuration": "440",
       "placementFee": "1000",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     }
   ]
 }
