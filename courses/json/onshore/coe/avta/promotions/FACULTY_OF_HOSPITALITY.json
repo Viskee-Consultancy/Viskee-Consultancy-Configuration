@@ -7,11 +7,11 @@
           "name": "ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "16,200",
-          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+          "tuition": "16,700",
+          "tuitionDetail": "16,500 tuition fee + 200 handling fee",
           "note": "Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "NSW"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
      {
           "vetCode": "SIT50422/SIT60322",
@@ -20,11 +20,11 @@
           "name": "DIPLOMA OF HOSPITALITY MANAGEMENT + ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "16,200",
-          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
+          "tuition": "16,700",
+          "tuitionDetail": "16,500 tuition fee + 200 handling fee",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
           "note": "These qualifications may require service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website.",
-          "location": "NSW "
+          "location": "TAS/NSW "
       }
   ]
 }
