@@ -48,7 +48,7 @@
           "durationDetail": "46 wks tuition + 6 wks break",
           "tuition": "12,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW (Currently Not Accepting Enrolments)"
+          "location": "TAS/NSW (Accepting Enrolments from 5th August 2024)"
       },
       {
           "vetCode": "CHC30121",
@@ -61,7 +61,7 @@
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
           "placementDuration": "160",
           "placementFee": "500",
-          "location": "TAS(Currently Only Accepting Offshore Enrolments)"
+          "location": "TAS/NSW (Currently Only Accepting Offshore Enrolments)"
       },
       {
           "vetCode": "CHC50121",
@@ -74,7 +74,7 @@
           "tuitionDetail": "11,500 tuition fee + 200 handling fee",
           "placementDuration": "280",
             "placementFee": "500",
-          "location": "TAS (Currently Only Accepting Offshore Enrolments)"
+          "location": "TAS/NSW (Currently Not Accepting Enrolments)"
       },
       {
           "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -88,6 +88,19 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "location": "TAS/NSW "
+      },
+     {
+          "vetCode": "CHC30121/CHC50121",
+          "cricosCode": "113023J/113025G",
+          "department": "PACKAGES",
+          "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE + DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "21,200",
+          "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+          "placementDuration": "440",
+          "placementFee": "1000",
+          "location": "TAS/NSW (Currently Only Accepting Offshore Enrolments) "
       },
       {
           "vetCode": "CHC52021/CHC62015",
