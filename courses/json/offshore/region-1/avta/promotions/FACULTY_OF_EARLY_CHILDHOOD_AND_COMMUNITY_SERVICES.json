@@ -11,7 +11,7 @@
           "tuitionDetail": "19,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
           "location": "TAS/NSW"
       },
       {
@@ -25,8 +25,8 @@
           "tuitionDetail": "19,000 tuition fee + 200 handling fee",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
-          "location": "TAS"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -39,7 +39,7 @@
           "tuitionDetail": "19,000 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
           "location": "TAS/NSW"
       }
   ]
