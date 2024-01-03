@@ -7,12 +7,12 @@
           "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY)",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "8,700",
-          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
           "placementDuration": "120",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "TAS"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
      {
           "vetCode": "CHC43121",
@@ -21,12 +21,12 @@
           "name": "CERTIFICATE IV IN DISABILITY SUPPORT",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "8,700",
-          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
           "placementDuration": "40",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023 ",
-          "location": "TAS(Currently Not Accepting Enrolments)"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC52021",
@@ -35,12 +35,12 @@
           "name": "DIPLOMA OF COMMUNITY SERVICES",
           "duration": "52",
           "durationDetail": "48 wks Tuition + 4 wks Break",
-          "tuition": "8,700",
-          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "TAS"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
      {
           "vetCode": "CHC62015",
@@ -49,10 +49,10 @@
           "name": "ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
           "duration": "52",
           "durationDetail": "46 wks tuition + 6 wks break",
-          "tuition": "8,700",
-          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "TAS(Accepting Enrolments from 5th August 2024)"
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW (Accepting Enrolments from 5th August 2024)"
       },
       {
           "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -61,12 +61,12 @@
           "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY) + CERTIFICATE IV IN DISABILITY SUPPORT + DIPLOMA OF COMMUNITY SERVICES",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "16,200",
-          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+          "tuition": "18,700",
+          "tuitionDetail": "18,500 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "NSW"
+          "promotionValidity": "Promotion valid until 31ST MARCH 2024",
+          "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC52021/CHC62015",
@@ -75,12 +75,12 @@
           "name": "DIPLOMA OF COMMUNITY SERVICES + ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "17,200",
-          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "tuition": "18,200",
+          "tuitionDetail": "18,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST DECEMBER 2023",
-          "location": "NSW"
+          "location": "TAS/NSW"
       }
   ]
 }
