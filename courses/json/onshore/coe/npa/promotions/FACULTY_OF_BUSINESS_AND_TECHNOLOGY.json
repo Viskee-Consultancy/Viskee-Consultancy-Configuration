@@ -10,7 +10,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "BSB60420",
@@ -22,7 +22,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "BSB60720",
@@ -34,7 +34,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "BSB80120",
@@ -46,7 +46,7 @@
       "tuition": "8,200",
       "tuitionDetail": "8,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "ICT50220",
@@ -55,10 +55,10 @@
       "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "8,200",
-      "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+      "tuition": "8,700",
+      "tuitionDetail": "8,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "ICT60220",
@@ -67,10 +67,10 @@
       "name": "Advanced Diploma of Information Technology(Telecommunications Network Engineering",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "16,200",
-      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "tuition": "17,200",
+      "tuitionDetail": "17,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "BSB50820/BSB60420",
@@ -82,7 +82,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     },
     {
       "vetCode": "BSB50820/BSB60720",
@@ -94,7 +94,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 31ST DECEMBER 2023"
+      "promotionValidity": "Promotion valid until 31st March 2024"
     }
   ]
 }
