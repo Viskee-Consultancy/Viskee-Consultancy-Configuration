@@ -16,6 +16,21 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
         {
+            "vetCode": "CHC33021",
+            "cricosCode": "114151D",
+            "department": "COMMUNITY SERVICES",
+            "name": "Certificate III in Individual Support (Ageing)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "VIC(Accepting enrolments from 26th Feb 2024)",
+            "placementDuration": "120",
+            "placementFee": "500",
+            "promotionValidity": " ",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+        {
              "vetCode": "CHC43121",
             "cricosCode": "114152C",
             "department": "COMMUNITY SERVICES",
@@ -39,7 +54,7 @@
             "durationDetail": "46 wks Tuition + 6 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
+            "location": "NSW/TAS/VIC(Accepting enrolments from 26th Feb 2024)",
             "placementDuration": "200",
             "placementFee": "500",
             "promotionValidity": " ",
