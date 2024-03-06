@@ -39,7 +39,7 @@
             "tuitionDetail": "6,000 tuition fee + 200 handling fee",
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-            "location": "NSW/TAS",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31st March 2024"
         },
         {
@@ -53,21 +53,21 @@
             "tuitionDetail": "7,000 tuition fee + 200 handling fee",
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
-            "location": "NSW/TAS",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31st March 2024"
         },
         {
             "vetCode": "RII60520",
             "cricosCode": "106655B",
             "department": " CIVIL CONSTRUCTION DESIGN",
-            "name": "Advanced Diploma of Civil Construction Design",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "16,000",
-            "tuitionHalfDetail": "First year (1st payment)-$3,925 Tuition fee+$200 Handling fee+1 x $25 Instalment fee+First year (2nd payment)-$3,925 Tuition fee+1 x $25 Instalment fee +Second year (3rd payment) - $3,925 Tuition fee + 1 x $25 Instalment fee (must be paid at commencement of second year) + Second year (4th payment) - $3,925 Tuition fee + 1 x $25 Instalment fee",
-            "location": "NSW/TAS",
+            "name": "Advanced Diploma of Civil Construction Design (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31st March 2024"
         }
     ]
