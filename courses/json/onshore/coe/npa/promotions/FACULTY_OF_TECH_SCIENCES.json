@@ -11,7 +11,7 @@
       "tuitionDetail": "11,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "Students will be required to do additional training in order to complete a fast track intensive course",
-      "promotionValidity": "Promotion valid until 31st March 2024"
+      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     },
     {
       "vetCode": "AUR50116",
@@ -23,7 +23,7 @@
       "tuition": "10,200(NSW);6,200(VIC)",
       "tuitionDetail": "tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31st March 2024"
+      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     },
     {
       "vetCode": "AUR30620/ AUR40216/AUR50116",
@@ -35,7 +35,7 @@
       "tuition": "21,700",
       "tuitionDetail": "21,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31st March 2024"
+      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     },
     {
       "vetCode": "AUR50116/BSB80120",
@@ -47,7 +47,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "VIC",
-      "promotionValidity": "Promotion valid until 31st March 2024"
+      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     }
   ]
 }
