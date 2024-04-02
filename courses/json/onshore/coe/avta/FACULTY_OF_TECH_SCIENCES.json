@@ -10,7 +10,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
-            "location": "TAS/QLD (Accepting Enrolments in QLD from 4th March 2024)"
+            "location": "TAS/QLD"
         },
         {
             "vetCode": "#AHC40416",
@@ -70,6 +70,63 @@
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD))"
+        },
+         {
+            "vetCode": "AUR30620",
+            "cricosCode": "114644E",
+            "department": "AUTOMOTIVE",
+            "name": "CERTIFICATE III IN LIGHT VEHICLE MECHANICAL TECHNOLOGY",
+            "duration": "80",
+            "durationDetail": "74 wks Tuition + 6 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "TAS/NSW/QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
+        },
+         {
+            "vetCode": "AUR40216",
+            "cricosCode": "114645D",
+            "department": "AUTOMOTIVE",
+            "name": "CERTIFICATE IV IN AUTOMOTIVE MECHANICAL DIAGNOSIS",
+            "duration": "39",
+            "durationDetail": "31 wks Tuition + 8 wks Break",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "TAS / NSW / QLD (Currently not Accepting Enrolments)"
+        },
+         {
+            "vetCode": "AUR50116",
+            "cricosCode": "114646C",
+            "department": "AUTOMOTIVE",
+            "name": "DIPLOMA OF AUTOMOTIVE MANAGEMENT",
+            "duration": "52",
+            "durationDetail": "42 wks Tuition + 10 wks Break",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "TAS / NSW / QLD (Currently not Accepting Enrolments)"
+        },
+        {
+            "vetCode": "AUR30620 / AUR40216",
+            "cricosCode": "114644E / 114645D",
+            "department": "PACKAGES",
+            "name": "CERTIFICATE III IN LIGHT VEHICLE MECHANICAL TECHNOLOGY + CERTIFICATE IV IN AUTOMOTIVE MECHANICAL DIAGNOSIS",
+            "duration": "92",
+            "durationDetail": "84 wks Tuition + 8 wks Break",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+            "location": "TAS / NSW / QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
+        },
+        {
+            "vetCode": "AUR30620 / AUR40216 / AUR50116",
+            "cricosCode": "114644E / 114645D / 114646C",
+            "department": "PACKAGES",
+            "name": "CERTIFICATE III IN LIGHT VEHICLE MECHANICAL TECHNOLOGY + CERTIFICATE IV IN AUTOMOTIVE MECHANICAL DIAGNOSIS + DIPLOMA OF AUTOMOTIVE MANAGEMENT",
+            "duration": "104",
+            "durationDetail": "96 wks Tuition + 8 wks Break",
+            "tuition": "32,200",
+            "tuitionDetail": "32,000 tuition fee + 200 handling fee",
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+            "location": "TAS / NSW / QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
         }
     ]
 }
