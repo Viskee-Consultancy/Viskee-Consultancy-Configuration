@@ -20,8 +20,8 @@
       "name": "Diploma of Automotive Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "10,200(NSW);6,200(VIC)",
-      "tuitionDetail": "tuition fee + 200 handling fee",
+      "tuition": "10,200",
+      "tuitionDetail": "10,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     },
@@ -32,21 +32,9 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "21,700",
-      "tuitionDetail": "21,500 tuition fee + 200 handling fee",
+      "tuition": "20,000(VIC);21,500(NSW)",
+      "tuitionDetail": "tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
-    },
-    {
-      "vetCode": "AUR50116/BSB80120",
-      "cricosCode": "112263A/112269F",
-      "department": "PACKAGES",
-      "name": "Diploma of Automotive Management + Graduate Diploma of Management (Learning)",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "12,200",
-      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "VIC",
       "promotionValidity": "Promotion valid until 30ST JUNE 2024"
     }
   ]
