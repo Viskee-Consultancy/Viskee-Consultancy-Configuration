@@ -9,7 +9,8 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "12,700",
           "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-          "location": "TAS/NSW "
+          "location": "TAS/NSW ",
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
       },
      {
           "vetCode": "BSB80320",
@@ -20,7 +21,8 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "12,700",
           "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-          "location": "TAS/NSW"
+          "location": "TAS/NSW",
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
       },
       {
           "vetCode": "ICT60220",
