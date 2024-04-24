@@ -20,7 +20,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC"
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "BSB60120",
@@ -31,7 +32,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS"
+            "location": "NSW/TAS",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "BSB80120",
@@ -42,7 +44,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC"
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "TLI50221",
@@ -75,7 +78,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC"
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "BSB60720",
@@ -86,7 +90,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC"
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "FNS50222",
@@ -121,7 +126,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC(Currently not accepting enrolments)"
+            "location": "NSW/TAS/VIC(Accepting enrolments in July 2024)",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "ICT40120",
