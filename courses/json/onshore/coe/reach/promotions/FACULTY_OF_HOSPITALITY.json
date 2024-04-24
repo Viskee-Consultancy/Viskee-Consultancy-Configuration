@@ -13,6 +13,19 @@
             "promotionValidity": "Promotion valid until 30ST JUNE 2024",
             "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
         },
+         {
+            "vetCode": "SIT60322",
+            "cricosCode": "114550M",
+            "department": "Hospitality",
+            "name": "Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16,700",
+            "tuitionDetail": "16,500 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2024",
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
+        },
         {
             "vetCode": "SIT30821/SIT40521/SIT50422",
             "cricosCode": "109904K/109596F/114549D",
@@ -24,7 +37,7 @@
             "tuitionDetail": "17,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30ST JUNE 2024",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40521/SIT60322",
@@ -37,7 +50,7 @@
             "tuitionDetail": "17,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 30ST JUNE 2024",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
