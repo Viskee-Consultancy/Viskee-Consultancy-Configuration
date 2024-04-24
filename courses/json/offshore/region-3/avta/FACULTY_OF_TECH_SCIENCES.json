@@ -80,7 +80,7 @@
             "durationDetail": "74 wks Tuition + 6 wks Break",
             "tuition": "26,200",
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
-            "location": "TAS/NSW/QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
+            "location": "TAS/NSW/QLD "
         },
          {
             "vetCode": "AUR40216",
@@ -91,7 +91,8 @@
             "durationDetail": "31 wks Tuition + 8 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-            "location": "TAS / NSW / QLD (Currently not Accepting Enrolments)"
+            "location": "TAS / NSW / QLD ",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
          {
             "vetCode": "AUR50116",
@@ -102,7 +103,8 @@
             "durationDetail": "42 wks Tuition + 10 wks Break",
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-            "location": "TAS / NSW / QLD (Currently not Accepting Enrolments)"
+            "location": "TAS / NSW / QLD (Currently not Accepting Enrolments)",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "AUR30620 / AUR40216",
@@ -114,7 +116,7 @@
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
-            "location": "TAS / NSW / QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
+            "location": "TAS / NSW / QLD "
         },
         {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
@@ -126,7 +128,7 @@
             "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
-            "location": "TAS / NSW / QLD (Accepting Enrolments in TAS & QLD from 15th April 2024)"
+            "location": "TAS / NSW / QLD "
         }
     ]
 }
