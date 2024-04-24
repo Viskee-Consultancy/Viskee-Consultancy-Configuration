@@ -10,7 +10,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "  "
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "AUR30320",
@@ -46,7 +46,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": " "
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "AUR40216",
@@ -58,7 +58,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": " "
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
