@@ -24,7 +24,8 @@
           "tuitionDetail": "9,500 tuition fee + 200 handling fee",
           "placementDuration": "40",
           "placementFee": "500",
-          "location": "TAS/NSW (Currently Not Accepting Enrolments)"
+          "location": "TAS/NSW (Currently Not Accepting Enrolments)",
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
       },
       {
           "vetCode": "CHC52021",
@@ -74,7 +75,8 @@
           "tuitionDetail": "11,500 tuition fee + 200 handling fee",
           "placementDuration": "280",
             "placementFee": "500",
-          "location": "TAS/NSW (Currently Not Accepting Enrolments)"
+          "location": "TAS/NSW (Currently Not Accepting Enrolments)",
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
       },
       {
           "vetCode": "CHC33021/CHC43121/CHC52021",
