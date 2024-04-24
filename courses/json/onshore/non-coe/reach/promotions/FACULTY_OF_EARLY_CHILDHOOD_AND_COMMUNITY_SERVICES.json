@@ -29,8 +29,8 @@
           "tuitionHalf": "7,000",
           "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee ",
           "location": "NSW/TAS/VIC",
-          "placementFee": " ",
-          "placementDuration": " ",
+          "placementFee": "500",
+          "placementDuration": "200 ",
           "promotionValidity": "Promotion valid until 30ST JUNE 2024",
          "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
       },
@@ -46,8 +46,8 @@
           "tuitionHalf": "7,500",
           "tuitionHalfDetail": "6,750 Tuition fee + 500 Placement fee + 200 Handling fee + 2 x 25 Instalment fee ",
           "location": "VIC",
-          "placementFee": " ",
-          "placementDuration": " ",
+          "placementFee": "500 ",
+          "placementDuration": "120 ",
           "promotionValidity": "Promotion valid until 30ST JUNE 2024",
          "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
       }  
