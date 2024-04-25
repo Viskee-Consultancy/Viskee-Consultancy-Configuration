@@ -13,14 +13,15 @@
     },
     {
       "vetCode": "FNS50222",
-      "cricosCode": "112314F",
+      "cricosCode": " 112314F",
       "department": "BUSINESS",
       "name": "Diploma of Accounting",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "11,200",
       "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB50820",
@@ -35,14 +36,15 @@
     },
     {
       "vetCode": "FNS60222",
-      "cricosCode": " 112315E",
+      "cricosCode": "112315E",
       "department": "BUSINESS",
       "name": "Advanced Diploma of Accounting",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB60420",
@@ -53,7 +55,8 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "11,200",
       "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB60720",
@@ -64,7 +67,8 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "11,200",
       "tuitionDetail": "11,000 tuition fee + 200 handling fee",
-      "location": "NSW"
+      "location": "NSW",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB80120",
@@ -75,7 +79,8 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,700",
       "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB50820/BSB60720",
