@@ -26,7 +26,8 @@
       "location": "NSW/VIC (Not accepting enrolments in VIC)",
       "placementDuration": "280",
       "placementFee": "500",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 30th June 2024",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "CHC30121/CHC50121",
