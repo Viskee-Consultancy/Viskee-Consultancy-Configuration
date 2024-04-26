@@ -23,7 +23,8 @@
       "tuition": "10,200",
       "tuitionDetail": "10,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30ST JUNE 2024"
+      "promotionValidity": "Promotion valid until 30ST JUNE 2024",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "AUR30620/ AUR40216/AUR50116",
