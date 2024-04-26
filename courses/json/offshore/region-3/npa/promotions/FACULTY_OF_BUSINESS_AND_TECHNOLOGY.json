@@ -10,7 +10,8 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 30th June 2024",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB60420/BSB80120",
@@ -22,7 +23,21 @@
       "tuition": "23,200",
       "tuitionDetail": "23,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 30th June 2024",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+    },
+       {
+      "vetCode": "BSB60720/BSB80120",
+      "cricosCode": " 112268G/112269F",
+      "department": "PACKAGES",
+      "name": "Advanced Diploma of Program Management + Graduate Diploma of Management (Learning)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "23,200",
+      "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "promotionValidity": "Promotion valid until 30th June 2024",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
       "vetCode": "BSB50820/BSB60720",
