@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "#AHC30716",
-            "cricosCode": "110597F",
+            "vetCode": "AHC30722",
+            "cricosCode": "115335K",
             "department": "HORTICULTURE",
             "name": "CERTIFICATE III IN HORTICULTURE",
             "duration": "52",
@@ -10,12 +10,11 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Accepting Enrolments in QLD from 4th March 2024)",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30st June 2024 "
         },
         {
-            "vetCode": "#AHC40416",
-            "cricosCode": "110598E",
+            "vetCode": "AHC40422",
+            "cricosCode": "115336J",
             "department": "HORTICULTURE",
             "name": "CERTIFICATE IV IN HORTICULTURE",
             "duration": "52",
@@ -23,7 +22,6 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30st June 2024"
         },
         {
@@ -39,8 +37,8 @@
             "promotionValidity": "Promotion valid until 30st June 2024"
         },
         {
-            "vetCode": "#AHC30716 / #AHC40416 / AHC51422",
-            "cricosCode": "110597F / 110598E / 110774E",
+            "vetCode": "AHC30722 / AHC40422 / AHC51422",
+            "cricosCode": "115335K / 115336J / 110774E",
             "department": "PACKAGES",
             "name": "CERTIFICATE III IN HORTICULTURE + CERTIFICATE IV IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
             "duration": "156",
@@ -48,7 +46,6 @@
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD)",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure",
             "promotionValidity": "Promotion valid until 30st June 2024"
         }
     ]
