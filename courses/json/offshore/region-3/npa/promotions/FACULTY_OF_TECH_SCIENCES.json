@@ -10,7 +10,7 @@
       "tuition": "24,200",
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
      {
       "vetCode": "UEE30920",
@@ -22,7 +22,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     }
   ]
 }
