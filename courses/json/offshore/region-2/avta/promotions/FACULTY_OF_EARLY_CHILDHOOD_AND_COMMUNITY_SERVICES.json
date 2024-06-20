@@ -11,7 +11,7 @@
           "tuitionDetail": "10,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30st June 2024",
+          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
           "location": "TAS/NSW"
       },
       {
@@ -25,7 +25,7 @@
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
           "placementDuration": " ",
           "placementFee": " ",
-          "promotionValidity": "Promotion valid until 30st June 2024",
+          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
           "location": "TAS/NSW (Accepting Enrolments from 5th August 2024)"
       },
       {
@@ -53,7 +53,7 @@
           "tuitionDetail": "19,000 tuition fee + 200 handling fee",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 30st June 2024",
+          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
           "location": "TAS/NSW"
       },
       {
@@ -67,7 +67,7 @@
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 30st June 2024",
+          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
           "location": "TAS/NSW"
       }
   ]
