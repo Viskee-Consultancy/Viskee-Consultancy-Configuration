@@ -10,7 +10,7 @@
       "tuition": "9,700",
       "tuitionDetail": "9,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "BSB60420",
@@ -22,7 +22,7 @@
       "tuition": "9,700",
       "tuitionDetail": "9,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024",
+      "promotionValidity": "Promotion valid until 31th December 2024",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -35,7 +35,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024",
+      "promotionValidity": "Promotion valid until 31th December 2024",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -48,7 +48,7 @@
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024",
+      "promotionValidity": "Promotion valid until 31th December 2024",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -61,7 +61,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "BSB50820/BSB60720",
@@ -73,7 +73,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "FNS40222/FNS50222 ",
@@ -85,7 +85,7 @@
       "tuition": "20,200",
       "tuitionDetail": "20,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "FNS40222/FNS50222/FNS60222",
@@ -97,7 +97,7 @@
       "tuition": "28,200",
       "tuitionDetail": "28,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": " + BSB80120",
@@ -109,7 +109,7 @@
       "tuition": "18,200",
       "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": " ",
@@ -121,7 +121,7 @@
       "tuition": "16,200",
       "tuitionDetail": "16,000 tuition fee + 200 handling fee",
       "location": "NSW",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "ICT40120",
@@ -133,7 +133,7 @@
       "tuition": "10,200",
       "tuitionDetail": "10,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "ICT50220",
@@ -145,7 +145,7 @@
       "tuition": "11,700",
       "tuitionDetail": "11,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "ICT40120/ICT50220",
@@ -157,7 +157,7 @@
       "tuition": "17,200",
       "tuitionDetail": "17,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     },
     {
       "vetCode": "ICT60220",
@@ -169,7 +169,7 @@
       "tuition": "19,200",
       "tuitionDetail": "19,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th June 2024"
+      "promotionValidity": "Promotion valid until 31th December 2024"
     }
   ]
 }
