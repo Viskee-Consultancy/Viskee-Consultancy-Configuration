@@ -10,7 +10,7 @@
             "tuition": "6000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "QLD",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB60720",
@@ -22,7 +22,7 @@
             "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB50420",
@@ -34,7 +34,7 @@
             "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
          {
             "vetCode": "BSB50820",
@@ -46,7 +46,7 @@
             "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB60420",
@@ -58,7 +58,7 @@
             "tuition": "6000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "TLI50221",
@@ -70,7 +70,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "TLI60222",
@@ -82,7 +82,7 @@
             "tuition": "8000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB80120",
@@ -94,7 +94,7 @@
             "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB80320",
@@ -106,7 +106,7 @@
             "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "ICT50220",
@@ -118,7 +118,7 @@
             "tuition": "8000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
          {
             "vetCode": "ICT60220",
@@ -130,7 +130,7 @@
             "tuition": "17500 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
          {
             "vetCode": "FNS40222/ FNS50222",
@@ -142,7 +142,7 @@
             "tuition": "12000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -154,7 +154,7 @@
             "tuition": "12000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -166,7 +166,7 @@
             "tuition": "12000 ",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "TLI50221/ TLI60222",
@@ -178,7 +178,7 @@
             "tuition": "16000",
             "tuitionDetail": "total tuition + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         }
     ]
 }
