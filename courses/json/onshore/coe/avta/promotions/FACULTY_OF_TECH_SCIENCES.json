@@ -10,7 +10,7 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "TAS/QLD ",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "AHC40422",
@@ -22,7 +22,7 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "AHC51422",
@@ -34,7 +34,7 @@
             "tuition": "9,200",
             "tuitionDetail": "9,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "AHC30722 / AHC40422",
@@ -46,7 +46,7 @@
             "tuition": "16,700",
             "tuitionDetail": "16,500 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "AHC30722 / AHC51422",
@@ -58,7 +58,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
             "vetCode": "AHC40422 / AHC51422",
@@ -70,7 +70,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
          {
             "vetCode": "AUR30620/AUR40216/AUR50116 ",
@@ -82,7 +82,7 @@
             "tuition": "21,500(TAS);20,000(QLD)",
             "tuitionDetail": "tuition fee + 200 handling fee",
             "location": "TAS/QLD",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         }
     ]
 }
