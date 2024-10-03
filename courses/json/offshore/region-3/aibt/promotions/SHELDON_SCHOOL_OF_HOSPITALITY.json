@@ -32,12 +32,12 @@
             "department": "Packages",
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Intake commences 5th February 2024;This qualification requires complete food service periods. Please visit the individual course outlines on our website."
+            "note": "This qualification requires complete food service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT50122/SIT60122",
@@ -62,7 +62,7 @@
             "tuitionDetail": "18,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Intake Commences 5th February 2024;Intake commences 5th February 2024;This qualification requires service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
+            "note": "This qualification requires service periods / complete food service periods / complete service periods (shifts). Please visit the individual course outlines on our website."
         }
     ]
 }
