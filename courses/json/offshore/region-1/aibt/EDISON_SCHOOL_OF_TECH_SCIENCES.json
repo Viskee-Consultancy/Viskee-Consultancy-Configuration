@@ -92,19 +92,6 @@
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
-            "vetCode": "AUR30620 / AUR40216",
-            "cricosCode": "103638E/095065G",
-            "department": "Packages",
-            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
-            "duration": "104",
-            "durationDetail": "90 wks Tuition + 14 wks Break",
-            "tuition": "30,200",
-            "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until  31th Dec 2021",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
-        },
-        {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
             "cricosCode": "103638E/095065G/095067F",
             "department": "Packages",
