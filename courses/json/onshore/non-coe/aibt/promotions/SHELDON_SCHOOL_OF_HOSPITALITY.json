@@ -73,7 +73,7 @@
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT50122",
@@ -88,7 +88,7 @@
             "tuitionHalfDetail": "5,500 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "QLD",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices)"
         },
         {
             "vetCode": "SIT60122",
@@ -103,7 +103,7 @@
             "tuitionHalfDetail": "5,500 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "QLD",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Only valid for students who have successfully completed SIT50116 - Diploma of Travel and Tourism Management; This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
+            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
