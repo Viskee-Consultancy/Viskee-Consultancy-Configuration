@@ -11,7 +11,7 @@
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 36 complete service periods (shifts) for unit SITHIND004 - Work effectively in hospitality service."
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT60322",
@@ -24,7 +24,7 @@
             "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook"
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT30821",
@@ -89,7 +89,7 @@
             "tuitionDetail": "10,750 tuition fee + 200 handling fee",
             "location": "QLD",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices."
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices"
         },
         {
             "vetCode": "SIT60122",
@@ -189,7 +189,7 @@
             "department": "Packages",
             "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
