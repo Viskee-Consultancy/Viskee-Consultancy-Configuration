@@ -6,7 +6,7 @@
             "department": "Hospitality",
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
@@ -58,7 +58,7 @@
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
@@ -89,7 +89,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
