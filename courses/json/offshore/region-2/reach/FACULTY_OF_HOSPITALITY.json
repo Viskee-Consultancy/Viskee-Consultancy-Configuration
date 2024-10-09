@@ -1,3 +1,4 @@
+
 {
     "courses": [
         {
@@ -37,7 +38,7 @@
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 48 complete food service periods for unit SITHCCC020 - Work effectively as a cook."
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices; Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT60322",
@@ -50,7 +51,7 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS008 – Develop and manage quality customer service practices;Includes 12 complete service periods (shifts) for unit SITHKOP005 - Coordinate cooking operations."
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices; Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT30821/SIT40521/SIT50422",
@@ -63,7 +64,7 @@
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS ",
             "promotionValidity": " ",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40521/SIT60322",
@@ -76,7 +77,7 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT50422/SIT60322",
@@ -89,7 +90,7 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
