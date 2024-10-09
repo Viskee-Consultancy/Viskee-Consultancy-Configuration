@@ -6,12 +6,12 @@
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS（Currently not accepting Offshore enrolments）",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40521/SIT60322",
@@ -24,7 +24,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC（Currently not accepting Offshore enrolments）",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "These qualifications require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
