@@ -5,11 +5,11 @@
       "cricosCode": "112261C",
       "department": "AUTOMOTIVE",
       "name": "Certificate III in Light Vehicle Mechanical Technology",
-      "duration": "92",
-      "durationDetail": "80 wks Tuition + 12 wks Break",
-      "tuition": "26,200",
-      "tuitionDetail": "26,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "duration": "52",
+      "durationDetail": "48 wks Tuition + 4 wks Break",
+      "tuition": "24,200",
+      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
       "promotionValidity": " "
     },
     {
@@ -19,8 +19,8 @@
       "name": "Certiﬁcate III in Electronics and Communications",
       "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": "20,200",
-      "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+      "tuition": "18,200",
+      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": " ",
       "note": "Accepting enrolments from 5th February 2024"
@@ -31,10 +31,10 @@
       "department": "AUTOMOTIVE",
       "name": "Certificate IV in Automotive Mechanical Diagnosis",
       "duration": "39",
-      "durationDetail": "33 wks Tuition + 6 wks Break",
-      "tuition": "15,200",
-      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "durationDetail": "35 wks Tuition + 4 wks Break",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -43,10 +43,10 @@
       "department": "AUTOMOTIVE",
       "name": "Diploma of Automotive Management",
       "duration": "52",
-      "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "14,200",
-      "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "durationDetail": "46 wks Tuition + 6 wks Break",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -56,23 +56,11 @@
       "name": "Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "30,200",
-      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
+      "tuition": "28,200",
+      "tuitionDetail": "28,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "promotionValidity": " ",
       "note": "Accepting enrolments from 5th February 2024"
-    },
-    {
-      "vetCode": "AUR30620/ AUR40216",
-      "cricosCode": "112261C/112262B",
-      "department": "PACKAGES",
-      "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "30,200",
-      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-      "location": "NSW",
-      "promotionValidity": " "
     },
      {
       "vetCode": "UEE30920/ UEE60220",
@@ -81,8 +69,8 @@
       "name": "Certiﬁcate III in Electronics and Communications + Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "35,200",
-      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
+      "tuition": "29,200",
+      "tuitionDetail": "29,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
@@ -93,10 +81,11 @@
       "department": "PACKAGES",
       "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
       "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "35,200",
-      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "durationDetail": "92 wks Tuition + 12 wks Break",
+      "tuition": "32,200",
+      "tuitionDetail": "32,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
     }
   ]
