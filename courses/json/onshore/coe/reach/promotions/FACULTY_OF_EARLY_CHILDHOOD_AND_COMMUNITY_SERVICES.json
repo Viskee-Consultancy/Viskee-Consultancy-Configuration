@@ -27,7 +27,7 @@
             "location": "NSW/TAS",
             "placementDuration": "120",
             "placementFee": "500",
-            "promotionValidity": "31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
         {
@@ -42,7 +42,7 @@
             "location": "VIC",
             "placementDuration": "120",
             "placementFee": "500",
-            "promotionValidity": "31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
         {
@@ -57,7 +57,7 @@
             "location": "NSW/TAS/VIC",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": "31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
         {
@@ -72,7 +72,7 @@
             "location": "NSW/TAS",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": "31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
          {
@@ -87,7 +87,7 @@
             "location": "NSW",
             "placementDuration": "200",
             "placementFee": "1000",
-            "promotionValidity": "31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         }     
     ]
