@@ -1,1 +1,50 @@
-{}
+{
+    "courses": [
+        {
+            "vetCode": "AUR50116",
+            "cricosCode": "105384F",
+            "department": "Automotive",
+            "name": "Diploma of Automotive Management",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "note ": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;This qualification will only fulfil the academic requirements, not a licensed trade qualification"
+        },
+        {
+            "vetCode": "AUR30320",
+            "cricosCode": "105385E",
+            "department": "Automotive",
+            "name": "Certificate III in Automotive Electrical Technology",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "note ": "This qualification will only fulfil the academic requirements, not a licensed trade qualification"
+        },
+        {
+            "vetCode": "AUR30620",
+            "cricosCode": "105382H",
+            "department": "Automotive",
+            "name": "Certificate III in Light Vehicle Mechanical Technology",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "note ": "This qualification will only fulfil the academic requirements, not a licensed trade qualification"
+        }
+    ]
+}
+
