@@ -1,1 +1,95 @@
-{}
+{
+    "courses": [
+        {
+            "vetCode": " CHC62015",
+            "cricosCode": "108799C",
+            "department": "Management",
+            "name": "Advanced Diploma of Community Sector Management",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": " ",
+            "placementFee": " ",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+         {
+            "vetCode": " CHC33021",
+            "cricosCode": "114151D",
+            "department": "Individual Support",
+            "name": "Certificate III in Individual Support (Disability)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "120",
+            "placementFee": "500",
+            "promotionValidity": "31ST DECEMBER 2024",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+        {
+            "vetCode": " CHC33021",
+            "cricosCode": "114151D",
+            "department": "Individual Support",
+            "name": "Certificate III in Individual Support (Ageing)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "VIC",
+            "placementDuration": "120",
+            "placementFee": "500",
+            "promotionValidity": "31ST DECEMBER 2024",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+        {
+            "vetCode": " CHC52021",
+            "cricosCode": "114153B",
+            "department": "Community Services",
+            "name": "Diploma of Community Services",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "placementDuration": "200",
+            "placementFee": "500",
+            "promotionValidity": "31ST DECEMBER 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+        {
+            "vetCode": " CHC52021/CHC62015",
+            "cricosCode": "114153B/108799C",
+            "department": "Package",
+            "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,200",
+            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "200",
+            "placementFee": "500",
+            "promotionValidity": "31ST DECEMBER 2024",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        },
+         {
+            "vetCode": " CHC33021/CHC43121/CHC52021",
+            "cricosCode": "114151D/114152C/114153B",
+            "department": "Package",
+            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability Support + Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "NSW",
+            "placementDuration": "200",
+            "placementFee": "1000",
+            "promotionValidity": "31ST DECEMBER 2024",
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+        }     
+    ]
+}
+
