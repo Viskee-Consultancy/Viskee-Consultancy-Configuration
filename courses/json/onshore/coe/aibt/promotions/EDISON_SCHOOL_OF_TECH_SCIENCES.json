@@ -1,18 +1,5 @@
 {
     "courses": [
-         {
-            "vetCode": "AUR30620",
-            "cricosCode": "103638E",
-            "department": "Automotive",
-            "name": "Certiﬁcate III in Light Vehicle Mechanical Technology",
-            "duration": "52",
-            "durationDetail": "48 wks tuition + 4 wks break",
-            "tuition": "11200",
-            "tuitionDetail": " 11000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Students will be required to do additional training in order to complete a fast track intensive course;This qualification will only fulfil the academic requirements, not a licensed trade qualification."
-        },
         {
             "vetCode": "UEE62520",
             "cricosCode": "103378J",
@@ -23,8 +10,46 @@
             "tuition": "25200",
             "tuitionDetail": " 25000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+        },
+         {
+            "vetCode": "#TLI50221",
+            "cricosCode": "108116B",
+            "department": "Logistics",
+            "name": "Diploma of Logistics",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "8200",
+            "tuitionDetail": "8000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+             "note": "# This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+        },
+        {
+            "vetCode": "TLI60222",
+            "cricosCode": "111987F",
+            "department": "Logistics",
+            "name": "Advanced Diploma of Supply Chain Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "8000",
+            "tuitionDetail": "8000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+        },
+         {
+            "vetCode": "#TLI50221/ TLI60222",
+            "cricosCode": "108116B/111987F",
+            "department": "Packages",
+            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "16000",
+            "tuitionDetail": "16000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "note": "# This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
         },
         {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
@@ -33,13 +58,37 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "21,700",
-            "tuitionDetail": "21,500 tuition fee + 200 handling fee",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
+        },
+        {
+            "vetCode": "ICT50220",
+            "cricosCode": "107121B",
+            "department": "Information Technology",
+            "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9700 ",
+            "tuitionDetail": "9500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+        },
+         {
+            "vetCode": "ICT60220",
+            "cricosCode": "107122A",
+            "department": "Information Technology",
+            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18700 ",
+            "tuitionDetail": "18500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         }
     ]
 }
