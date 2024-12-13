@@ -7,13 +7,12 @@
             "name": "Certificate IV in Accounting and Bookkeeping",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
-            "location": "NSW/QLD/TAS",
             "note": " ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "FNS50222",
@@ -22,10 +21,9 @@
             "name": "Diploma of Accounting",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments)"
         },
         {
             "vetCode": "FNS60222",
@@ -34,69 +32,9 @@
             "name": "Advanced Diploma of Accounting",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS ",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "ICT40120",
-            "cricosCode": "104691C",
-            "department": "Information Technology",
-            "name": "Certificate IV in Information Technology",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "ICT50220",
-            "cricosCode": "107121B",
-            "department": "Information Technology",
-            "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "ICT60220",
-            "cricosCode": "107122A",
-            "department": "Information Technology",
-            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "TLI50221",
-            "cricosCode": "108116B",
-            "department": "Logistics",
-            "name": "Diploma of Logistics",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,700",
-            "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(Currently Not Accepting Enrolments)",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "TLI60222",
-            "cricosCode": "111987F",
-            "department": "Logistics",
-            "name": "Advanced Diploma of Supply Chain Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments) "
         },
         {
             "vetCode": "BSB40920",
@@ -105,10 +43,9 @@
             "name": "Certificate IV in Project Management Practice",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments) "
         },
         {
             "vetCode": "BSB50820",
@@ -117,10 +54,9 @@
             "name": "Diploma of Project Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,700",
-            "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB60720",
@@ -129,10 +65,9 @@
             "name": "Advanced Diploma of Program Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB50420",
@@ -141,10 +76,9 @@
             "name": "Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,700",
-            "tuitionDetail": "10,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB60420",
@@ -153,10 +87,9 @@
             "name": "Advanced Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB80320",
@@ -165,10 +98,9 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,700",
-            "tuitionDetail": "13,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB80120",
@@ -177,56 +109,9 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,700",
-            "tuitionDetail": "13,500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "FNS40222/FNS50222",
-            "cricosCode": "111047F/113810D",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "FNS40222/FNS50222/FNS60222",
-            "cricosCode": "111047F/113810D/113811C",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "35,200",
-            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS"
-        },
-        {
-            "vetCode": "ICT40120/ICT50220",
-            "cricosCode": "104691C/107121B",
-            "department": "Packages",
-            "name": "Certificate IV in Information Technology + Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "ICT50220/ICT60220",
-            "cricosCode": "107121B/107122A",
-            "department": "Packages",
-            "name": "Diploma of Information Technology (Telecommunications Network Engineering) + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "37,200",
-            "tuitionDetail": "37,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -237,20 +122,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
-        },
-        {
-            "vetCode": "TLI50221/ TLI60222",
-            "cricosCode": "108116B/111987F",
-            "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "location": "NSW/QLD/TAS"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -261,8 +133,51 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until  31th Dec 2021"
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB50820/ BSB80120",
+            "cricosCode": "104063J/107120C",
+            "department": "Packages",
+            "name": "Diploma of Project Management + Graduate Diploma of Management (Learning)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB50420/BSB80120",
+            "cricosCode": "104262B/107120C",
+            "department": "Packages",
+            "name": "Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB60720/BSB80120",
+            "cricosCode": "104452G/107120C",
+            "department": "Packages",
+            "name": "Advanced Diploma of Program Management  + Graduate Diploma of Management (Learning)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB60420/BSB80120",
+            "cricosCode": "107118H/107120C",
+            "department": "Packages",
+            "name": "Advanced Diploma of Leadership and Management  + Graduate Diploma of Management (Learning)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS"
         }
     ]
 }
