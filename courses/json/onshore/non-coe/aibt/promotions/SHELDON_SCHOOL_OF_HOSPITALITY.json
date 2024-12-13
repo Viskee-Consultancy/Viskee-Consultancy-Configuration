@@ -12,7 +12,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024 ",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025 ",
             "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
@@ -27,7 +27,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course;This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
@@ -42,7 +42,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
         {
@@ -57,7 +57,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024 ",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025 ",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course;This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen; Students will be required to do additional training in order to complete a fast track intensive course"
         },
         {
@@ -72,38 +72,8 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
-        },
-        {
-            "vetCode": "SIT50122",
-            "cricosCode": "113817H",
-            "department": "Travel and Tourism",
-            "name": "Diploma of Travel and Tourism Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "5,200",
-            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "5,750",
-            "tuitionHalfDetail": "5,500 tuition fee + 200 handling fee + 2x25 instalment fee",
-            "location": "QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices)"
-        },
-        {
-            "vetCode": "SIT60122",
-            "cricosCode": "111046G",
-            "department": "Travel and Tourism",
-            "name": "Advanced Diploma of Travel and Tourism Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "5,200",
-            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
-            "tuitionHalf": "5,750",
-            "tuitionHalfDetail": "5,500 tuition fee + 200 handling fee + 2x25 instalment fee",
-            "location": "QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
