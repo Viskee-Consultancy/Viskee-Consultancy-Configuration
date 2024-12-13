@@ -7,8 +7,8 @@
             "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "14,200",
+            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
@@ -19,8 +19,8 @@
             "name": "Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
@@ -31,8 +31,8 @@
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
@@ -43,8 +43,8 @@
             "name": "Certificate IV in Kitchen Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17,200",
-            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
@@ -55,8 +55,8 @@
             "name": "Certificate III in Patisserie",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
         },
@@ -67,82 +67,10 @@
             "name": "Certificate IV in Patisserie",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17,200",
-            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen"
-        },
-        {
-            "vetCode": "SIT50122",
-            "cricosCode": "113817H",
-            "department": "Travel and Tourism",
-            "name": "Diploma of Travel and Tourism Management",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9,200",
-            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
-            "location": "QLD",
-            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices"
-        },
-        {
-            "vetCode": "SIT60122",
-            "cricosCode": "111046G",
-            "department": "Travel and Tourism",
-            "name": "Advanced Diploma of Travel and Tourism Management",
-            "duration": "78",
-            "durationDetail": "68 wks Tuition + 10 wks Break",
-            "tuition": "13,700",
-            "tuitionDetail": "13,500 tuition fee + 200 handling fee",
-            "location": "QLD",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
-        },
-        {
-            "vetCode": "SIT30821/ SIT40521",
-            "cricosCode": "111040B/111041A",
-            "department": "Packages",
-            "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
-        },
-        {
-            "vetCode": "SIT31021/ SIT40721",
-            "cricosCode": "111044J/111045H",
-            "department": "Packages",
-            "name": "Certificate III in Patisserie + Certificate IV in Patisserie",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "note": "This qualification may require service periods / complete food service periods / complete service periods (shifts).Please visit the individual course outline on our website."
-        },
-        {
-            "vetCode": "SIT30821/ SIT50422",
-            "cricosCode": "111040B/113812B",
-            "department": "Packages",
-            "name": "Certificate III in Commercial Cookery + Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "note": "These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
-        },
-        {
-            "vetCode": "SIT30821/ SIT60322",
-            "cricosCode": "111040B/113813A",
-            "department": "Packages",
-            "name": "Certificate III in Commercial Cookery + Advanced Diploma of Hospitality Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40521/ SIT60322",
@@ -151,10 +79,10 @@
             "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40721/ SIT60322",
@@ -163,10 +91,10 @@
             "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT50422/ SIT60322",
@@ -175,22 +103,22 @@
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
-            "vetCode": "SIT50122/ SIT60122",
-            "cricosCode": "113817H/111046G",
+            "vetCode": "SIT30821/SIT40521/SIT50422",
+            "cricosCode": "111040B/111041A/113812B",
             "department": "Packages",
-            "name": "Diploma of Travel and Tourism Management + Advanced Diploma of Travel and Tourism Management",
+            "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "18,200",
-            "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-            "location": "QLD",
-            "note": "These qualifications have been superseded. For more information,please refer to Terms and Conditions at the back of the brochure.These qualifications may require complete food service periods / complete service periods (shifts).Please visit the individual course outlines on our website."
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
