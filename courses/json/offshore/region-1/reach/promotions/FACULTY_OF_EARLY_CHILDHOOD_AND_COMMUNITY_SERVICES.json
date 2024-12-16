@@ -9,10 +9,10 @@
             "durationDetail": "46 wks Tuition + 6 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS （Currently not accepting Offshore enrolments）",
+            "location": "NSW/TAS",
             "placementDuration": " ",
             "placementFee": " ",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
         {
@@ -22,12 +22,12 @@
             "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS （Currently not accepting Offshore enrolments）",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
             "placementDuration": "200",
             "placementFee": "500",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         },
          {
@@ -37,12 +37,12 @@
             "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability Support + Diploma of Community Services",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW （Currently not accepting Offshore enrolments）",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
             "placementDuration": "200",
             "placementFee": "1000",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
         }    
     ]
