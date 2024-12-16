@@ -7,10 +7,10 @@
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification. Monthly Intake Available"
         },
         {
@@ -20,11 +20,73 @@
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "tuition": "25,200",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification. Monthly Intake Available."
-        }
+        },
+         {
+            "vetCode": "#TLI50221/ TLI60222",
+            "cricosCode": "108116B/111987F",
+            "department": "Packages",
+            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "21,200",
+            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
+             "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "ICT50220",
+            "cricosCode": "107121B",
+            "department": "Information Technology",
+            "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+             "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "ICT60220",
+            "cricosCode": "107122A",
+            "department": "Information Technology",
+            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "ICT40120/ICT50220",
+            "cricosCode": "104691C/107121B",
+            "department": "Packages",
+            "name": "Certificate IV in Information Technology + Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "ICT50220/ICT60220",
+            "cricosCode": "107121B/107122A",
+            "department": "Packages",
+            "name": "Diploma of Information Technology (Telecommunications Network Engineering) + Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "156",
+            "durationDetail": "132 wks Tuition + 24 wks Break",
+            "tuition": "30,200",
+            "tuitionDetail": "30,000 tuition fee + 200 handling fee",
+            "note": "Students are required to attend class up to 4 days per week",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "location": "NSW/QLD/TAS"
+        }   
     ]
 }
