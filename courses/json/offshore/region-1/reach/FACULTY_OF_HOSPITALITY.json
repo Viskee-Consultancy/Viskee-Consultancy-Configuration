@@ -9,9 +9,9 @@
             "durationDetail": "48 wks Tuition + 4 wks Break",
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS (Currently not accepting Offshore enrolments)",
+            "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT40521",
@@ -20,11 +20,11 @@
             "name": "Certificate IV in Kitchen Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC (Currently not accepting Offshore enrolments)",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook"
         },
         {
             "vetCode": "SIT50422",
@@ -33,11 +33,11 @@
             "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices; Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT60322",
@@ -46,11 +46,11 @@
             "name": "Advanced Diploma of Hospitality Management ",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC(Currently not accepting enrolments in VIC)",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices; Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
             "vetCode": "SIT30821/SIT40521/SIT50422",
@@ -58,12 +58,12 @@
             "department": "Packages",
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS ",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT40521/SIT60322",
@@ -72,11 +72,11 @@
             "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
             "vetCode": "SIT50422/SIT60322",
@@ -85,11 +85,11 @@
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "This qualification requires service periods. Please visit the individual course outlines on our website."
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
 }
