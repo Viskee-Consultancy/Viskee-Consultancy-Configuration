@@ -7,8 +7,8 @@
           "name": "DIPLOMA OF HOSPITALITY MANAGEMENT",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "14,200",
-          "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+          "tuition": "16,200",
+          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
           "note": "Includes 4 complete service periods for unit SITXCCS016 - Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
           "location": "TAS/NSW"
       },
@@ -19,8 +19,8 @@
           "name": "ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "19,200",
-          "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+          "tuition": "24,200",
+          "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "note": "Includes 4 complete service periods for unit SITXCCS016 - Develop and manage quality customer service practices; Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
           "location": "TAS/NSW "
       },
@@ -31,10 +31,10 @@
           "name": "DIPLOMA OF HOSPITALITY MANAGEMENT + ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "22,200",
-          "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+          "tuition": "26,200",
+          "tuitionDetail": "26,000 tuition fee + 200 handling fee",
           "note": "These qualifications require service periods. Please visit the individual course outlines on our website.",
-          "location": "TAS/NSW"
+          "location": "TAS/NSW "
       }
   ]
 }
