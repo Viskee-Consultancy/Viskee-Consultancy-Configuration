@@ -7,11 +7,24 @@
             "name": "Certificate III in Commercial Cookery",
             "duration": "52",
             "durationDetail": "48 wks Tuition + 4 wks Break",
-            "tuition": "9,200",
-            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
+        },
+        {
+            "vetCode": "SIT40521",
+            "cricosCode": "109596F",
+            "department": "Hospitality",
+            "name": "Certificate IV in Kitchen Management",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "note": "Fast Track Intensive Course – Students are required to do additional training to complete a fast-track course;This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook."
         },
          {
             "vetCode": "SIT50422",
@@ -20,10 +33,10 @@
             "name": "Diploma of Hospitality Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8,200",
-            "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+            "tuition": "8,700",
+            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
          {
@@ -33,10 +46,10 @@
             "name": "Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,700",
-            "tuitionDetail": "16,500 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service"
         },
         {
@@ -46,10 +59,10 @@
             "name": "Certificate III in Commercial Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "17,700",
-            "tuitionDetail": "17,500 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
@@ -59,10 +72,10 @@
             "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17,700",
-            "tuitionDetail": "17,500 tuition fee + 200 handling fee",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         },
         {
@@ -72,10 +85,10 @@
             "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "16,700",
-            "tuitionDetail": "16,500 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications require service periods. Please visit the individual course outlines on our website."
         }
     ]
