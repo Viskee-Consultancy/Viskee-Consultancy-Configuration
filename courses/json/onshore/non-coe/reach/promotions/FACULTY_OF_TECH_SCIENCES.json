@@ -44,6 +44,78 @@
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
             "note ": "This qualification will only fulfil the academic requirements, not a licensed trade qualification"
+        },
+        {
+            "vetCode": "ICT50220",
+            "cricosCode": "105388B",
+            "department": "Information Technology",
+            "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+        },
+         {
+            "vetCode": "#TLI50221",
+            "cricosCode": "108118M",
+            "department": "Business",
+            "name": "Diploma of Logistics",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "note ": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+        },
+        {
+            "vetCode": "TLI60222",
+            "cricosCode": "111988E",
+            "department": "Business",
+            "name": "Advanced Diploma of Supply Chain Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+        },
+         {
+            "vetCode": "RII50520",
+            "cricosCode": "106654C",
+            "department": " CIVIL CONSTRUCTION DESIGN",
+            "name": "Diploma of Civil Construction Design",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+        },
+        {
+            "vetCode": "RII60520",
+            "cricosCode": "106655B",
+            "department": " CIVIL CONSTRUCTION DESIGN",
+            "name": "Advanced Diploma of Civil Construction Design (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "7,200",
+            "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "8,000",
+            "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW/TAS/VIC",
+            "note ": "Students will be required to do additional training in order to complete a fast track intensive course",
+            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         }
     ]
 }
