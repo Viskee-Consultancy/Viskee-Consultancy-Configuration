@@ -14,7 +14,7 @@
           "location": "NSW/TAS",
           "placementFee": " ",
           "placementDuration": " ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
          "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
       },
       {
@@ -31,7 +31,7 @@
           "location": "NSW/TAS/VIC",
           "placementFee": "500",
           "placementDuration": "200 ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
          "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
       },
       {
@@ -43,12 +43,12 @@
           "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "6,700",
           "tuitionDetail": "6,000 tuition fee + 500 Placement fee + 200 handling fee ",
-          "tuitionHalf": "7,500",
-          "tuitionHalfDetail": "6,750 Tuition fee + 500 Placement fee + 200 Handling fee + 2 x 25 Instalment fee ",
+          "tuitionHalf": "7,000",
+          "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee ",
           "location": "VIC",
           "placementFee": "500 ",
           "placementDuration": "120 ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
          "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
       }  
   ]
