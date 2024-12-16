@@ -9,32 +9,8 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "ICT50220",
-            "cricosCode": "105388B",
-            "department": "INFORMATION TECHNOLOGY",
-            "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,200",
-            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-         {
-            "vetCode": "ICT60220",
-            "cricosCode": "105389A",
-            "department": "INFORMATION TECHNOLOGY",
-            "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "BSB80320",
@@ -45,8 +21,20 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+        },
+          {
+            "vetCode": "BSB50820/BSB60720",
+            "cricosCode": "105425B/106649M",
+            "department": "Packages",
+            "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "21,200",
+            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -57,8 +45,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "BSB60420/BSB80120",
@@ -69,129 +57,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "BSB60420/BSB80320",
-            "cricosCode": "105426A/106650G",
-            "department": "Packages",
-            "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Strategic Leadership",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "BSB60120/BSB80120",
-            "cricosCode": "105391G/105392F",
-            "department": "Packages",
-            "name": "Advanced Diploma of Business +  Graduate Diploma of Management (Learning)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "BSB50820/BSB80120",
-            "cricosCode": "105425B/105392F",
-            "department": "Packages",
-            "name": "Diploma of Project Management + Graduate Diploma of Strategic Leadership",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "BSB50820/BSB60720",
-            "cricosCode": "105425B/106649M",
-            "department": "Packages",
-            "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "21,200",
-            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "BSB50820/BSB80120",
-            "cricosCode": "105425B/105392F",
-            "department": "Packages",
-            "name": "Diploma of Project Management + Graduate Diploma of Strategic Leadership",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "ICT40120/ICT50220",
-            "cricosCode": "105387C/105388B",
-            "department": "Packages",
-            "name": "Certificate IV in Information Technology + Diploma of Information Technology (Telecommunications Network Engineering)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "RII50520/RII60520",
-            "cricosCode": "106654C/106655B",
-            "department": "Packages",
-            "name": "Diploma of Civil Construction Design + Advanced Diploma of Civil Construction Design",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
-        },
-        {
-            "vetCode": "RII50520",
-            "cricosCode": "106654C",
-            "department": "CIVIL CONSTRUCTION DESIGN",
-            "name": "Diploma of Civil Construction Design",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "RII60520",
-            "cricosCode": "106655B",
-            "department": "CIVIL CONSTRUCTION DESIGN",
-            "name": "Advanced Diploma of Civil Construction Design",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        },
-        {
-            "vetCode": "TLI50221/TLI60222",
-            "cricosCode": "108118M/111988E",
-            "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "21,200",
-            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS （Currently not accepting Offshore enrolments）",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         }
     ]
 }
