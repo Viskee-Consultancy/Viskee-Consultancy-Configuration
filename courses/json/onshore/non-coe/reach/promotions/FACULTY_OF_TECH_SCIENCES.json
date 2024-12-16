@@ -12,7 +12,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note ": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;This qualification will only fulfil the academic requirements, not a licensed trade qualification"
         },
         {
@@ -27,7 +27,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note ": "This qualification will only fulfil the academic requirements, not a licensed trade qualification"
         },
         {
@@ -42,7 +42,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note ": "This qualification will only fulfil the academic requirements, not a licensed trade qualification"
         },
         {
@@ -57,7 +57,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
          {
             "vetCode": "#TLI50221",
@@ -72,7 +72,7 @@
             "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
             "note ": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
             "vetCode": "TLI60222",
@@ -86,7 +86,7 @@
             "tuitionHalf": "7,000",
             "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
          {
             "vetCode": "RII50520",
@@ -100,7 +100,7 @@
             "tuitionHalf": "8,000",
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
             "vetCode": "RII60520",
@@ -115,7 +115,7 @@
             "tuitionHalfDetail": "7,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
             "location": "NSW/TAS/VIC",
             "note ": "Students will be required to do additional training in order to complete a fast track intensive course",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         }
     ]
 }
