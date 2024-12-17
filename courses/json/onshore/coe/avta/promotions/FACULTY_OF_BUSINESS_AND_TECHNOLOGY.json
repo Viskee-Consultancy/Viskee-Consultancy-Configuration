@@ -1,64 +1,16 @@
 {
   "courses": [
       {
-          "vetCode": "RII50520",
-          "cricosCode": "111827M",
-          "department": "CIVIL CONSTRUCTION DESIGN",
-          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "52",
-          "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "10,200",
-          "tuitionDetail": "10,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-      },
-      {
-          "vetCode": "RII60520",
-          "cricosCode": "111826A",
-          "department": "CIVIL CONSTRUCTION DESIGN",
-          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "20,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-      },
-    {
-          "vetCode": "RII60520",
-          "cricosCode": "111826A",
-          "department": "CIVIL CONSTRUCTION DESIGN",
-          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "21,200",
-          "tuitionDetail": "21,000 tuition fee + 200 handling fee",
-          "location": "NSW",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-      },
-      {
-          "vetCode": "ICT60220",
-          "cricosCode": "111825B",
-          "department": "INFORMATION TECHNOLOGY",
-          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY (Telecommunications Network Engineering)",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "17,700",
-          "tuitionDetail": "17,500 tuition fee + 200 handling fee",
-          "location": "TAS/NSW ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-      },
-      {
           "vetCode": "BSB80120",
           "cricosCode": "113031J",
           "department": "GRADUATE DIPLOMA",
           "name": "GRADUATE DIPLOMA OF MANAGEMENT (LEARNING)",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "8,200",
-          "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
           "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
       },
       {
@@ -68,35 +20,11 @@
           "name": "GRADUATE DIPLOMA OF  STRATEGIC LEADERSHIP",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "8,200",
-          "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
           "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
-      },
-      {
-          "vetCode": "RII50520/RII60520",
-          "cricosCode": "111827M/111826A",
-          "department": "PACKAGES",
-          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "20,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-      },
-    {
-          "vetCode": "RII50520/RII60520",
-          "cricosCode": "111827M/111826A",
-          "department": "PACKAGES",
-          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "21,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "NSW",
-          "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
       }
   ]
 }
