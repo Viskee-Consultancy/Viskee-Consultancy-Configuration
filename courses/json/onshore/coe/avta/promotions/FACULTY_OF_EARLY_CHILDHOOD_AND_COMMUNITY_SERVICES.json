@@ -82,6 +82,49 @@
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
           "location": "TAS/NSW"
+      },
+     {
+          "vetCode": "CHC30121",
+          "cricosCode": "113023J",
+          "department": "EARLY CHILDHOOD EDUCATION AND CARE",
+          "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE",
+          "duration": "52",
+          "durationDetail": "46 wks tuition + 6 wks break",
+          "tuition": "9,700",
+          "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "placementDuration": "160",
+          "placementFee": "500",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "location": "TAS/NSW"
+      },
+      {
+          "vetCode": "CHC50121",
+          "cricosCode": "113025G",
+          "department": "EARLY CHILDHOOD EDUCATION AND CARE",
+          "name": "DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
+          "duration": "52",
+          "durationDetail": "49 wks tuition + 3 wks break",
+          "tuition": "9,700",
+          "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "placementDuration": "280",
+          "placementFee": "500",
+          "location": "TAS/NSW",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+      },
+      {
+          "vetCode": "CHC30121/CHC50121",
+          "cricosCode": "113023J/113025G",
+          "department": "PACKAGES",
+          "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE + DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
+          "duration": "104",
+          "durationDetail": "92 wks tuition + 12 wks break",
+          "tuition": "19,200",
+          "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+          "placementDuration": "440",
+          "placementFee": "1000",
+          "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "location": "TAS/NSW"
       }
   ]
 }
