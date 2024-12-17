@@ -7,8 +7,8 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology",
       "duration": "52",
       "durationDetail": "48 wks Tuition + 4 wks Break",
-      "tuition": "24,200",
-      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+      "tuition": "19,200",
+      "tuitionDetail": "19,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "promotionValidity": " "
     },
@@ -21,7 +21,7 @@
       "durationDetail": "46 wks Tuition + 6 wks Break",
       "tuition": "18,200",
       "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
       "promotionValidity": " ",
       "note": "Accepting enrolments from 5th February 2024"
     },
@@ -32,8 +32,8 @@
       "name": "Certificate IV in Automotive Mechanical Diagnosis",
       "duration": "39",
       "durationDetail": "35 wks Tuition + 4 wks Break",
-      "tuition": "13,200",
-      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "tuition": "15,200",
+      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
@@ -44,8 +44,8 @@
       "name": "Diploma of Automotive Management",
       "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": "13,200",
-      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "tuition": "15,200",
+      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
@@ -56,9 +56,9 @@
       "name": "Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "28,200",
-      "tuitionDetail": "28,000 tuition fee + 200 handling fee",
-      "location": "NSW",
+      "tuition": "30,200",
+      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
       "promotionValidity": " ",
       "note": "Accepting enrolments from 5th February 2024"
     },
@@ -69,9 +69,9 @@
       "name": "Certiﬁcate III in Electronics and Communications + Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "29,200",
-      "tuitionDetail": "29,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC",
+      "tuition": "35,200",
+      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
       "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
     },
@@ -82,11 +82,66 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "32,200",
-      "tuitionDetail": "32,000 tuition fee + 200 handling fee",
+      "tuition": "35,200",
+      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
       "promotionValidity": " "
+    },
+    {
+      "vetCode": "ICT40120",
+      "cricosCode": " 112265K",
+      "department": " INFORMATION TECHNOLOGY",
+      "name": "Certificate IV in Information Technology",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC"
+    },
+    {
+      "vetCode": "ICT50220",
+      "cricosCode": " 112266J",
+      "department": " INFORMATION TECHNOLOGY",
+      "name": "Diploma of Information Technology(Telecommunications Network Engineering)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "14,200",
+      "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC"
+    },
+    {
+      "vetCode": "ICT40120/ICT50220",
+      "cricosCode": "112265K/112266J",
+      "department": "PACKAGES",
+      "name": "Certificate IV in Information Technology + Diploma of Information Technology(Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "24,200",
+      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC"
+    },
+    {
+      "vetCode": "ICT50220/ICT60220",
+      "cricosCode": "112266J/112267H",
+      "department": "PACKAGES",
+      "name": "Diploma of Information Technology(Telecommunications Network Engineering) + Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
+      "duration": "156",
+      "durationDetail": "132 wks Tuition + 24 wks Break",
+      "tuition": "35,200",
+      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC"
+    },
+    {
+      "vetCode": "ICT60220",
+      "cricosCode": "112267H",
+      "department": " INFORMATION TECHNOLOGY",
+      "name": "Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "25,200",
+      "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC"
     }
   ]
 }
