@@ -50,6 +50,18 @@
       "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 31ST JUNE 2025",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
-    }
+    },
+     {
+      "vetCode": "BSB50820/BSB60720",
+      "cricosCode": "112259H/112268G",
+      "department": "PACKAGES",
+      "name": "Diploma of Project Management + Advanced Diploma of Program Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+       "promotionValidity": "Promotion valid until 31ST JUNE 2025",
+      "location": "NSW/VIC"
+    },
   ]
 }
