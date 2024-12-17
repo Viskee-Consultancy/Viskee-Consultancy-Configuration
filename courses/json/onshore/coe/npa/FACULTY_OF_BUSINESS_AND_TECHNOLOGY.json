@@ -3,7 +3,7 @@
     {
       "vetCode": "FNS40222",
       "cricosCode": " 112305G",
-      "department": "BUSINESS",
+      "department": "ACCOUNTING",
       "name": "Certificate IV in Accounting and Bookkeeping",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -14,7 +14,7 @@
     {
       "vetCode": "FNS50222",
       "cricosCode": " 112314F",
-      "department": "BUSINESS",
+      "department": "ACCOUNTING",
       "name": "Diploma of Accounting",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -26,7 +26,7 @@
     {
       "vetCode": "BSB50820",
       "cricosCode": "112259H",
-      "department": "BUSINESS",
+      "department": "MANAGEMENT",
       "name": "Diploma of Project Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -37,7 +37,7 @@
     {
       "vetCode": "FNS60222",
       "cricosCode": "112315E",
-      "department": "BUSINESS",
+      "department": "ACCOUNTING",
       "name": "Advanced Diploma of Accounting",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -49,7 +49,7 @@
     {
       "vetCode": "BSB60420",
       "cricosCode": " 112260D",
-      "department": "BUSINESS",
+      "department": "MANAGEMENT",
       "name": "Advanced Diploma of Leadership and Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -61,7 +61,7 @@
     {
       "vetCode": "BSB60720",
       "cricosCode": " 112268G",
-      "department": "BUSINESS",
+      "department": "MANAGEMENT",
       "name": "Advanced Diploma of Program Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
@@ -73,7 +73,7 @@
     {
       "vetCode": "BSB80120",
       "cricosCode": " 112269F",
-      "department": "BUSINESS",
+      "department": "GRADUATE STUDIES",
       "name": "Graduate Diploma of Strategic Leadership",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
