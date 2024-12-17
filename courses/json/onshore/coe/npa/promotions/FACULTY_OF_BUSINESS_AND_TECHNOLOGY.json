@@ -10,7 +10,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST JUNE 2025"
+      "promotionValidity": "Promotion valid until 31ST MARCH 2025"
     },
     {
       "vetCode": "BSB60420",
@@ -22,7 +22,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST JUNE 2025",
+      "promotionValidity": "Promotion valid until 31ST MARCH 2025",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -35,7 +35,7 @@
       "tuition": "6,200",
       "tuitionDetail": "6,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST JUNE 2025",
+      "promotionValidity": "Promotion valid until 31ST MARCH 2025",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
     {
@@ -48,7 +48,7 @@
       "tuition": "8,200",
       "tuitionDetail": "8,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31ST JUNE 2025",
+      "promotionValidity": "Promotion valid until 31ST MARCH 2025",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
     },
      {
@@ -60,7 +60,7 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-       "promotionValidity": "Promotion valid until 31ST JUNE 2025",
+       "promotionValidity": "Promotion valid until 31ST MARCH 2025",
       "location": "NSW/VIC"
     },
   ]
