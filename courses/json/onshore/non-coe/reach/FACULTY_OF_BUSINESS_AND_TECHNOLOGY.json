@@ -7,8 +7,19 @@
             "name": "Diploma of Project Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC"
+        },
+         {
+            "vetCode": "BSB50420",
+            "cricosCode": "108801C",
+            "department": "MANAGEMENT",
+            "name": "Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -18,8 +29,8 @@
             "name": "Advanced Diploma of Leadership and Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
@@ -30,8 +41,8 @@
             "name": "Advanced Diploma of Business",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS(Currently not accepting enrolments)",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
@@ -42,8 +53,8 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
@@ -54,8 +65,8 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
@@ -66,8 +77,8 @@
             "name": "Advanced Diploma of Program Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
@@ -114,8 +125,8 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -125,8 +136,8 @@
             "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -136,8 +147,8 @@
             "name": "Diploma of Project Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "tuition": "21,200",
+            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
          {
@@ -147,8 +158,8 @@
             "name": "Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "tuition": "21,200",
+            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -158,8 +169,8 @@
             "name": "Advanced Diploma of Program Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
         },
          {
@@ -169,31 +180,9 @@
             "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC"
-        },
-        {
-            "vetCode": "FNS40222/FNS50222",
-            "cricosCode": "110024K/114547F",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS(Currently not accepting enrolments)"
-        },
-        {
-            "vetCode": "FNS40222/FNS50222/FNS60222",
-            "cricosCode": "110024K/114547F/114548E",
-            "department": "Packages",
-            "name": "Certificate IV in Accounting and Bookkeeping + Diploma of Accounting + Advanced Diploma of Accounting",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "35,200",
-            "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS(Currently not accepting enrolments)"
         }
     ]
 }
