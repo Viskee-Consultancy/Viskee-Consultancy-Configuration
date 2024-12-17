@@ -7,10 +7,34 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "25,200",
-      "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+      "tuition": "26,200",
+      "tuitionDetail": "26,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 31th December 2024"
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
+    },
+     {
+      "vetCode": "ICT60220",
+      "cricosCode": "112267H",
+      "department": " INFORMATION TECHNOLOGY",
+      "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "22,200",
+      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
+    },
+    {
+      "vetCode": "ICT40120/ICT50220",
+      "cricosCode": "112265K/112266J",
+      "department": "PACKAGES",
+      "name": "Certificate IV in Information Technology + Diploma of Information Technology(Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "22,200",
+      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
     }
   ]
 }
