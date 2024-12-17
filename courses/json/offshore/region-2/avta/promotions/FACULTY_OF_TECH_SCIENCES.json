@@ -7,10 +7,10 @@
             "name": "CERTIFICATE III IN HORTICULTURE",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024 "
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025 "
         },
         {
             "vetCode": "AHC40422",
@@ -19,10 +19,10 @@
             "name": "CERTIFICATE IV IN HORTICULTURE",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8,700",
-            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
-            "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "AHC51422",
@@ -31,10 +31,10 @@
             "name": "DIPLOMA OF AGRIBUSINESS MANAGEMENT",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "10,200",
-            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
-            "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "AHC30722 / AHC40422 / AHC51422",
@@ -45,8 +45,8 @@
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-            "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD)",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "location": "TAS/QLD",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
             "vetCode": "AUR30620/AUR40216/AUR50116 ",
@@ -55,10 +55,46 @@
             "name": "CERTIFICATE III IN LIGHT VEHICLE MECHANICAL TECHNOLOGY + CERTIFICATE IV IN AUTOMOTIVE MECHANICAL DIAGNOSIS + DIPLOMA OF AUTOMOTIVE MANAGEMENT",
             "duration": "104",
             "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "21,500(TAS);20,000(QLD)",
-            "tuitionDetail": "tuition fee + 200 handling fee",
-            "location": "TAS/QLD",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
-        }
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "location": "TAS/NSW",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+        },
+        {
+          "vetCode": "RII60520",
+          "cricosCode": "111826A",
+          "department": "CIVIL CONSTRUCTION DESIGN",
+          "name": "ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "25,200",
+          "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+          "location": "TAS/NSW ",
+          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+      },
+        {
+          "vetCode": "RII50520/RII60520",
+          "cricosCode": "111827M/111826A",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "26,200",
+          "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+          "location": "TAS/NSW",
+          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+      },
+         {
+          "vetCode": "ICT60220",
+          "cricosCode": "111825B",
+          "department": "INFORMATION TECHNOLOGY",
+          "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY(Telecommunications Network Engineering)",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "22,200",
+          "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+          "location": "TAS/NSW ",
+          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+      }
     ]
 }
