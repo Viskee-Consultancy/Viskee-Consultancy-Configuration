@@ -1,30 +1,17 @@
 {
   "courses": [
     {
-      "vetCode": "SIT60322",
-      "cricosCode": "112317C",
-      "department": "HOSPITALITY",
-      "name": "Advanced Diploma of Hospitality Management",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "18,200",
-      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC",
-      "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service",
-      "promotionValidity": "Promotion valid until 31th December 2024"
-    },
-    {
       "vetCode": " SIT40521/SIT60322",
       "cricosCode": " 112264M/112317C",
       "department": "PACKAGES",
       "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "21,200",
-      "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+      "tuition": "23,200",
+      "tuitionDetail": "23,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
        "note": "These qualifications require service periods. Please visit the individual course outlines on our website.",
-      "promotionValidity": "Promotion valid until 31th December 2024"
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
     },
     {
       "vetCode": " SIT50422/SIT60322",
@@ -33,11 +20,11 @@
       "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "21,200",
-      "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+      "tuition": "23,200",
+      "tuitionDetail": "23,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
        "note": "These qualifications require service periods. Please visit the individual course outlines on our website.",
-      "promotionValidity": "Promotion valid until 31th December 2024"
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
     }
   ]
 }
