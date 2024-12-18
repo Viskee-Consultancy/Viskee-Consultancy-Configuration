@@ -86,8 +86,8 @@
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
           {
-            "vetCode": "#TLI50221",
-            "cricosCode": "108118M",
+            "vetCode": "TLI50224",
+            "cricosCode": "117272D",
             "department": "LOGISTICS",
             "name": "Diploma of Logistics ",
             "duration": "52",
@@ -95,7 +95,6 @@
             "tuition": "8,200",
             "tuitionDetail": "8,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.", 
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
         {
@@ -111,8 +110,8 @@
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         },
          {
-            "vetCode": "#TLI50221/TLI60222",
-            "cricosCode": "108118M/111988E",
+            "vetCode": "TLI50224/TLI60222",
+            "cricosCode": "117272D/111988E",
             "department": "Packages",
             "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
@@ -120,7 +119,6 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "# This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.", 
             "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
         }
     ]
