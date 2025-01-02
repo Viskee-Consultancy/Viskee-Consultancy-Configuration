@@ -14,8 +14,8 @@
             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
          {
-            "vetCode": "#TLI50221",
-            "cricosCode": "108116B",
+            "vetCode": "TLI50224",
+            "cricosCode": "117303B",
             "department": "Logistics",
             "name": "Diploma of Logistics",
             "duration": "52",
@@ -23,8 +23,7 @@
             "tuition": "8200",
             "tuitionDetail": "8000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-             "note": "# This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
             "vetCode": "TLI60222",
@@ -39,8 +38,8 @@
             "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
          {
-            "vetCode": "#TLI50221/ TLI60222",
-            "cricosCode": "108116B/111987F",
+            "vetCode": "TLI50224/ TLI60222",
+            "cricosCode": "117303B/111987F",
             "department": "Packages",
             "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
@@ -48,8 +47,7 @@
             "tuition": "16000",
             "tuitionDetail": "16000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-            "note": "# This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
