@@ -27,15 +27,14 @@
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
-            "vetCode": "#TLI50221/ TLI60222",
-            "cricosCode": "108116B/111987F",
+            "vetCode": "TLI50224/ TLI60222",
+            "cricosCode": "117303B/111987F",
             "department": "Packages",
             "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "note": "#This qualification has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
             "location": "NSW/QLD/TAS"
         },
