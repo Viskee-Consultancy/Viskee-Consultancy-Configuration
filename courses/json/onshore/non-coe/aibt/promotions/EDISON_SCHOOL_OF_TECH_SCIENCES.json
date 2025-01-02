@@ -31,8 +31,8 @@
             "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
          {
-            "vetCode": "#TLI50221",
-            "cricosCode": "108116B",
+            "vetCode": "TLI50224",
+            "cricosCode": "117303B",
             "department": "Logistics",
             "name": "Diploma of Logistics",
             "duration": "52",
@@ -42,8 +42,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-             "note": "# This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
             "vetCode": "TLI60222",
