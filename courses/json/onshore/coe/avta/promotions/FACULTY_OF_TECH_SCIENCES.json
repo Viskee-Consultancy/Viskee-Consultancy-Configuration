@@ -13,6 +13,18 @@
             "promotionValidity": "Promotion valid until 31ST MARCH 2025"
         },
         {
+            "vetCode": "AHC40422",
+            "cricosCode": "115336J",
+            "department": "HORTICULTURE",
+            "name": "CERTIFICATE IV IN HORTICULTURE",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "TAS",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+        },
+        {
             "vetCode": "AHC51422",
             "cricosCode": "110774E",
             "department": "HORTICULTURE",
