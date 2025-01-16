@@ -66,6 +66,19 @@
             "note": "Monthly Intake Available"
         },
         {
+            "vetCode": "BSB50420/BSB60420",
+            "cricosCode": "104262B/107118H",
+            "department": "Packages",
+            "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "21,200",
+            "tuitionDetail": "21,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+            "note": "Monthly Intake Available"
+        },
+        {
             "vetCode": "BSB60720/BSB80120",
             "cricosCode": "104452G/107120C",
             "department": "Packages",
