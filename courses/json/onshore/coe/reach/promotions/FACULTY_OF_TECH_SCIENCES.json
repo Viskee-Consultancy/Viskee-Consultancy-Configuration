@@ -1,6 +1,18 @@
 {
     "courses": [
         {
+            "vetCode": "AUR30320",
+            "cricosCode": "105385E",
+            "department": "Automotive ",
+            "name": "Certificate III in Automotive Electrical  Technology",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST March 2025"
+        },
+        {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
             "cricosCode": "105382H/105383G/105384F",
             "department": "Packages",
@@ -10,7 +22,7 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "TAS/NSW",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
         {
             "vetCode": "AUR30320/AUR40620/AUR50116",
@@ -22,7 +34,7 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "TAS/NSW",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
         {
             "vetCode": "RII50520",
@@ -34,7 +46,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
         {
             "vetCode": "RII60520",
@@ -46,7 +58,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/VIC/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
           {
             "vetCode": "RII50520/RII60520",
@@ -58,7 +70,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024",
+            "promotionValidity": "Promotion valid until 31ST March 2025",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
         {
@@ -71,7 +83,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
          {
             "vetCode": "ICT60220",
@@ -83,7 +95,7 @@
             "tuition": "18,700",
             "tuitionDetail": "18,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
           {
             "vetCode": "TLI50224",
@@ -95,7 +107,7 @@
             "tuition": "8,200",
             "tuitionDetail": "8,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
         {
             "vetCode": "TLI60222",
@@ -107,7 +119,7 @@
             "tuition": "8,200",
             "tuitionDetail": "8,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         },
          {
             "vetCode": "TLI50224/TLI60222",
@@ -119,7 +131,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 31ST DECEMBER 2024"
+            "promotionValidity": "Promotion valid until 31ST March 2025"
         }
     ]
 }
