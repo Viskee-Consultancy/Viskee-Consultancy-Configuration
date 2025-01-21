@@ -12,6 +12,30 @@
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 31ST March 2025"
         },
+         {
+            "vetCode": "AUR30620",
+            "cricosCode": "105382H",
+            "department": "Automotive ",
+            "name": "Certificate III in Light Vehicle Mechanical Technology",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31ST March 2025"
+        },
+         {
+            "vetCode": "AUR50116",
+            "cricosCode": "105384F",
+            "department": "Automotive ",
+            "name": "Diploma of Automotive Management",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "promotionValidity": "Promotion valid until 31ST March 2025"
+        },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
             "cricosCode": "105382H/105383G/105384F",
