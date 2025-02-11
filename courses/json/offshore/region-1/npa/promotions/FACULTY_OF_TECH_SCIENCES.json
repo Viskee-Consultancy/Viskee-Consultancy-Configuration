@@ -37,6 +37,19 @@
       "location": "NSW/VIC",
       "promotionValidity": "Promotion valid until 30th JUNE 2025"
     },
+    {
+      "vetCode": "UEE30920/ UEE60220",
+      "cricosCode": "113943B/113948H",
+      "department": "PACKAGES",
+      "name": "Certiﬁcate III in Electronics and Communications + Advanced Diploma of Electronics and Communications Engineering",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break",
+      "tuition": "25,200",
+      "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+      "promotionValidity": "Promotion valid until 30th JUNE 2025"
+    },
      {
       "vetCode": "ICT40120",
       "cricosCode": " 112265K",
