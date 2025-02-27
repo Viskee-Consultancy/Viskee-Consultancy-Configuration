@@ -97,6 +97,17 @@
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
          {
+            "vetCode": "CPC30620",
+            "cricosCode": "103825B",
+            "department": "PAINTING AND DECORATING",
+            "name": "Certificate III in Painting and Decorating",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "24,200",
+            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD (currently not accepting enrolments in QLD)"
+        },
+         {
             "vetCode": "ICT40120",
             "cricosCode": "104691C",
             "department": "Information Technology",
