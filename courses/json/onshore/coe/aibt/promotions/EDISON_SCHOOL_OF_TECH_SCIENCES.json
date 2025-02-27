@@ -88,6 +88,19 @@
             "promotionValidity": "Promotion valid until 31ST MARCH 2025",
             "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
         },
+         {
+            "vetCode": "CPC30620",
+            "cricosCode": "103825B",
+            "department": "PAINTING AND DECORATING",
+            "name": "Certificate III in Painting and Decorating (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW",
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+             "note": "This qualifications will only fulfil the academic requirements, not a licensed trade qualification."
+        },
         {
             "vetCode": "ICT50220",
             "cricosCode": "107121B",
