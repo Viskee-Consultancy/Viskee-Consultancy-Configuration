@@ -12,7 +12,8 @@
       "location": "NSW/VIC",
       "placementDuration": "160",
       "placementFee": "500",
-      "promotionValidity": " "
+      "promotionValidity": " ",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": " CHC50121",
@@ -26,7 +27,7 @@
       "location": "NSW/VIC",
       "placementDuration": "280",
       "placementFee": "500",
-      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "CHC30121/CHC50121",
@@ -39,7 +40,8 @@
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "placementDuration": "440",
-      "placementFee": "1000"
+      "placementFee": "1000",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
 }
