@@ -118,7 +118,7 @@
             "tuition": "10,200",
             "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-             "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220",
@@ -130,7 +130,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT60220",
@@ -142,7 +142,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT40120/ICT50220",
@@ -179,7 +179,7 @@
             "tuition": "10,700",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI60222",
@@ -191,7 +191,7 @@
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI50224/ TLI60222",
