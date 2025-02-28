@@ -14,7 +14,7 @@
             "location": "NSW / QLD ",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "CPC30620",
@@ -29,7 +29,7 @@
             "tuitionHalfDetail": "8,750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW",
             "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-             "note": "Students will be required to do additional training in order to complete a fast track intensive course;These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             "note": "Students will be required to do additional training in order to complete a fast track intensive course;This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "ICT50220",
@@ -43,7 +43,9 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             
         },
          {
             "vetCode": "TLI50224",
@@ -57,7 +59,8 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI60222",
@@ -71,7 +74,8 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31ST MARCH 2025"
+            "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         }
     ]
 }
