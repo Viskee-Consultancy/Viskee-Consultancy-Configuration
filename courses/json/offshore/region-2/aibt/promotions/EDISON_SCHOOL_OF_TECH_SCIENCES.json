@@ -36,7 +36,8 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS",
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "ICT60220",
@@ -48,7 +49,8 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
              "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS",
+             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT40120/ICT50220",
@@ -60,7 +62,8 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS",
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -73,7 +76,8 @@
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "note": "Students are required to attend class up to 4 days per week",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "location": "NSW/QLD/TAS"
+            "location": "NSW/QLD/TAS",
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         }
     ]
 }
