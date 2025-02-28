@@ -10,7 +10,7 @@
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS (currently not accepting enrolments in TAS)",
-            "note": "This qualification will only fulfil the academic requirements,not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "UEE42720",
@@ -22,7 +22,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD ",
-            "note": "This qualification will only fulfil the academic requirements,not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "UEE62520",
@@ -34,7 +34,7 @@
             "tuition": "28,200",
             "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620",
@@ -46,7 +46,7 @@
             "tuition": "17,200",
             "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS (currently not accepting enrolments in TAS)",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR40216",
@@ -58,7 +58,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR40620",
@@ -70,7 +70,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR50116",
@@ -94,7 +94,7 @@
             "tuition": "32,200",
             "tuitionDetail": "32,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification."
+            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "CPC30620",
@@ -105,7 +105,8 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (currently not accepting enrolments in QLD)"
+            "location": "NSW/QLD (currently not accepting enrolments in QLD)",
+            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification."
         },
          {
             "vetCode": "ICT40120",
