@@ -11,7 +11,7 @@
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30320/AUR40620/ AUR50116",
@@ -24,7 +24,7 @@
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "RII50520",
@@ -36,7 +36,8 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "RII60520",
@@ -48,7 +49,8 @@
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "RII50520/RII60520",
@@ -61,7 +63,7 @@
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualifications."
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
           {
             "vetCode": "ICT60220",
@@ -73,7 +75,8 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+              "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "ICT40120/ICT50220",
@@ -85,7 +88,8 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+             "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -97,7 +101,8 @@
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
           {
             "vetCode": "TLI50224",
@@ -109,7 +114,8 @@
             "tuition": "10,700",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+              "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "TLI60222",
@@ -121,7 +127,8 @@
             "tuition": "10,700",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },   
          {
             "vetCode": "TLI50224/TLI60222",
@@ -133,7 +140,8 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+             "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         }
     ]
 }
