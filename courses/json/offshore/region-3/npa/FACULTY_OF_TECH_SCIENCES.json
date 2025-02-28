@@ -10,7 +10,8 @@
       "tuition": "19,200",
       "tuitionDetail": "19,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": " "
+      "promotionValidity": " ",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "UEE30920",
@@ -23,7 +24,7 @@
       "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
       "promotionValidity": " ",
-      "note": "Accepting enrolments from 5th February 2024"
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "AUR40216",
@@ -35,7 +36,7 @@
       "tuition": "15,200",
       "tuitionDetail": "15,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "AUR50116",
@@ -47,7 +48,7 @@
       "tuition": "15,200",
       "tuitionDetail": "15,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "UEE60220",
@@ -60,7 +61,7 @@
       "tuitionDetail": "30,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
       "promotionValidity": " ",
-      "note": "Accepting enrolments from 5th February 2024"
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
      {
       "vetCode": "UEE30920/ UEE60220",
@@ -72,7 +73,7 @@
       "tuition": "35,200",
       "tuitionDetail": "35,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC (Currently not accepting enrolments in VIC)",
-      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
       "promotionValidity": " "
     },
     {
@@ -85,7 +86,7 @@
       "tuition": "35,200",
       "tuitionDetail": "35,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
       "promotionValidity": " "
     },
     {
@@ -97,7 +98,8 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "ICT50220",
@@ -108,7 +110,8 @@
       "durationDetail": "44 wks Tuition + 8 wks Break",
       "tuition": "14,200",
       "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "ICT40120/ICT50220",
@@ -119,7 +122,8 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "24,200",
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "ICT50220/ICT60220",
@@ -130,7 +134,8 @@
       "durationDetail": "132 wks Tuition + 24 wks Break",
       "tuition": "35,200",
       "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "ICT60220",
@@ -141,7 +146,8 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "25,200",
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC"
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
 }
