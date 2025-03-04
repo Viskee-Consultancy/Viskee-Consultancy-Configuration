@@ -57,11 +57,11 @@
           "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE",
           "duration": "52",
           "durationDetail": "46 wks tuition + 6 wks break",
-          "tuition": "12,200",
-          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "tuition": "11,200",
+          "tuitionDetail": "11,000 tuition fee + 200 handling fee",
           "placementDuration": "160",
           "placementFee": "500",
-          "location": "TAS/NSW (Currently Only Accepting Offshore Enrolments)"
+          "location": "TAS/NSW"
       },
       {
           "vetCode": "CHC50121",
@@ -70,8 +70,8 @@
           "name": "DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
           "duration": "52",
           "durationDetail": "49 wks tuition + 3 wks break",
-          "tuition": "12,200",
-          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "tuition": "14,200",
+          "tuitionDetail": "14,000 tuition fee + 200 handling fee",
           "placementDuration": "280",
           "placementFee": "500",
           "location": "TAS/NSW",
@@ -84,8 +84,8 @@
           "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY)+CERTIFICATE IV IN DISABILITY SUPPORT+DIPLOMA OF COMMUNITY SERVICES",
           "duration": "104",
           "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "23,200",
-          "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+          "tuition": "24,200",
+          "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "placementDuration": "360",
           "placementFee": "1000",
           "location": "TAS/NSW "
@@ -110,8 +110,8 @@
           "name": "DIPLOMA OF COMMUNITY SERVICES+ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
           "duration": "104",
           "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "23,200",
-          "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+          "tuition": "24,200",
+          "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
           "location": "TAS/NSW "
