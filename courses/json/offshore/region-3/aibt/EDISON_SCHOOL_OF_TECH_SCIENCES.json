@@ -96,17 +96,17 @@
             "location": "NSW/QLD",
             "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
-        {
+         {
             "vetCode": "CPC30620",
             "cricosCode": "103825B",
             "department": "PAINTING AND DECORATING",
-            "name": "Certificate III in Painting and Decorating",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "name": "Certificate III in Painting and Decorating (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD (currently not accepting enrolments in QLD)",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "This qualification will only fulfil the academic requirements, not a licensed trade qualification.Students will be required to do additional training in order to complete a fast track intensive course."
         },
          {
             "vetCode": "ICT40120",
