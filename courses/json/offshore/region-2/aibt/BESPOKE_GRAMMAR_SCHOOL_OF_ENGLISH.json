@@ -1,3 +1,4 @@
+
 {
   "courses": [
       {
@@ -9,6 +10,7 @@
           "location": "NSW/QLD/TAS",
           "duration": "12",
           "durationDetail": "Minimum 12 weeks (10 wks Tuition + 2 wks Break)",
+          "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until  31th Dec 2021"
       }
   ]
