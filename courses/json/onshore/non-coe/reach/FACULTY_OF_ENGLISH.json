@@ -1,3 +1,4 @@
+
 {
     "courses": [
         {
@@ -12,6 +13,7 @@
             "tuitionHalf": " ",
             "tuitionHalfDetail": " ",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": " "
         }
     ]
