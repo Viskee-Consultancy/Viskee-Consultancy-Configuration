@@ -9,6 +9,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
          {
@@ -20,6 +21,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -32,6 +34,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
@@ -44,7 +47,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS(Currently not accepting enrolments)",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "BSB80120",
@@ -56,7 +59,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "BSB80320",
@@ -68,7 +71,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "BSB60720",
@@ -80,7 +83,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "FNS50222",
@@ -92,7 +95,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "FNS40222 ",
@@ -103,7 +106,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-            "note": " ",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS(Currently not accepting enrolments)"
         },
         {
@@ -116,7 +119,7 @@
             "tuition": "16,200",
             "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -127,6 +130,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -138,6 +142,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -149,6 +154,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
          {
@@ -160,6 +166,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
         {
@@ -171,6 +178,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         },
          {
@@ -182,6 +190,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "location": "NSW/TAS/VIC"
         }
     ]
