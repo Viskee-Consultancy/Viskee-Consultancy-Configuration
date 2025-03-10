@@ -13,7 +13,7 @@
             "placementDuration": "120",
             "placementFee": "500",
             "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "CHC33021",
@@ -28,7 +28,7 @@
             "placementDuration": "120",
             "placementFee": "500",
             "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
              "vetCode": "CHC43121",
@@ -42,7 +42,7 @@
             "location": "NSW/TAS/VIC(Currently not accepting enrolments)",
             "placementDuration": "40",
             "promotionValidity": " ",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services.This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": " CHC52021",
@@ -57,7 +57,7 @@
             "placementDuration": "200",
             "placementFee": "500",
             "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "CHC62015",
@@ -70,7 +70,7 @@
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
          {
             "vetCode": "CHC43121/CHC52021",
@@ -85,7 +85,7 @@
             "placementDuration": "240",
             "placementFee": "1000",
             "promotionValidity": " ",
-             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services.Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
          {
             "vetCode": "CHC52021/CHC62015",
@@ -100,7 +100,7 @@
             "placementDuration": "200",
             "placementFee": "1000",
             "promotionValidity": " ",
-             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services.Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
          {
             "vetCode": "CHC33021/CHC43121/CHC52021",
@@ -115,7 +115,7 @@
             "placementDuration": "360",
             "placementFee": "1000",
             "promotionValidity": " ",
-             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services."
+             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         }
     ]
 }
