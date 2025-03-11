@@ -12,6 +12,7 @@
           "placementDuration": "120",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
      {
@@ -27,7 +28,7 @@
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
           "location": "TAS/NSW",
-          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
           "vetCode": "CHC52021",
@@ -41,6 +42,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
      {
@@ -53,6 +55,7 @@
           "tuition": "10,200",
           "tuitionDetail": "10,000 tuition fee + 200 handling fee",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -67,6 +70,7 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -81,6 +85,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
      {
@@ -95,6 +100,7 @@
           "placementDuration": "160",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -110,7 +116,7 @@
           "placementFee": "500",
           "location": "TAS/NSW",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
-          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
           "vetCode": "CHC30121/CHC50121",
@@ -124,6 +130,7 @@
           "placementDuration": "440",
           "placementFee": "1000",
           "promotionValidity": "Promotion valid until 31ST MARCH 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       }
   ]
