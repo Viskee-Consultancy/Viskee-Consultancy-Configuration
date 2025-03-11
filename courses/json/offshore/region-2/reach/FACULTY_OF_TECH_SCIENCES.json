@@ -1,3 +1,4 @@
+
 {
     "courses": [
         {
@@ -10,7 +11,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30320",
@@ -23,7 +24,7 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620",
@@ -36,7 +37,7 @@
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "promotionValidity": " ",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR40620",
@@ -48,7 +49,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR40216",
@@ -60,7 +61,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620/ AUR40216/AUR50116",
@@ -73,7 +74,7 @@
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30320/AUR40620/AUR50116",
@@ -86,7 +87,7 @@
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "promotionValidity": " ",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "RII50520",
@@ -98,7 +99,7 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "RII60520 ",
@@ -110,7 +111,7 @@
             "tuition": "29,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
          {
             "vetCode": "RII50520/RII60520",
@@ -122,7 +123,7 @@
             "tuition": "29,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-             "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT40120",
@@ -134,7 +135,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220",
@@ -146,7 +147,7 @@
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT60220",
@@ -158,7 +159,7 @@
             "tuition": "25,200",
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         }, 
         {
             "vetCode": "ICT40120/ICT50220",
@@ -170,7 +171,7 @@
             "tuition": "24,200",
             "tuitionDetail": "24,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -182,7 +183,7 @@
             "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         }, 
          {
             "vetCode": "TLI50224",
@@ -194,7 +195,7 @@
             "tuition": "10,700",
             "tuitionDetail": "10,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI60222",
@@ -206,7 +207,7 @@
             "tuition": "12,700",
             "tuitionDetail": "12,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI50224/TLI60222",
@@ -218,7 +219,7 @@
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         }      
     ]
 }
