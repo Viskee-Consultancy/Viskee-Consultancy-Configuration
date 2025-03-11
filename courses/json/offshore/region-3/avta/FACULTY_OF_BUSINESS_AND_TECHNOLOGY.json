@@ -10,7 +10,7 @@
           "tuition": "14,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
-          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
           "vetCode": "BSB80320",
@@ -22,7 +22,7 @@
           "tuition": "14,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW",
-          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+          "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       }
   ]
 }
