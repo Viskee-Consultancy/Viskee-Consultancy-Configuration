@@ -10,6 +10,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
@@ -22,6 +23,7 @@
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
           {
@@ -34,6 +36,7 @@
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
@@ -46,6 +49,7 @@
             "tuition": "21,200",
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
@@ -58,6 +62,7 @@
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         }
     ]
