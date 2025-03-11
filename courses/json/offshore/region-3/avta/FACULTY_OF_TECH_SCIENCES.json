@@ -1,3 +1,4 @@
+
 {
     "courses": [
         {
@@ -9,6 +10,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD"
         },
         {
@@ -20,6 +22,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)"
         },
         {
@@ -31,6 +34,7 @@
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD (Currently Not Accepting Single Course Enrolments in QLD)"
         },
         {
@@ -42,6 +46,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "26,200",
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD"
         },
         {
@@ -53,6 +58,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "27,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD"
         },
         {
@@ -64,6 +70,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "27,200",
             "tuitionDetail": "27,000 tuition fee + 200 handling fee",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD))"
         },
          {
@@ -75,6 +82,7 @@
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
+             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD"
         },
          {
@@ -86,6 +94,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "28,200",
             "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/QLD (Currently Not Accepting Enrolments in QLD)"
         },
          {
@@ -97,6 +106,7 @@
             "durationDetail": "48 wks Tuition + 4 wks Break",
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/NSW/QLD (Currently Not Accepting Enrolments in QLD)"
         },
          {
@@ -109,7 +119,7 @@
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "TAS / NSW / QLD (Currently Not Accepting Enrolments in QLD)",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "AUR50116",
@@ -121,7 +131,7 @@
             "tuition": "11,200",
             "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "TAS / NSW / QLD (Currently Not Accepting Enrolments in QLD)",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
@@ -132,7 +142,7 @@
             "durationDetail": "92 wks Tuition + 12 wks Break",
             "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "note": "These qualifications will only fulfil the academic requirements, not a licensed trade qualification.",
+            "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS / NSW / QLD (Currently Not Accepting Enrolments in QLD)"
         },
         {
@@ -144,6 +154,7 @@
           "durationDetail": "44 wks tuition + 8 wks break",
           "tuition": "19,200",
           "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -155,6 +166,7 @@
           "durationDetail": "88 wks tuition + 16 wks break",
           "tuition": "29,200",
           "tuitionDetail": "29,000 tuition fee + 200 handling fee",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW "
       },
       {
@@ -166,6 +178,7 @@
           "durationDetail": "88 wks tuition + 16 wks break",
           "tuition": "29,200",
           "tuitionDetail": "29,000 tuition fee + 200 handling fee",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
          {
@@ -177,6 +190,7 @@
           "durationDetail": "88 wks tuition + 16 wks break",
           "tuition": "28,200",
           "tuitionDetail": "28,000 tuition fee + 200 handling fee",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW "
       }   
     ]
