@@ -12,6 +12,7 @@
           "placementDuration": "200",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -26,6 +27,7 @@
           "placementDuration": " ",
           "placementFee": " ",
           "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+        "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -39,7 +41,8 @@
           "tuitionDetail": "23,500 tuition fee + 200 handling fee",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "PROMOTIONS VALID UNTIL 31TH DECEMBER 2023 ",
+          "promotionValidity": "PROMOTIONS VALID UNTIL 30TH JUNE 2025 ",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -54,6 +57,7 @@
           "placementDuration": "440",
           "placementFee": "1000",
           "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
       {
@@ -68,6 +72,7 @@
           "placementDuration": "360",
           "placementFee": "1000",
           "promotionValidity": "Promotion valid until 30ST JUNE 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       }
   ]
