@@ -53,6 +53,19 @@
             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
         },
         {
+            "vetCode": "AHC30722 / AHC40422 / AHC51422",
+            "cricosCode": "115335K / 115336J / 110774E",
+            "department": "PACKAGES",
+            "name": "CERTIFICATE III IN HORTICULTURE + CERTIFICATE IV IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
+            "duration": "130",
+            "durationDetail": "110 wks Tuition + 20 wks Break",
+            "tuition": "22,700",
+            "tuitionDetail": "22,500 tuition fee + 200 handling fee",
+            "location": "QLD",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+        },
+        {
           "vetCode": "AUR30620",
           "cricosCode": "114644E",
           "department": "AUTOMOTIVE",
