@@ -1,4 +1,3 @@
-
 {
     "courses": [
         {
@@ -192,6 +191,42 @@
           "tuitionDetail": "26,000 tuition fee + 200 handling fee",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW "
-      }   
+      },
+         {
+          "vetCode": "CPC30220",
+          "cricosCode": "117666H",
+          "department": "CARPENTRY / BUILDING",
+          "name": "CERTIFICATE III IN CARPENTRY (Fast track)",
+          "duration": "52",
+          "durationDetail": "49 wks tuition + 3 wks break",
+          "tuition": "15,200",
+          "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+          "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW "
+      },
+        {
+          "vetCode": "CPC50220",
+          "cricosCode": "117668F",
+          "department": "CARPENTRY / BUILDING",
+          "name": "DIPLOMA OF  BUILDING AND CONSTRUCTION (BUILDING) (Fast track)",
+          "duration": "52",
+          "durationDetail": "49 wks tuition + 3 wks break",
+          "tuition": "13,200",
+          "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+          "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW(Currently Not Accepting Enrolments)"
+      },
+        {
+          "vetCode": "CPC30220/CPC50220",
+          "cricosCode": "117666H/117668F",
+          "department": "PACKAGES",
+          "name": "CERTIFICATE III  IN CARPENTRY + DIPLOMA OF  BUILDING AND CONSTRUCTION (BUILDING)",
+          "duration": "104",
+          "durationDetail": "98 wks tuition + 6 wks break",
+          "tuition": "27,200",
+          "tuitionDetail": "27,000 tuition fee + 200 handling fee",
+          "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW"
+      }
     ]
 }
