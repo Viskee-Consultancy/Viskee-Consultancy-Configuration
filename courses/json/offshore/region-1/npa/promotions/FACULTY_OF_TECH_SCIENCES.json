@@ -10,7 +10,7 @@
       "tuition": "14,700",
       "tuitionDetail": "14,500 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -23,7 +23,7 @@
       "tuition": "14,200",
       "tuitionDetail": "14,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au; National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -36,7 +36,7 @@
       "tuition": "25,200",
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -50,7 +50,7 @@
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
       "location": "NSW",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025"
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025"
     },
      {
       "vetCode": "ICT40120",
@@ -59,10 +59,10 @@
       "name": "Certificate IV in Information Technology",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "11,200",
-      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+      "tuition": "10,200",
+      "tuitionDetail": "10,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
        "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -72,10 +72,10 @@
       "name": "Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "12,700",
-      "tuitionDetail": "12,500 tuition fee + 200 handling fee",
+      "tuition": "11,200",
+      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -85,10 +85,10 @@
       "name": "Certificate IV in Information Technology + Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "20,200",
-      "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+      "tuition": "18,200",
+      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
       {
@@ -98,10 +98,10 @@
       "name": "Diploma of Information Technology(Telecommunications Network Engineering) + Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
       "duration": "156",
       "durationDetail": "132 wks Tuition + 24 wks Break",
-      "tuition": "30,200",
-      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
+      "tuition": "28,200",
+      "tuitionDetail": "28,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-        "promotionValidity": "Promotion valid until 30th JUNE 2025",
+        "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
         "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -111,10 +111,10 @@
       "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "22,200",
-      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "tuition": "20,200",
+      "tuitionDetail": "20,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
-      "promotionValidity": "Promotion valid until 30th JUNE 2025",
+      "promotionValidity": "Promotion valid until 31th DECEMBER 2025",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
