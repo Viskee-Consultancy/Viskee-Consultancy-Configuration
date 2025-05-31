@@ -1,0 +1,49 @@
+{
+  "courses": [
+      {
+          "vetCode": " CHC52021",
+          "cricosCode": "113070B",
+          "department": "FACULTY OF COMMUNITY SERVICES",
+          "name": " Diploma of Community Services",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "15,000",
+          "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+          "location": "NSW",
+          "placementDuration": "200",
+          "placementFee": "500",
+          "promotionValidity": " ",
+          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      },
+      {
+          "vetCode": " CHC30121",
+          "cricosCode": "113002C",
+          "department": "FACULTY OF COMMUNITY SERVICES",
+          "name": "Certificate III in Early Childhood Education and Care",
+          "duration": "52",
+          "durationDetail": "43 wks Tuition + 9 wks Break",
+          "tuition": "10,000",
+          "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+          "location": "NSW",
+          "placementDuration": "160",
+          "placementFee": "500",
+          "promotionValidity": " ",
+          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      },
+      {
+          "vetCode": " CHC50121",
+          "cricosCode": "113043E",
+          "department": "FACULTY OF COMMUNITY SERVICES",
+          "name": "Diploma of Early Childhood Education and Care",
+          "duration": "52",
+          "durationDetail": "49 wks Tuition + 3 wks Break",
+          "tuition": "10,000",
+          "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+          "location": "NSW",
+          "placementDuration": "280",
+          "placementFee": "500",
+          "promotionValidity": " ",
+          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      }
+  ]
+}
