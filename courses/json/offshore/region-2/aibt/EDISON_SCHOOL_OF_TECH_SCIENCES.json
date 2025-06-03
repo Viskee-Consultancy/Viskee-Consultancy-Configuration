@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "UEE32220",
-            "cricosCode": "113916E",
+            "vetCode": "UEE32225",
+            "cricosCode": "117747G",
             "department": "Air-Conditioning",
             "name": "Certificate III in Air Conditioning and Refrigeration",
             "duration": "104",
@@ -13,8 +13,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
         },
          {
-            "vetCode": "UEE42720",
-            "cricosCode": "103406K",
+            "vetCode": "UEE42725",
+            "cricosCode": "117751M",
             "department": "Air-Conditioning",
             "name": "Certificate IV in Air Conditioning and Refrigeration Servicing",
             "duration": "78",
@@ -25,8 +25,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
         },
         {
-            "vetCode": "UEE62520",
-            "cricosCode": "103378J",
+            "vetCode": "UEE62525",
+            "cricosCode": "117753J",
             "department": "Air-Conditioning",
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering",
             "duration": "104",
@@ -96,7 +96,7 @@
             "location": "NSW/QLD",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
-         {
+        {
             "vetCode": "CPC30620",
             "cricosCode": "103825B",
             "department": "PAINTING AND DECORATING",
