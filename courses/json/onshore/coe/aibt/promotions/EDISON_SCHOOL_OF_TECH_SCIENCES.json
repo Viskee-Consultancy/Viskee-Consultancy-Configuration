@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "UEE32220",
-            "cricosCode": "113916E",
+            "vetCode": "UEE32225",
+            "cricosCode": "117747G",
             "department": "Air Conditioning",
             "name": "Certificate III in Air-conditioning and Refrigeration",
             "duration": "104",
@@ -11,11 +11,11 @@
             "tuitionDetail": " 23000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
-            "vetCode": "UEE62520",
-            "cricosCode": "103378J",
+            "vetCode": "UEE62525",
+            "cricosCode": "117753J",
             "department": "Air Conditioning",
             "name": "Advanced Diploma of Air Conditioning and Refrigeration Engineering ",
             "duration": "104",
@@ -24,11 +24,11 @@
             "tuitionDetail": " 25000 tuition fee + 200 handling fee",
             "location": "NSW / QLD",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.This qualiﬁcation has been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
-            "vetCode": "UEE32220/ UEE62520",
-            "cricosCode": "113916E/103378J",
+            "vetCode": "UEE32225/ UEE62525",
+            "cricosCode": "117747G/117753J",
             "department": "Packages",
             "name": "Certificate III in Air-conditioning and Refrigeration + Advanced Diploma of Air Conditioning and Refrigeration Engineering",
             "duration": "156",
@@ -37,7 +37,7 @@
             "tuitionDetail": "15000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "promotionValidity": "Promotion valid until 30ST JUNE 2025",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.These qualiﬁcations have been superseded. For more information, please refer to Terms and Conditions at the back of the brochure."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "TLI50224",
