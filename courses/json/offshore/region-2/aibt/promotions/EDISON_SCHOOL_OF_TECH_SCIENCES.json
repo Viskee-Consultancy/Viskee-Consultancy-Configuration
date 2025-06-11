@@ -11,7 +11,7 @@
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "promotionValidity": "Promotion valid until 31st December 2025",
-            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620/AUR40216/AUR50116",
@@ -24,7 +24,7 @@
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
             "promotionValidity": "Promotion valid until 31st December 2025",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "TLI50224/ TLI60222",
@@ -37,7 +37,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "promotionValidity": "Promotion valid until 31st December 2025",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "ICT60220",
@@ -50,7 +50,7 @@
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
              "promotionValidity": "Promotion valid until 31st December 2025",
             "location": "NSW/QLD/TAS",
-             "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT40120/ICT50220",
@@ -63,7 +63,7 @@
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "promotionValidity": "Promotion valid until 31st December 2025",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220/ICT60220",
@@ -74,10 +74,22 @@
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-            "note": "Students are required to attend class up to 4 days per week",
             "promotionValidity": "Promotion valid until 31st December 2025",
             "location": "NSW/QLD/TAS",
-            "note": "These qualifications will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-        }
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+         {
+            "vetCode": "CPC30620",
+            "cricosCode": "103825B",
+            "department": "PAINTING AND DECORATING",
+            "name": "Certificate III in Painting and Decorating",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "25,200",
+            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "location": "NSW",
+            "promotionValidity": "Promotion valid until 31st December 2025",
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.Students will be required to do additional training in order to complete a fast track intensive course."
+        },
     ]
 }
