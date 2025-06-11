@@ -1,6 +1,21 @@
 {
     "courses": [
         {
+            "vetCode": "CHC33021",
+            "cricosCode": "113808J",
+            "department": "COMMUNITY SERVICES",
+            "name": "Certificate III in Individual Support (Ageing)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "120",
+            "placementFee": "500",
+            "promotionValidity": "Promotion valid until 31st December 2025",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
+        },
+          {
             "vetCode": "CHC30121/ CHC50121",
             "cricosCode": "110912M/110911A",
             "department": "Packages",
