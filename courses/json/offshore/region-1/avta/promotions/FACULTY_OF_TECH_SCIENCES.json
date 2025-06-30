@@ -7,11 +7,11 @@
             "name": "CERTIFICATE III IN HORTICULTURE",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AHC40422",
@@ -20,11 +20,11 @@
             "name": "CERTIFICATE IV IN HORTICULTURE",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,700",
-            "tuitionDetail": "12,500 tuition fee + 200 handling fee",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AHC51422",
@@ -33,11 +33,11 @@
             "name": "DIPLOMA OF AGRIBUSINESS MANAGEMENT",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "13,700",
-            "tuitionDetail": "13,500 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AHC30722 / AHC51422",
@@ -46,11 +46,11 @@
             "name": "CERTIFICATE III IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "TAS/QLD",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AHC51422 / BSB80120",
@@ -59,11 +59,11 @@
             "name": "DIPLOMA OF AGRIBUSINESS MANAGEMENT + GRADUATE DIPLOMA OF MANAGEMENT (LEARNING)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AHC40422 / AHC51422",
@@ -72,11 +72,11 @@
             "name": "CERTIFICATE IV IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "19,200",
+            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "TAS",
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "AUR30620 / AUR40216 / AUR50116",
@@ -89,7 +89,7 @@
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "TAS/NSW",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
           "vetCode": "ICT60220",
@@ -98,11 +98,11 @@
           "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY(Telecommunications Network Engineering)",
           "duration": "104",
           "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "22,200",
-          "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+          "promotionValidity": "Promotion valid until 31st December 2025"
       },
         {
           "vetCode": "RII50520",
@@ -115,7 +115,7 @@
           "tuitionDetail": "14,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW",
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+          "promotionValidity": "Promotion valid until 31st December 2025"
       },
       {
           "vetCode": "RII60520",
@@ -128,7 +128,7 @@
           "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+          "promotionValidity": "Promotion valid until 31st December 2025"
       },
       {
           "vetCode": "RII50520/RII60520",
@@ -141,7 +141,7 @@
           "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW",
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+          "promotionValidity": "Promotion valid until 31st December 2025"
       },
          {
           "vetCode": "CPC30220/CPC50220",
@@ -154,7 +154,7 @@
           "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "NSW",
-          "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+          "promotionValidity": "Promotion valid until 31st December 2025"
       }
     ]
 }
