@@ -11,7 +11,7 @@
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "BSB80320",
@@ -24,7 +24,7 @@
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
           {
             "vetCode": "BSB50820/BSB60720",
@@ -37,7 +37,7 @@
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -50,7 +50,7 @@
             "tuitionDetail": "21,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         },
         {
             "vetCode": "BSB60420/BSB80120",
@@ -63,7 +63,7 @@
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025"
         }
     ]
 }
