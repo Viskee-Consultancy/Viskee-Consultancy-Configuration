@@ -1,3 +1,17 @@
+
 {
-  "courses": []
+    "courses": [
+         {
+          "vetCode": "CPC30220",
+          "cricosCode": "117666H",
+          "department": "CARPENTRY / BUILDING",
+          "name": "CERTIFICATE III IN CARPENTRY (Fast track)",
+          "duration": "52",
+          "durationDetail": "49 wks tuition + 3 wks break",
+          "tuition": "15,200",
+          "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+          "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW "
+      }
+    ]
 }
