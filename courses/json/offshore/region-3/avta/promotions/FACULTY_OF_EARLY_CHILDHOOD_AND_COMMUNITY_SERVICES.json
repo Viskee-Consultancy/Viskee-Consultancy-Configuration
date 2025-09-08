@@ -1,6 +1,19 @@
 {
   "courses": [
       {
+          "vetCode": "CHC62015",
+          "cricosCode": "113027E",
+          "department": "COMMUNITY SERVICES",
+          "name": "ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "13,700",
+          "tuitionDetail": "13,500 tuition fee + 200 handling fee",
+          "promotionValidity": "Promotion valid until 31st December 2025",
+          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "TAS/NSW"
+      },
+      {
           "vetCode": "CHC52021/CHC62015",
           "cricosCode": "113026F/113027E",
           "department": "PACKAGES",
