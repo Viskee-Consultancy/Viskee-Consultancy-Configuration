@@ -104,6 +104,19 @@
             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until 31st December 2025"
       },
+         {
+            "vetCode": "CPC30220 / CPC50220",
+            "cricosCode": "117666H / 117668F",
+            "department": "PACKAGES",
+            "name": "CERTIFICATE III IN CARPENTRY + DIPLOMA OF BUILDING AND CONSTRUCTION (BUILDING)",
+            "duration": "104",
+            "durationDetail": "98 wks Tuition + 6 wks Break",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "location": "NSW",
+            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 31st December 2025"
+        },
         {
           "vetCode": "RII50520",
           "cricosCode": "111827M",
