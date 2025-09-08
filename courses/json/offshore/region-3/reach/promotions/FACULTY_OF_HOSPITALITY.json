@@ -22,7 +22,20 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "23,200",
             "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31st December 2025",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT40521/SIT50422",
+            "cricosCode": "109596F/114549D",
+            "department": "Packages",
+            "name": "Certificate IV in Kitchen Management + Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31st December 2025",
             "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         }
