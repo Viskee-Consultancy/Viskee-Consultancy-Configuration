@@ -16,8 +16,8 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
-            "vetCode": " CHC33021/CHC52021",
-            "cricosCode": "114151D/114153B",
+            "vetCode": " CHC33021/CHC52025",
+            "cricosCode": "114151D/118803G",
             "department": "Package",
             "name": "Certificate III in Individual Support (Ageing) + Diploma of Community Services",
             "duration": "104",
@@ -25,14 +25,14 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "placementDuration": "200",
+            "placementDuration": "220",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 31st December 2025",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
-            "vetCode": " CHC52021/CHC62015",
-            "cricosCode": "114153B/108799C",
+            "vetCode": " CHC52025/CHC62015",
+            "cricosCode": "118803G/108799C",
             "department": "Package",
             "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
             "duration": "104",
@@ -40,14 +40,14 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "placementDuration": "200",
+            "placementDuration": "100",
             "placementFee": "500",
             "promotionValidity": "Promotion valid until 31st December 2025",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
          {
-            "vetCode": " CHC33021/CHC43121/CHC52021",
-            "cricosCode": "114151D/114152C/114153B",
+            "vetCode": " CHC33021/CHC43121/CHC52025",
+            "cricosCode": "114151D/114152C/118803G",
             "department": "Package",
             "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability Support + Diploma of Community Services",
             "duration": "104",
@@ -55,7 +55,7 @@
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
-            "placementDuration": "200",
+            "placementDuration": "260",
             "placementFee": "1000",
             "promotionValidity": "Promotion valid until 31st December 2025",
              "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
