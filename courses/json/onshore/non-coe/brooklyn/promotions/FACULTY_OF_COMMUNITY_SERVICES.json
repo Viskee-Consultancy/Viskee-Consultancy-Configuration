@@ -2,8 +2,8 @@
 {
   "courses": [
       {
-          "vetCode": " CHC52021",
-          "cricosCode": "113070B",
+          "vetCode": " CHC52025",
+          "cricosCode": "118823C",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": " Diploma of Community Services",
           "duration": "52",
@@ -13,7 +13,7 @@
           "tuitionHalf": "7,500",
           "tuitionHalfDetail": "6,750 Tuition fee + 500 Placement fee + 200 Handling fee + 2 x 25 Instalment fee ",
           "location": "NSW",
-          "placementDuration": "200",
+          "placementDuration": "100",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 30th September 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
