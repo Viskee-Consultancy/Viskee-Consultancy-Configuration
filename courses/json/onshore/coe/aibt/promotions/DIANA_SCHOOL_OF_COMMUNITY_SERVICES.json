@@ -49,8 +49,8 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "CHC52021",
-            "cricosCode": "113809H",
+            "vetCode": "CHC52025",
+            "cricosCode": "118733E",
             "department": "Community Services",
             "name": "Diploma of Community Services",
             "duration": "52",
@@ -58,7 +58,7 @@
             "tuition": "9,700",
             "tuitionDetail": "9,500 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
-            "placementDuration": "200",
+            "placementDuration": "100",
             "placementFee": "500",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
@@ -97,8 +97,8 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "CHC33021 / CHC43015 / CHC52021",
-            "cricosCode": "113808J/090852K/113809H",
+            "vetCode": "CHC33021 / CHC43015 / CHC52025",
+            "cricosCode": "113808J/090852K/118733E",
             "department": "Packages",
             "name": "Certificate III in Individual Support(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
@@ -106,15 +106,15 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
-            "placementDuration": "440",
+            "placementDuration": "340",
             "placementFee": "1,000",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services。 Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "CHC33021 / CHC43015 / CHC52021",
-            "cricosCode": "113808J/090852K/113809H",
+            "vetCode": "CHC33021 / CHC43015 / CHC52025",
+            "cricosCode": "113808J/090852K/118733E",
             "department": "Packages",
             "name": "Certificate III in Individual Support(Disability) + Certificate IV in Ageing Support + Diploma of Community Services",
             "duration": "104",
@@ -122,7 +122,7 @@
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
             "location": "NSW / QLD / TAS",
-            "placementDuration": "440",
+            "placementDuration": "340",
             "placementFee": "1,500",
             "placementDetail": " ",
             "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
