@@ -1,8 +1,8 @@
 {
   "courses": [
       {
-          "vetCode": " CHC52021",
-          "cricosCode": "113070B",
+          "vetCode": " CHC52025",
+          "cricosCode": "118823C",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": " Diploma of Community Services",
           "duration": "52",
@@ -10,7 +10,7 @@
           "tuition": "10,700",
           "tuitionDetail": "10,500 tuition fee + 200 handling fee",
           "location": "NSW",
-          "placementDuration": "200",
+          "placementDuration": "100",
           "placementFee": "500",
           "promotionValidity": "Promotion valid until 31th December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
@@ -29,8 +29,8 @@
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
-          "vetCode": "CHC33021/CHC43015/CHC52021",
-          "cricosCode": "118428C/118430J/113070B",
+          "vetCode": "CHC33021/CHC43015/CHC52025",
+          "cricosCode": "118428C/118430J/118823C",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": "Certificate III in Individual Support(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
           "duration": "104",
@@ -38,7 +38,7 @@
           "tuition": "21,200",
           "tuitionDetail": "21,000 tuition fee + 200 handling fee",
           "location": "NSW",
-          "placementDuration": "360",
+          "placementDuration": "260",
           "placementFee": "1000",
           "promotionValidity": "Promotion valid until 31th December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
