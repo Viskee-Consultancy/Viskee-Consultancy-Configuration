@@ -31,8 +31,8 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
-            "vetCode": "CHC50121",
-            "cricosCode": "110911A",
+            "vetCode": "CHC50125",
+            "cricosCode": "118607M",
             "department": "Early Childhood",
             "name": "Diploma of Early Childhood Education and Care",
             "duration": "52",
@@ -76,8 +76,8 @@
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services."
         },
         {
-            "vetCode": "CHC30121/CHC50121",
-            "cricosCode": "110912M/110911A",
+            "vetCode": "CHC30121/CHC50125",
+            "cricosCode": "110912M/118607M",
             "department": "Packages",
             "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
             "duration": "104",
