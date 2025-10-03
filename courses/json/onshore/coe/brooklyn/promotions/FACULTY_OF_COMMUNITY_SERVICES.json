@@ -12,7 +12,7 @@
           "location": "NSW",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
@@ -27,7 +27,7 @@
           "location": "NSW",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
     {
@@ -42,7 +42,7 @@
           "location": "NSW",
           "placementDuration": "100",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
     {
@@ -57,7 +57,7 @@
           "location": "NSW",
           "placementDuration": "200",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
@@ -72,7 +72,7 @@
           "location": "NSW",
           "placementDuration": "260",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
@@ -87,7 +87,7 @@
           "location": "NSW",
           "placementDuration": "100",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
@@ -102,12 +102,12 @@
           "location": "NSW",
           "placementDuration": "160",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
-          "vetCode": " CHC50121",
-          "cricosCode": "113043E",
+          "vetCode": " CHC50125",
+          "cricosCode": "118656B",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": "Diploma of Early Childhood Education and Care",
           "duration": "52",
@@ -117,7 +117,7 @@
           "location": "NSW",
           "placementDuration": "280",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
@@ -132,7 +132,7 @@
           "location": "NSW",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 30th September 2025",
+          "promotionValidity": "Promotion valid until 31st December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       }
   ]
