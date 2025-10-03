@@ -9,7 +9,7 @@
       "durationDetail": "43 wks Tuition + 9 wks Break",
       "tuition": "12,200",
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "location": "NSW/VIC(Currently not accepting enrolments)",
       "placementDuration": "160",
       "placementFee": "500",
       "promotionValidity": " ",
@@ -24,24 +24,24 @@
       "durationDetail": "49 wks Tuition + 3 wks Break",
       "tuition": "14,200",
       "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "location": "NSW/VIC(Currently not accepting enrolments)",
       "placementDuration": "280",
       "placementFee": "500",
-      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      "note": "This course has been superseded and can be delivered and assessed until 3rd September 2026.This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
       "vetCode": "CHC30121/CHC50121",
       "cricosCode": "112312H/112313G",
       "department": "PACKAGES",
-      "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
+      "name": "Certificate III in Early Childhood Education and Care + #Diploma of Early Childhood Education and Care",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
       "tuition": "24,200",
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "location": "NSW/VIC(Currently not accepting enrolments)",
       "placementDuration": "440",
       "placementFee": "1000",
-      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      "note": "# This course has been superseded and can be delivered and assessed until 3rd September 2026. National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
 }
