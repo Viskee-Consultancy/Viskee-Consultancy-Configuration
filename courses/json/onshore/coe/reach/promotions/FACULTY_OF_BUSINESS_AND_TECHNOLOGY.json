@@ -10,7 +10,7 @@
             "tuition": "6,800",
             "tuitionDetail": "6,600 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025  "
         },
           {
             "vetCode": "BSB50420",
@@ -22,7 +22,7 @@
             "tuition": "6,800",
             "tuitionDetail": "6,600 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025  "
         },
         {
             "vetCode": "BSB60420",
@@ -34,7 +34,7 @@
             "tuition": "6,800",
             "tuitionDetail": "6,600 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
+            "promotionValidity": "Promotion valid until 31st December 2025  ",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
@@ -47,7 +47,7 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
+            "promotionValidity": "Promotion valid until 31st December 2025  ",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },      
         {
@@ -60,7 +60,7 @@
             "tuition": "8,700",
             "tuitionDetail": "8,500 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
+            "promotionValidity": "Promotion valid until 31st December 2025  ",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
@@ -73,7 +73,7 @@
             "tuition": "6,800",
             "tuitionDetail": "6,600 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025",
+            "promotionValidity": "Promotion valid until 31st December 2025  ",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
@@ -86,7 +86,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025  "
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -98,7 +98,7 @@
             "tuition": "13,200",
             "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 30ST SEPTEMBER 2025"
+            "promotionValidity": "Promotion valid until 31st December 2025  "
         }
     ]
 }
