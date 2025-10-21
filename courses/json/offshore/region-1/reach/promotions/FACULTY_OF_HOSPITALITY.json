@@ -1,5 +1,18 @@
 {
     "courses": [
+          {
+            "vetCode": "SIT60322",
+            "cricosCode": "114550M",
+            "department": "Hospitality",
+            "name": "Advanced Diploma of Hospitality Management ",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "20,200",
+            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "promotionValidity": "Promotion valid until 31st December 2025",
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
+        },
         {
             "vetCode": "SIT30821/SIT40521/SIT50422",
             "cricosCode": "109904K/109596F/114549D",
