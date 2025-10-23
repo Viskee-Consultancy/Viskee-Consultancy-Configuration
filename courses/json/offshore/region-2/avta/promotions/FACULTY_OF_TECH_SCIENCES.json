@@ -105,6 +105,19 @@
           "promotionValidity": "Promotion valid until 31st December 2025"
       },
         {
+          "vetCode": "CPC50220",
+          "cricosCode": "117668F",
+          "department": "CARPENTRY / BUILDING",
+          "name": "DIPLOMA OF BUILDING AND CONSTRUCTION(BUILDING)(Fast Track) ",
+          "duration": "52",
+          "durationDetail": "49 wks tuition + 3 wks break",
+          "tuition": "12,200",
+          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "location": "NSW ",
+          "note": "Students will be required to do additional training in order to complete a fast track intensive course; Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "promotionValidity": "Promotion valid until 31st December 2025"
+      },
+        {
           "vetCode": "CPC30220/CPC50220",
           "cricosCode": "117666H/117668F",
           "department": "PACKAGES",
