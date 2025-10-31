@@ -1,1 +1,16 @@
-{}
+{
+  "courses": [
+    {
+      "cricosCode": "112269F",
+      "department": "GRADUATE STUDIES",
+      "name": "Graduate Diploma of Management (Learning)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break ",
+      "tuition": "8,700",
+      "tuitionDetail": "",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
+}
