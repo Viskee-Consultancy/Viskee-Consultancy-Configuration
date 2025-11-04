@@ -1,1 +1,44 @@
-{}
+{
+  "courses": [
+     {
+      "vetCode": "ICT60220",
+      "cricosCode": "112267H",
+      "department": "INFORMATION TECHNOLOGY",
+      "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "22,200",
+      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "AUR30620/AUR40216/AUR50116",
+      "cricosCode": "112261C/112262B/112263A",
+      "department": "PACKAGES",
+      "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break ",
+      "tuition": "26,200",
+      "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "ICT40120/ICT50220",
+      "cricosCode": "112265K/112266J",
+      "department": "PACKAGES",
+      "name": "Certificate IV in Information Technology + Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "22,200",
+      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
+}
+
