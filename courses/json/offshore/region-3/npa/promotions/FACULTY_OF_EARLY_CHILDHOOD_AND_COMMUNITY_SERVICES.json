@@ -1,1 +1,50 @@
-{}
+{
+  "courses": [
+    {
+      "vetCode": "CHC30121",
+      "cricosCode": "112312H",
+      "department": "EARLY CHILDHOOD",
+      "name": "Certificate III in Early Childhood Education and Care",
+      "duration": "52",
+      "durationDetail": "43 wks Tuition + 9 wks Break ",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "placementDuration": "160",
+      "placementFee": "500",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+    {
+      "vetCode": "CHC50121",
+      "cricosCode": "112313G",
+      "department": "EARLY CHILDHOOD",
+      "name": "Diploma of Early Childhood Education and Care",
+      "duration": "52",
+      "durationDetail": "49 wks Tuition + 3 wks Break ",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "placementDuration": "280",
+      "placementFee": "500",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "CHC30121/CHC50121",
+      "cricosCode": "112312H/112313G",
+      "department": "PACKAGES",
+      "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break ",
+      "tuition": "24,200",
+      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+      "placementDuration": "440",
+      "placementFee": "1000",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
+}
+
