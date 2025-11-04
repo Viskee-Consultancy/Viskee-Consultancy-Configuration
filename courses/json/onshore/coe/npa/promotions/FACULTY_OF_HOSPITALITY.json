@@ -1,1 +1,70 @@
-{}
+
+{
+  "courses": [
+    {
+      "vetCode": "SIT40521",
+      "cricosCode": "112264M",
+      "department": "HOSPITALITY",
+      "name": "Certificate IV in Kitchen Management(Fast track intensive course)",
+      "duration": "52",
+      "durationDetail": "48 wks Tuition + 4 wks Break ",
+      "tuition": "10,200",
+      "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "Students will be required to do additional training in order to complete a fast track intensive course;Includes 48 complete service periods in a commercial kitchen for unit SITHCCC043 - Work effectively as a cook)National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+    {
+      "vetCode": "SIT50422",
+      "cricosCode": "112316D",
+      "department": "HOSPITALITY",
+      "name": "Diploma of Hospitality Management",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break ",
+      "tuition": "8,700",
+      "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "Includes 4 service periods for unit SITXCCS016 – (Develop and manage quality customer service practices);Includes 36 complete service periods SITHIND008 – (Work effectively in hospitality service)National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+    {
+      "vetCode": "SIT60322",
+      "cricosCode": "112317C",
+      "department": "HOSPITALITY",
+      "name": "Advanced Diploma of Hospitality Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "17,200",
+      "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "Includes 4 service periods for unit SITXCCS016 – (Develop and manage quality customer service practices);Includes 36 complete service periods SITHIND008 – (Work effectively in hospitality service)National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "SIT40521/SIT60322",
+      "cricosCode": "112264M/112317C",
+      "department": "PACKAGES",
+      "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "18,700",
+      "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "These qualifications require service periods. Please visit the individual course outlines on our website. National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "SIT50422/SIT60322",
+      "cricosCode": "112316D/112317C",
+      "department": "PACKAGES",
+      "name": "Diploma of Hospitality Management + Advanced Diploma of Hospitality Management",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "17,200",
+      "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "These qualifications require service periods. Please visit the individual course outlines on our website. National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
+}
