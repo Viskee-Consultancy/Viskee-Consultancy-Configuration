@@ -1,14 +1,40 @@
 {
   "courses": [
       {
+          "vetCode": "BSB50420",
+          "cricosCode": "109189K",
+          "department": "FACULTY OF BUSINESS ",
+          "name": "Diploma of Leadership and Management",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "9,200",
+          "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+          "location": "NSW",
+          "promotionValidity": "Promotion valid until 31th December 2025",
+          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      },
+      {
+          "vetCode": "BSB60420",
+          "cricosCode": "109190F",
+          "department": "FACULTY OF BUSINESS ",
+          "name": "Advanced Diploma of Leadership and Management",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "12,200",
+          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "location": "NSW",
+          "promotionValidity": "Promotion valid until 31th December 2025",
+          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+      },
+     {
           "vetCode": "BSB50420/BSB60420",
           "cricosCode": "109189K/109190F",
-          "department": "FACULTY OF BUSINESS ",
-          "name": "Diploma of Leadership and Management +\r\nAdvanced Diploma of Leadership and Management",
+          "department": "FACULTY OF BUSINESS",
+          "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "19,200",
-          "tuitionDetail": "19,000 tuition fee + 200 handling fee",
+          "tuition": "21,200",
+          "tuitionDetail": "21,000 tuition fee + 200 handling fee",
           "location": "NSW",
           "promotionValidity": "Promotion valid until 31th December 2025",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
