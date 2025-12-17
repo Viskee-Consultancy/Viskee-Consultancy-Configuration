@@ -10,7 +10,7 @@
             "tuition": "26,200",
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -23,7 +23,7 @@
             "tuition": "26,200",
             "tuitionDetail": "26,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -35,7 +35,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -48,7 +48,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-             "promotionValidity": "Promotion valid until 31st December 2025",
+             "promotionValidity": "Promotion valid until 30th June 2026",
             "location": "NSW/QLD/TAS",
              "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -61,7 +61,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "20,200",
             "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -74,7 +74,7 @@
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "30,200",
             "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -88,7 +88,7 @@
             "tuition": "25,200",
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
             "location": "NSW",
-            "promotionValidity": "Promotion valid until 31st December 2025",
+            "promotionValidity": "Promotion valid until 30th June 2026",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.Students will be required to do additional training in order to complete a fast track intensive course."
         }
     ]
