@@ -1,17 +1,3 @@
 {
-  "courses": [
-    {
-      "vetCode": "UEE60220",
-      "cricosCode": "103393K",
-      "department": "Electronics",
-      "name": "Advanced Diploma of Electronics and Communications Engineering",
-      "duration": "104",
-      "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "18,200",
-      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-      "location": "NSW/QLD",
-      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025"
-    }
-  ]
+  "courses": []
 }
