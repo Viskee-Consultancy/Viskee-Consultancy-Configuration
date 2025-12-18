@@ -1,17 +1,3 @@
 {
-  "courses": [
-    {
-      "vetCode": "BSB80220",
-      "cricosCode": "104499C",
-      "department": "Management",
-      "name": "Graduate Diploma of Portfolio Management",
-      "duration": "52",
-      "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "7,200",
-      "tuitionDetail": "7,000 tuition fee + 200 handling fee",
-      "location": "NSW/QLD",
-      "promotionValidity": "Promotion valid until 31st December 2025",
-      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-    }
-  ]
+  "courses": []
 }
