@@ -1,3 +1,147 @@
 {
-  "courses": [ ]
+    "courses": [
+        {
+            "vetCode": "SIT30821",
+            "cricosCode": "111040B",
+            "department": "Cookery",
+            "name": "Certificate III in Commercial Cookery",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT31021",
+            "cricosCode": "111044J",
+            "department": "Patisserie and Baking",
+            "name": "Certificate III in Patisserie",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT40521 ",
+            "cricosCode": "111041A",
+            "department": "Cookery",
+            "name": "Certificate IV in Kitchen Management(Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "This includes 48 complete food service periods for unit SITHCCC043 - Work effectively as a cook.Students will be required to do additional training in order to complete a fast track intensive course. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT40721",
+            "cricosCode": "111045H",
+            "department": "Patisserie and Baking",
+            "name": "Certificate IV in Patisserie(Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "tuition": "10,200",
+            "tuitionDetail": "10,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "This includes 12 complete service periods for unit SITHCCC034 - Work effectively in a commercial kitchen.Students will be required to do additional training in order to complete a fast track intensive course. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT50422",
+            "cricosCode": "113812B",
+            "department": "Hospitality",
+            "name": "Diploma of Hospitality Management ",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "8,700",
+            "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT60322",
+            "cricosCode": "113813A",
+            "department": "Hospitality Management",
+            "name": "Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "17200",
+            "tuitionDetail": "17000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT30821/ SIT40521/SIT50422",
+            "cricosCode": "111040B/111041A/113812B",
+            "department": "Packages",
+            "name": "Certificate III in Commerical Cookery + Certificate IV in Kitchen Management + Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT40521/ SIT60322",
+            "cricosCode": "111041A/113813A",
+            "department": "Packages",
+            "name": "Certificate IV in Kitchen Management + Advanced Diploma of Hospitality Management ",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT31021/ SIT40721/SIT50422",
+            "cricosCode": "111044J/111045H/113812B",
+            "department": "Packages",
+            "name": "Certificate III in Patisserie + Certificate IV in Patisserie + Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "92 wks Tuition + 12 wks Break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT40721/ SIT60322",
+            "cricosCode": "111045H/113813A",
+            "department": "Packages",
+            "name": "Certificate IV in Patisserie + Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "18,700",
+            "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "SIT50422 / SIT60322",
+            "cricosCode": "113812B/113813A",
+            "department": "Packages",
+            "name": "Diploma of Hospitality Management  +  Advanced Diploma of Hospitality Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+            "note": "These qualifications require service periods. Please visit the individual course outlines on our website. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        }
+    ]
 }
