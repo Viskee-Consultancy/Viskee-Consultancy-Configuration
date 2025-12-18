@@ -1,16 +1,3 @@
 {
-    "courses": [
-        {
-            "cricosCode": "089486D",
-            "department": "English",
-            "name": "General English (Beginner to Upper Intermediate) ",
-            "duration": "12 ",
-            "durationDetail": "10 wks Tuition + 2 wks Break ",
-            "tuition": "$2,200 per Block",
-            "tuitionDetail": "1 ELICOS BLOCK = 12 WEEKS (10 wks Tuition + 2 wks Break)($220 per week if enrolled for less than 12 weeks)",
-            "location": "NSW/QLD/TAS",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
-        }
-    ]
+  "courses": [ ]
 }
