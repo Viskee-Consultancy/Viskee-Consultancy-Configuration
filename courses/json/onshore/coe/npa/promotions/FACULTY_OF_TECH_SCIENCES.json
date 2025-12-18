@@ -1,3 +1,83 @@
 {
-  "courses": []
+  "courses": [
+    {
+      "vetCode": "AUR30620",
+      "cricosCode": "112261C",
+      "department": "AUTOMOTIVE",
+      "name": "Certificate III in Light Vehicle Mechanical Technology",
+      "duration": "52",
+      "durationDetail": "48 wks Tuition + 4 wks Break ",
+      "tuition": "11,200",
+      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+    {
+      "vetCode": "AUR50116",
+      "cricosCode": "112263A",
+      "department": "AUTOMOTIVE",
+      "name": "Diploma of Automotive Management",
+      "duration": "52",
+      "durationDetail": "46 wks Tuition + 6 wks Break ",
+      "tuition": "11,200",
+      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+    {
+      "vetCode": "ICT50220",
+      "cricosCode": "112266J",
+      "department": "INFORMATION TECHNOLOGY",
+      "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break ",
+      "tuition": "9,700",
+      "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "ICT60220",
+      "cricosCode": "112267H",
+      "department": "INFORMATION TECHNOLOGY",
+      "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationDetail": "88 wks Tuition + 16 wks Break ",
+      "tuition": "18,700",
+      "tuitionDetail": "18,500 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "AUR30620/AUR40216/AUR50116",
+      "cricosCode": "112261C/112262B/112263A",
+      "department": "PACKAGES",
+      "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break ",
+      "tuition": "22,200",
+      "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    },
+     {
+      "vetCode": "UEE30920/UEE60220",
+      "cricosCode": "113943B/113948H",
+      "department": "PACKAGES",
+      "name": "Certificate III in Electronics and Communications + Advanced Diploma of Electronics and Communications Engineering",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break ",
+      "tuition": "20,200",
+      "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
 }
+
