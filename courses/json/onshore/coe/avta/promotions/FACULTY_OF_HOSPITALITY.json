@@ -1,3 +1,43 @@
 {
-  "courses": []
+  "courses": [
+     {
+          "vetCode": "SIT60322",
+          "cricosCode": "113029C",
+          "department": "HOSPITALITY MANAGEMENT",
+          "name": "ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "note": "Includes 4 service periods for unit SITXCCS016 – Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "promotionValidity": "Promotion valid until 31st December 2025",
+          "location": "TAS/NSW"
+      },
+    {
+          "vetCode": "SIT50422",
+          "cricosCode": "113028D",
+          "department": "HOSPITALITY MANAGEMENT",
+          "name": "DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "52",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "8,700",
+          "tuitionDetail": "8,500 tuition fee + 200 handling fee",
+          "promotionValidity": "Promotion valid until 31st December 2025",
+          "note": "Includes 4 complete service periods for unit SITXCCS016 - Develop and manage quality customer service practices;Includes 36 complete service periods for unit SITHIND008 - Work effectively in hospitality service. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "TAS/NSW"
+      },
+     {
+          "vetCode": "SIT50422/SIT60322",
+          "cricosCode": "113028D/113029C",
+          "department": "PACKAGES",
+          "name": "DIPLOMA OF HOSPITALITY MANAGEMENT + ADVANCED DIPLOMA OF HOSPITALITY MANAGEMENT",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "17,200",
+          "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+          "promotionValidity": "Promotion valid until 31st December 2025",
+          "note": "These qualifications require service periods.Please visit the individual course outlines on our website. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "TAS/NSW "
+      }
+  ]
 }
