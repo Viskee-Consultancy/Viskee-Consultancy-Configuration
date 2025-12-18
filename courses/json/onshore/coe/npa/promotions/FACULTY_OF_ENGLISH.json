@@ -1,3 +1,16 @@
 {
-  "courses": []
+  "courses": [
+    {
+      "cricosCode": "112258J",
+      "department": "ENGLISH",
+      "name": "General English Levels 1-5",
+      "duration": "12",
+      "durationDetail": "10 wks Tuition + 2 wks Break ",
+      "tuition": "2,200 per Block",
+      "tuitionDetail": "1 ELICOS BLOCK = 12 WEEKS (10 wks Tuition + 2 wks Break)($220 per week if enrolled for less than 12 weeks)",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2025 "
+    }
+  ]
 }
