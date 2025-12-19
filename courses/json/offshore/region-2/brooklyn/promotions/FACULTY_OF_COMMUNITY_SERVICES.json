@@ -12,7 +12,7 @@
           "location": "NSW",
           "placementDuration": "100",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 31th December 2025",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
@@ -25,7 +25,7 @@
           "tuition": "11,200",
           "tuitionDetail": "11,000 tuition fee + 200 handling fee",
           "location": "NSW",
-          "promotionValidity": "Promotion valid until 31th December 2025",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
      {
@@ -40,7 +40,7 @@
           "location": "NSW",
           "placementDuration": "260",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 31th December 2025",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
@@ -55,7 +55,7 @@
           "location": "NSW",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 31th December 2025",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       }
   ]
