@@ -1,4 +1,3 @@
-
 {
   "courses": [
     {
@@ -12,7 +11,7 @@
       "tuitionDetail": "22,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "Includes 4 service periods for unit SITXCCS016 – (Develop and manage quality customer service practices);Includes 36 complete service periods SITHIND008 – (Work effectively in hospitality service)National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "SIT40521/SIT60322",
@@ -25,7 +24,7 @@
       "tuitionDetail": "23,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "These qualifications require service periods. Please visit the individual course outlines on our website. National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "SIT50422/SIT60322",
@@ -38,7 +37,7 @@
       "tuitionDetail": "22,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "These qualifications require service periods. Please visit the individual course outlines on our website. National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     }
   ]
 }
