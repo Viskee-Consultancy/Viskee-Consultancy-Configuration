@@ -11,7 +11,7 @@
       "tuitionDetail": "12,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB60720",
@@ -24,7 +24,7 @@
       "tuitionDetail": "13,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB60420",
@@ -37,7 +37,7 @@
       "tuitionDetail": "13,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB80120",
@@ -50,7 +50,7 @@
       "tuitionDetail": "14,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB50820/BSB60720",
@@ -63,7 +63,7 @@
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB50820/BSB80120",
@@ -76,7 +76,7 @@
       "tuitionDetail": "24,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB60720/BSB80120",
@@ -89,7 +89,7 @@
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     },
      {
       "vetCode": "BSB60420/BSB80120",
@@ -102,7 +102,7 @@
       "tuitionDetail": "21,000 tuition fee + 200 handling fee",
       "location": "NSW/VIC",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-      "promotionValidity": "Promotion valid until 31st December 2025 "
+      "promotionValidity": "Promotion valid until 30th June 2026 "
     }
   ]
 }
