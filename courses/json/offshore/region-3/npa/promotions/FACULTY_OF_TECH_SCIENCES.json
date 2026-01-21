@@ -7,10 +7,11 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology",
       "duration": "52",
       "durationDetail": "48 wks Tuition + 4 wks Break",
-      "tuition": "19,200",
-      "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
       "promotionValidity": " ",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -20,10 +21,11 @@
       "name": "Certiﬁcate III in Electronics and Communications",
       "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": "18,200",
-      "tuitionDetail": "18,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "13,200",
+      "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+      "location": "NSW",
       "promotionValidity": " ",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -33,9 +35,10 @@
       "name": "Certificate IV in Automotive Mechanical Diagnosis",
       "duration": "39",
       "durationDetail": "35 wks Tuition + 4 wks Break",
-      "tuition": "15,200",
-      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "8,200",
+      "tuitionDetail": "8,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC ",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -45,9 +48,10 @@
       "name": "Diploma of Automotive Management",
       "duration": "52",
       "durationDetail": "46 wks Tuition + 6 wks Break",
-      "tuition": "15,200",
-      "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -57,10 +61,11 @@
       "name": "Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "30,200",
-      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "25,200",
+      "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+      "location": "NSW",
       "promotionValidity": " ",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
      {
@@ -70,9 +75,10 @@
       "name": "Certiﬁcate III in Electronics and Communications + Advanced Diploma of Electronics and Communications Engineering",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "35,200",
-      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "26,200",
+      "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+      "location": "NSW",
+       "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
       "promotionValidity": " "
     },
@@ -83,9 +89,10 @@
       "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis +  Diploma of Automotive Management",
       "duration": "104",
       "durationDetail": "92 wks Tuition + 12 wks Break",
-      "tuition": "35,200",
-      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "26,200",
+      "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
       "promotionValidity": " "
     },
@@ -96,9 +103,10 @@
       "name": "Certificate IV in Information Technology",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "12,200",
-      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "11,200",
+      "tuitionDetail": "11,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -108,9 +116,10 @@
       "name": "Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "14,200",
-      "tuitionDetail": "14,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "12,200",
+      "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC ",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -120,9 +129,10 @@
       "name": "Certificate IV in Information Technology + Diploma of Information Technology(Telecommunications Network Engineering)",
       "duration": "104",
       "durationDetail": "88 wks Tuition + 16 wks Break",
-      "tuition": "24,200",
-      "tuitionDetail": "24,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "23,200",
+      "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -132,9 +142,10 @@
       "name": "Diploma of Information Technology(Telecommunications Network Engineering) + Advanced Diploma of Information Technology  (Telecommunications Network Engineering)",
       "duration": "156",
       "durationDetail": "132 wks Tuition + 24 wks Break",
-      "tuition": "35,200",
-      "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "tuition": "30,200",
+      "tuitionDetail": "30,000 tuition fee + 200 handling fee",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
@@ -146,7 +157,8 @@
       "durationDetail": "88 wks Tuition + 16 wks Break",
       "tuition": "25,200",
       "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-      "location": "NSW/VIC (Currently not accepting enrolments)",
+      "location": "NSW/VIC",
+      "promotionValidity": "Promotion valid until 30th June 2026 ",
       "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
