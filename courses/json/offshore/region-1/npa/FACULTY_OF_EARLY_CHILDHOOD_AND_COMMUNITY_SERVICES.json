@@ -1,8 +1,8 @@
 {
   "courses": [
     {
-      "vetCode": " CHC30121",
-      "cricosCode": "112312H",
+      "vetCode": " CHC30125",
+      "cricosCode": "119533E",
       "department": "EARLY CHILDHOOD",
       "name": "Certificate III in Early Childhood Education and Care",
       "duration": "52",
@@ -30,8 +30,8 @@
       "note": "This course has been superseded and can be delivered and assessed until 3rd September 2026. This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     },
     {
-      "vetCode": "CHC30121/CHC50121",
-      "cricosCode": "112312H/112313G",
+      "vetCode": "CHC30125/CHC50121",
+      "cricosCode": "119533E/112313G",
       "department": "PACKAGES",
       "name": "Certificate III in Early Childhood Education and Care + #Diploma of Early Childhood Education and Care",
       "duration": "104",
