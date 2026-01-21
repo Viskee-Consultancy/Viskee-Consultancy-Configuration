@@ -89,8 +89,8 @@
           "location": "TAS/NSW"
       },
      {
-          "vetCode": "CHC30121",
-          "cricosCode": "113023J",
+          "vetCode": "CHC30125",
+          "cricosCode": "119674C",
           "department": "EARLY CHILDHOOD EDUCATION AND CARE",
           "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE",
           "duration": "52",
@@ -119,8 +119,8 @@
           "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
-          "vetCode": "CHC30121/CHC50125",
-          "cricosCode": "113023J/118661E",
+          "vetCode": "CHC30125/CHC50125",
+          "cricosCode": "119674C/118661E",
           "department": "PACKAGES",
           "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE + DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
           "duration": "104",
