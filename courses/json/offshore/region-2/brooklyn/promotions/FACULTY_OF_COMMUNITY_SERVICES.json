@@ -1,48 +1,46 @@
 {
   "courses": [
       {
-          "vetCode": " CHC52021",
-          "cricosCode": "113070B",
+          "vetCode": " CHC52025",
+          "cricosCode": "118823C",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": " Diploma of Community Services",
           "duration": "52",
           "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "9,700",
-          "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "tuition": "10,700",
+          "tuitionDetail": "10,500 tuition fee + 200 handling fee",
           "location": "NSW",
-          "placementDuration": "200",
+          "placementDuration": "100",
           "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th June 2025 ",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
-      {
-          "vetCode": " CHC30121",
-          "cricosCode": "113002C",
+     {
+          "vetCode": " CHC62015",
+          "cricosCode": "118431H",
           "department": "FACULTY OF COMMUNITY SERVICES",
-          "name": "Certificate III in Early Childhood Education and Care",
+          "name": " Advanced Diploma of Community Sector Management",
           "duration": "52",
-          "durationDetail": "43 wks Tuition + 9 wks Break",
-          "tuition": "9,700",
-          "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
+          "tuition": "11,200",
+          "tuitionDetail": "11,000 tuition fee + 200 handling fee",
           "location": "NSW",
-          "placementDuration": "160",
-          "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th June 2025 ",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
-      {
-          "vetCode": " CHC50121",
-          "cricosCode": "113043E",
+     {
+          "vetCode": "CHC33021/CHC43015/CHC52025",
+          "cricosCode": "118428C/118430J/118823C",
           "department": "FACULTY OF COMMUNITY SERVICES",
-          "name": "Diploma of Early Childhood Education and Care",
-          "duration": "52",
-          "durationDetail": "49 wks Tuition + 3 wks Break",
-          "tuition": "9,700",
-          "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+          "name": "Certificate III in Individual Support(Ageing) + Certificate IV in Ageing Support + Diploma of Community Services",
+          "duration": "104",
+          "durationDetail": "88 wks Tuition + 16 wks Break",
+          "tuition": "21,200",
+          "tuitionDetail": "21,000 tuition fee + 200 handling fee",
           "location": "NSW",
-          "placementDuration": "280",
-          "placementFee": "500",
-          "promotionValidity": "Promotion valid until 30th June 2025 ",
+          "placementDuration": "260",
+          "placementFee": "1000",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
@@ -57,7 +55,7 @@
           "location": "NSW",
           "placementDuration": "440",
           "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 30th June 2025 ",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       }
   ]

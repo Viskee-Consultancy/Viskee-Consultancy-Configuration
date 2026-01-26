@@ -7,13 +7,61 @@
             "name": "Advanced Diploma of Community Sector Management",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS",
             "placementDuration": " ",
             "placementFee": " ",
-            "note": "Students must be 18 years old and above at the commencement of any qualification in Faculty of Community Services. Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
-        }
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        },
+         {
+            "vetCode": " CHC33021",
+            "cricosCode": "114151D",
+            "department": "COMMUNITY SERVICES",
+            "name": "Certificate III in Individual Support (Ageing)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,700",
+            "tuitionDetail": "9,500 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "placementDuration": "120",
+            "placementDuration": " ",
+            "placementFee": "500 ",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        },
+         {
+            "vetCode": "CHC52025/CHC62015",
+            "cricosCode": "118803G/108799C",
+            "department": "PACKAGES",
+            "name": "Diploma of Community Services + Advanced Diploma of Community Sector Management",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "23,700",
+            "tuitionDetail": "23,500 tuition fee + 200 handling fee",
+            "location": "NSW/TAS",
+            "placementDuration": "100",
+            "placementFee": "500",
+            "promotionValidity": " ",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        },
+         {
+            "vetCode": "CHC33021/CHC43121/CHC52025",
+            "cricosCode": "114151D/114152C/118803G",
+            "department": "PACKAGES",
+            "name": "Certificate III in Individual Support (Disability) + Certificate IV in Disability + Diploma of Community Services ",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "placementDuration": "260",
+            "placementFee": "1000",
+            "promotionValidity": " ",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        }  
     ]
 }

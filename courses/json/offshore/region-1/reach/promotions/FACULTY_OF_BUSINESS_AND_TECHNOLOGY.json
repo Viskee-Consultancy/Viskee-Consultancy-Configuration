@@ -1,17 +1,69 @@
 {
     "courses": [
         {
+            "vetCode": "BSB50820",
+            "cricosCode": "105425B",
+            "department": "MANAGEMENT",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026  "
+        },
+           {
+            "vetCode": "BSB50420",
+            "cricosCode": "108801C",
+            "department": "MANAGEMENT",
+            "name": "Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026  "
+        },
+         {
+            "vetCode": "BSB60720",
+            "cricosCode": "106649M",
+            "department": "MANAGEMENT",
+            "name": "Advanced Diploma of Program Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au; Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026  "
+        },
+          {
+            "vetCode": "BSB60420",
+            "cricosCode": "105426A",
+            "department": "MANAGEMENT",
+            "name": "Advanced Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "9,200",
+            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
+            "location": "NSW/TAS/VIC",
+            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au; Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
+            "promotionValidity": "Promotion valid until 30th June 2026  "
+        },
+         {
             "vetCode": "BSB80120",
             "cricosCode": "105392F",
             "department": "GRADUATE STUDIES",
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30th June 2026  "
         },
         {
             "vetCode": "BSB80320",
@@ -20,11 +72,11 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "11,200",
+            "tuitionDetail": "11,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30th June 2026  "
         },
         {
             "vetCode": "BSB50820/BSB60720",
@@ -33,11 +85,11 @@
             "name": "Diploma of Project Management + Advanced Diploma of Program  Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30th June 2026  "
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -46,11 +98,11 @@
             "name": "Diploma of Leadership and Management + Advanced Diploma of Leadership and Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+            "promotionValidity": "Promotion valid until 30th June 2026  "
         },
          {
             "vetCode": "BSB50820/BSB80120",
@@ -59,11 +111,11 @@
             "name": "Diploma of Project Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
              "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+             "promotionValidity": "Promotion valid until 30th June 2026  "
         },
          {
             "vetCode": "BSB50420/BSB80120",
@@ -72,11 +124,11 @@
             "name": "Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+             "promotionValidity": "Promotion valid until 30th June 2026  "
         },
          {
             "vetCode": "BSB60720/BSB80120",
@@ -85,11 +137,11 @@
             "name": "Advanced Diploma of Program Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
              "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+             "promotionValidity": "Promotion valid until 30th June 2026  "
         },
          {
             "vetCode": "BSB60420/BSB80120",
@@ -98,11 +150,11 @@
             "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
             "location": "NSW/TAS/VIC",
              "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship.",
-             "promotionValidity": "Promotion valid until 30ST JUNE 2025"
+             "promotionValidity": "Promotion valid until 30th June 2026  "
         }
     ]
 }

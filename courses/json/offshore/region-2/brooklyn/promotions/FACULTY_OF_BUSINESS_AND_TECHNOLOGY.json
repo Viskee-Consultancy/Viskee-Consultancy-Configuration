@@ -1,29 +1,16 @@
 {
   "courses": [
       {
-          "vetCode": "BSB60420",
-          "cricosCode": "109190F",
-          "department": "FACULTY OF BUSINESS ",
-          "name": "Advanced Diploma of Leadership and Management",
-          "duration": "52",
-          "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "6,000",
-          "tuitionDetail": "6,000 tuition fee + 200 handling fee",
-          "location": "NSW",
-          "promotionValidity": "Promotion valid until 30th June 2025",
-          "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-      },
-      {
           "vetCode": "BSB50420/BSB60420",
           "cricosCode": "109189K/109190F",
           "department": "FACULTY OF BUSINESS ",
           "name": "Diploma of Leadership and Management +\r\nAdvanced Diploma of Leadership and Management",
           "duration": "104",
           "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "12,000",
-          "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+          "tuition": "20,200",
+          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "location": "NSW",
-          "promotionValidity": "Promotion valid until 30th June 2025",
+          "promotionValidity": "Promotion valid until 30th June 2026",
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       }
   ]

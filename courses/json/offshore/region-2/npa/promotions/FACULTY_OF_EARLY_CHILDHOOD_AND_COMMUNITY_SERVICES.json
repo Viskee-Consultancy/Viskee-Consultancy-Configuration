@@ -1,1 +1,19 @@
-{}
+{
+  "courses": [
+     {
+      "vetCode": "CHC30125/CHC50121",
+      "cricosCode": "119533E/112313G",
+      "department": "PACKAGES",
+      "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
+      "duration": "104",
+      "durationDetail": "92 wks Tuition + 12 wks Break ",
+      "tuition": "23,200",
+      "tuitionDetail": "23,000 tuition fee + 200 handling fee",
+      "placementDuration": "440",
+      "placementFee": "1000",
+      "location": "NSW/VIC",
+      "note": "National Polytechnic of Australia qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 30th June 2026 "
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{}
+{
+    "courses": [
+         {
+            "vetCode": "BSB50820",
+            "cricosCode": "104063J",
+            "department": "Management",
+            "name": "Diploma of Project Management",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5,750",
+            "tuitionHalfDetail": "5500 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             
+        },
+         {
+            "vetCode": "BSB80120",
+            "cricosCode": "107120C",
+            "department": "Management",
+            "name": "Graduate Diploma of Management (Learning)",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7000",
+            "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 31st March 2026",
+             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        }
+    ]
+}
