@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "vetCode": "ICT60220",
+      "cricosCode": "118982K",
+      "department": "Faculty of ENGINEERING TECHNOLOGY",
+      "name": "ADVANCED DIPLOMA OF INFORMATION TECHNOLOGY (Telecommunications Network Engineering)",
+      "duration": "104",
+      "durationMin": "",
+      "durationMax": "",
+      "durationDetail": "88 wks Tuition + 16 wks Break",
+      "tuition": "16,200",
+      "tuitionDetail": "16,000 tuition fee + 200 handling fee",
+      "tuitionHalf": "",
+      "tuitionHalfDetail": "",
+      "location": "TAS",
+      "locationDetail": "",
+      "placementDuration": "",
+      "placementFee": "",
+      "placementDetail": "",
+      "promotionValidity": "Promotions valid 1st January until 31st March 2026",
+      "": "HJ Australian Institute qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+    }
+  ]
+}
