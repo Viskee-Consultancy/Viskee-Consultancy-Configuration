@@ -91,12 +91,12 @@
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
-          "vetCode": " CHC30121",
-          "cricosCode": "113002C",
+          "vetCode": " CHC30125",
+          "cricosCode": "119670G",
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": "Certificate III in Early Childhood Education and Care",
           "duration": "52",
-          "durationDetail": "43 wks Tuition + 9 wks Break",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "8,700",
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "location": "NSW/VIC",
@@ -111,7 +111,7 @@
           "department": "FACULTY OF COMMUNITY SERVICES",
           "name": "Diploma of Early Childhood Education and Care",
           "duration": "52",
-          "durationDetail": "49 wks Tuition + 3 wks Break",
+          "durationDetail": "44 wks Tuition + 8 wks Break",
           "tuition": "8,700",
           "tuitionDetail": "8,500 tuition fee + 200 handling fee",
           "location": "NSW/VIC",
@@ -121,8 +121,8 @@
           "note": "Brooklyn International College qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
       },
       {
-          "vetCode": "CHC30121/CHC50121",
-          "cricosCode": "113002C/113043E",
+          "vetCode": "CHC30125/CHC50125",
+          "cricosCode": "119670G/118656B",
           "department": "Package",
           "name": "Certificate III in Early Childhood Education and Care + Diploma of Early Childhood Education and Care",
           "duration": "104",
