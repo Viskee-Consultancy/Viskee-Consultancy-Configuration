@@ -7,14 +7,29 @@
           "department": "CARPENTRY / BUILDING",
           "name": "CERTIFICATE III IN CARPENTRY (Fast track)",
           "duration": "52",
-          "durationDetail": "49 wks tuition + 3 wks break",
+          "durationDetail": "44 wks tuition + 8 wks break",
           "tuition": "7,200",
           "tuitionDetail": "7,000 tuition fee + 200 handling fee",
           "tuitionHalf": "8,000",
           "tuitionHalfDetail": "7,750 tuition fee + 200 handling fee + 2x25 instalment fee",
           "note": "Students will be required to do additional training in order to complete a fast track intensive course.Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "NSW/TAS ",
-          "promotionValidity": "Promotion valid until 31st March 2026"
+          "promotionValidity": "Promotion valid until 30th June 2026"
+      },
+        {
+          "vetCode": "CPC50220",
+          "cricosCode": "117668F",
+          "department": "CARPENTRY / BUILDING",
+          "name": "DIPLOMA OF BUILDING AND CONSTRUCTION (BUILDING) (Fast track)",
+          "duration": "52",
+          "durationDetail": "44 wks tuition + 8 wks break",
+          "tuition": "6,200",
+          "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+          "tuitionHalf": "7,000",
+          "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+          "note": "Students will be required to do additional training in order to complete a fast track intensive course.Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "TAS",
+          "promotionValidity": "Promotion valid until 30th June 2026"
       }
     ]
 }
