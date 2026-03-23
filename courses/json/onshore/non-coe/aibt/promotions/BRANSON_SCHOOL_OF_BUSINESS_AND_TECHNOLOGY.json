@@ -12,9 +12,23 @@
             "tuitionHalf": "5,750",
             "tuitionHalfDetail": "5500 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31st March 2026",
+            "promotionValidity": "Promotion valid until 30th June 2026",
              "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-             
+        },
+         {
+            "vetCode": "BSB50420",
+            "cricosCode": "104452G",
+            "department": "Management",
+            "name": "Diploma of Leadership and Management",
+            "duration": "52",
+            "durationDetail": "52 Weeks (44 wks Tuition + 8 wks Break)",
+            "tuition": "5,200",
+            "tuitionDetail": "5,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "5,750",
+            "tuitionHalfDetail": "5500 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "location": "NSW/QLD/TAS",
+            "promotionValidity": "Promotion valid until 30th June 2026",
+             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship." 
         },
          {
             "vetCode": "BSB80120",
@@ -28,7 +42,7 @@
             "tuitionHalf": "7000",
             "tuitionHalfDetail": "6750 tuition fee + 200 handling fee + 2x25 instalment fee",
             "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31st March 2026",
+            "promotionValidity": "Promotion valid until 30th June 2026",
              "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         }
     ]
