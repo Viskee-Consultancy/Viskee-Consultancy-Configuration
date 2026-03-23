@@ -11,7 +11,7 @@
             "tuitionDetail": "6600 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB50420",
@@ -24,7 +24,7 @@
             "tuitionDetail": "6600 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
          {
             "vetCode": "BSB50820",
@@ -37,7 +37,7 @@
             "tuitionDetail": "6600 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB60420",
@@ -50,7 +50,7 @@
             "tuitionDetail": "6600 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB80120",
@@ -59,11 +59,11 @@
             "name": "Graduate Diploma of Management (Learning)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8700 ",
-            "tuitionDetail": "8500 tuition fee + 200 handling fee",
+            "tuition": "9200 ",
+            "tuitionDetail": "9000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB80320",
@@ -72,11 +72,11 @@
             "name": "Graduate Diploma of Strategic Leadership",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "8700 ",
-            "tuitionDetail": "8500 tuition fee + 200 handling fee",
+            "tuition": "9200 ",
+            "tuitionDetail": "9000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB50820/ BSB60720",
@@ -89,7 +89,7 @@
             "tuitionDetail": "13000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         },
         {
             "vetCode": "BSB50420/BSB60420",
@@ -102,7 +102,7 @@
             "tuitionDetail": "13000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st March 2026"
+            "promotionValidity": "Promotion valid until 30th June 2026"
         }
     ]
 }
