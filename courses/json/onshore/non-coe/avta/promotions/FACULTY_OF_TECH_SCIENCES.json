@@ -30,6 +30,36 @@
           "note": "Students will be required to do additional training in order to complete a fast track intensive course.Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS",
           "promotionValidity": "Promotion valid until 30th June 2026"
-      }
+      },
+         {
+            "vetCode": "AHC30722",
+            "cricosCode": "115335K",
+            "department": "HORTICULTURE",
+            "name": "CERTIFICATE III IN HORTICULTURE",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "TAS/QLD ",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        },
+        {
+            "vetCode": "AHC51422",
+            "cricosCode": "110774E",
+            "department": "HORTICULTURE",
+            "name": "DIPLOMA OF AGRIBUSINESS MANAGEMENT",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 tuition fee + 200 handling fee + 2x25 instalment fee",
+            "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "TAS/QLD",
+            "promotionValidity": "Promotion valid until 30th June 2026"
+        }
     ]
 }
