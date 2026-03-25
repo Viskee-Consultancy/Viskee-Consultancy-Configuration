@@ -1,1 +1,19 @@
-{}
+{
+    "courses": [
+        {
+            "vetCode": "UEE30920",
+            "cricosCode": "113943B",
+            "department": "Electronics",
+            "name": "Certificate III in Electronics and Communications",
+            "duration": "52",
+            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "tuition": "6,200",
+            "tuitionDetail": "6,000 tuition fee + 200 handling fee",
+            "tuitionHalf": "7,000",
+            "tuitionHalfDetail": "6,750 Tuition fee + 200 Handling fee + 2 x 25 Instalment fee",
+            "location": "NSW",
+            "promotionValidity": "Promotion valid until 30th June 2026",
+            "note": "This qualification will only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        }
+    ]
+}
