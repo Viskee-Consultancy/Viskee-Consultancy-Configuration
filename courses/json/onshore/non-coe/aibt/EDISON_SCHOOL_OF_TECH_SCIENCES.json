@@ -49,8 +49,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR40216",
-            "cricosCode": "095065G",
+            "vetCode": "AUR40226",
+            "cricosCode": "120297B",
             "department": "Automotive",
             "name": "Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "39",
@@ -61,8 +61,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR40620",
-            "cricosCode": "103589J",
+            "vetCode": "AUR40626",
+            "cricosCode": "120616C",
             "department": "Automotive",
             "name": "Certificate IV in Automotive Electrical Technology",
             "duration": "39",
@@ -73,8 +73,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR50116",
-            "cricosCode": "095067F",
+            "vetCode": "AUR50126",
+            "cricosCode": "120380G",
             "department": "Automotive",
             "name": "Diploma of Automotive Management",
             "duration": "52",
@@ -85,8 +85,8 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR30620 / AUR40216 / AUR50116",
-            "cricosCode": "103638E/095065G/095067F",
+            "vetCode": "AUR30620 / AUR40226 / AUR50126",
+            "cricosCode": "103638E/120297B/120380G",
             "department": "Packages",
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
