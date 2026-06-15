@@ -216,6 +216,18 @@
           "note": "Students will be required to do additional training in order to complete a fast track intensive course. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "NSW/TAS"
       },
+         {
+          "vetCode": "CPC33020",
+          "cricosCode": "117665J",
+          "department": "CARPENTRY / BUILDING",
+          "name": "Certificate III in Bricklaying and Blocklaying (Fast track)",
+          "duration": "52",
+          "durationDetail": "48 wks tuition + 4 wks break",
+          "tuition": "15,200",
+          "tuitionDetail": "15,000 tuition fee + 200 handling fee",
+          "note": "Students will be required to do additional training in order to complete a fast track intensive course. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW"
+      },
         {
           "vetCode": "CPC30220/CPC50220",
           "cricosCode": "117666H/117668F",
