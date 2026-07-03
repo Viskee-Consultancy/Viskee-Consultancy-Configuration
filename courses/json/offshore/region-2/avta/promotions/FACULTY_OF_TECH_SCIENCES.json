@@ -113,7 +113,7 @@
           "durationDetail": "49 wks tuition + 3 wks break",
           "tuition": "12,200",
           "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-          "location": "NSW ",
+          "location": "NSW/TAS/VIC ",
           "note": "Students will be required to do additional training in order to complete a fast track intensive course; Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until 31st December 2026"
       },
@@ -127,7 +127,20 @@
           "tuition": "24,200",
           "tuitionDetail": "24,000 tuition fee + 200 handling fee",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "NSW/TAS",
+          "location": "NSW/TAS/VIC",
+          "promotionValidity": "Promotion valid until 31st December 2026"
+      },
+         {
+          "vetCode": "CPC33020/CPC50220",
+          "cricosCode": "117665J/117668F",
+          "department": "PACKAGES",
+          "name": "Certificate III in Bricklaying and Blocklaying + DIPLOMA OF  BUILDING AND CONSTRUCTION (BUILDING)",
+          "duration": "104",
+          "durationDetail": "88 wks tuition + 16 wks break",
+          "tuition": "24,200",
+          "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+          "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+          "location": "NSW/VIC",
           "promotionValidity": "Promotion valid until 31st December 2026"
       }
     ]
