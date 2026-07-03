@@ -218,7 +218,7 @@
           "tuitionDetail": "13,000 tuition fee + 200 handling fee",
           "promotionValidity": "Promotion valid until 31st December 2026",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "NSW/TAS "
+          "location": "NSW/TAS/VIC "
       },
         {
           "vetCode": "CPC50220",
@@ -231,7 +231,7 @@
           "tuitionDetail": "13,000 tuition fee + 200 handling fee",
          "promotionValidity": "Promotion valid until 31st December 2026",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "NSW/TAS"
+          "location": "NSW/TAS/VIC"
       },
         {
           "vetCode": "CPC30220/CPC50220",
@@ -244,7 +244,7 @@
           "tuitionDetail": "26,000 tuition fee + 200 handling fee",
           "promotionValidity": "Promotion valid until 31st December 2026",
           "note": "Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "NSW/TAS"
+          "location": "NSW/TAS/VIC"
       }
     ]
 }
