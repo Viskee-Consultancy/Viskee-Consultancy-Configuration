@@ -1,8 +1,8 @@
 {
     "courses": [
         {
-            "vetCode": "AUR50116",
-            "cricosCode": "105384F",
+            "vetCode": "AUR50126",
+            "cricosCode": "121194A",
             "department": "Automotive",
             "name": "Diploma of Automotive Management",
             "duration": "52",
@@ -51,8 +51,8 @@
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR40216",
-            "cricosCode": "105383G",
+            "vetCode": "AUR40226",
+            "cricosCode": "121193B",
             "department": "Automotive",
             "name": "Certificate IV in Automotive Mechanical Diagnosis",
             "duration": "39",
@@ -63,8 +63,8 @@
             "note": "Reach Community College qualiﬁcations only fulﬁl the academic requirement, not a licensed trade qualiﬁcation, traineeship or apprenticeship."
         },
         {
-            "vetCode": "AUR30620/ AUR40216/AUR50116",
-            "cricosCode": "105382H/105383G/105384F",
+            "vetCode": "AUR30620/ AUR40226/AUR50126",
+            "cricosCode": "105382H/121193B/121194A",
             "department": "Packages",
             "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
             "duration": "104",
