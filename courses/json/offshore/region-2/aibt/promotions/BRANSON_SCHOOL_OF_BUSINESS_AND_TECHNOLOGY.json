@@ -39,19 +39,6 @@
             "promotionValidity": "Promotion valid until 31st December 2026",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au; Monthly Intake Available."
         },
-        {
-            "vetCode": "BSB80120",
-            "cricosCode": "107120C",
-            "department": "Graduate Studies",
-            "name": "Graduate Diploma of Management (Learning)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31st December 2026",
-            "note": "Monthly Intake Available"
-        },
          {
             "vetCode": "BSB80320",
             "cricosCode": "104489E",
@@ -77,19 +64,6 @@
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31st December 2026",
             "note": "Monthly Intake Available"
-        },
-        {
-            "vetCode": "BSB60420/ BSB80120",
-            "cricosCode": "107118H/107120C",
-            "department": "Packages",
-            "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Management (Learning)",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31st December 2026",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au; Monthly Intake Available."
         },
         {
             "vetCode": "BSB60420/ BSB80320",
