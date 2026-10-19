@@ -40,32 +40,6 @@
             "promotionValidity": "Promotion valid until 31st December 2026"
         },
         {
-            "vetCode": "AHC30722 / AHC51422",
-            "cricosCode": "115335K / 110774E",
-            "department": "PACKAGES",
-            "name": "CERTIFICATE III IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "19,200",
-            "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "TAS/QLD",
-            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st December 2026"
-        },
-        {
-            "vetCode": "AHC30722 / AHC40422 / AHC51422",
-            "cricosCode": "115335K / 115336J / 110774E",
-            "department": "PACKAGES",
-            "name": "CERTIFICATE III IN HORTICULTURE + CERTIFICATE IV IN HORTICULTURE + DIPLOMA OF AGRIBUSINESS MANAGEMENT",
-            "duration": "130",
-            "durationDetail": "110 wks Tuition + 20 wks Break",
-            "tuition": "23,200",
-            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
-            "location": "TAS/QLD",
-            "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st December 2026"
-        },
-        {
           "vetCode": "AUR30620",
           "cricosCode": "114644E",
           "department": "AUTOMOTIVE",
@@ -91,19 +65,6 @@
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until 31st December 2026"
       },
-         {
-            "vetCode": "AUR30620/AUR40216/AUR50116 ",
-            "cricosCode": "114644E/114645D/114646C",
-            "department": "PACKAGES",
-            "name": "CERTIFICATE III IN LIGHT VEHICLE MECHANICAL TECHNOLOGY + CERTIFICATE IV IN AUTOMOTIVE MECHANICAL DIAGNOSIS + DIPLOMA OF AUTOMOTIVE MANAGEMENT",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "location": "TAS/NSW/QLD",
-             "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-            "promotionValidity": "Promotion valid until 31st December 2026"
-        },
         {
           "vetCode": "ICT60220",
           "cricosCode": "111825B",
@@ -140,19 +101,6 @@
           "tuition": "20,200",
           "tuitionDetail": "20,000 tuition fee + 200 handling fee",
           "location": "TAS/NSW ",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 31st December 2026"
-      },
-      {
-          "vetCode": "RII50520/RII60520",
-          "cricosCode": "111827M/111826A",
-          "department": "PACKAGES",
-          "name": "DIPLOMA OF CIVIL CONSTRUCTION DESIGN + ADVANCED DIPLOMA OF CIVIL CONSTRUCTION DESIGN",
-          "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "20,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW",
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until 31st December 2026"
       },
@@ -193,32 +141,6 @@
           "tuitionDetail": "10,000 tuition fee + 200 handling fee",
           "note": "Students will be required to do additional training in order to complete a fast track intensive course. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "NSW/VIC",
-          "promotionValidity": "Promotion valid until 31st December 2026"
-      },
-      {
-          "vetCode": "CPC30220/CPC50220",
-          "cricosCode": "117666H/117668F",
-          "department": "PACKAGES",
-          "name": "CERTIFICATE III IN CARPENTRY + DIPLOMA OF BUILDING AND CONSTRUCTION (BUILDING)",
-          "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "20,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW/VIC",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "promotionValidity": "Promotion valid until 31st December 2026"
-      },
-        {
-          "vetCode": "CPC33020/CPC50220",
-          "cricosCode": "117665J/117668F",
-          "department": "PACKAGES",
-          "name": "Certificate III in Bricklaying and Blocklaying + DIPLOMA OF BUILDING AND CONSTRUCTION (BUILDING)",
-          "duration": "104",
-          "durationDetail": "88 wks tuition + 16 wks break",
-          "tuition": "20,200",
-          "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW/VIC",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "promotionValidity": "Promotion valid until 31st December 2026"
       }
     ]
