@@ -1,16 +1,29 @@
 {
   "courses": [
     {
-      "vetCode": "BSB80220",
-      "cricosCode": "104499C",
+      "vetCode": "BSB50420",
+      "cricosCode": "121708B",
       "department": "Management",
-      "name": "Graduate Diploma of Portfolio Management",
+      "name": "Diploma of Leadership and Management",
       "duration": "52",
       "durationDetail": "44 wks Tuition + 8 wks Break",
-      "tuition": "7,200",
-      "tuitionDetail": "7,000 tuition fee + 200 handling fee",
+      "tuition": "6,800",
+      "tuitionDetail": "6,600 tuition fee + 200 handling fee",
       "location": "NSW/QLD",
-      "promotionValidity": "Promotion valid until 30th September 2026",
+      "promotionValidity": "Promotion valid until 31st December 2026",
+      "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+    },
+    {
+      "vetCode": "BSB60420",
+      "cricosCode": "121707C",
+      "department": "Management",
+      "name": "Advanced Diploma of Leadership and Management",
+      "duration": "52",
+      "durationDetail": "44 wks Tuition + 8 wks Break",
+      "tuition": "6,800",
+      "tuitionDetail": "6,600 tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "promotionValidity": "Promotion valid until 31st December 2026",
       "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au;Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
     }
   ]
