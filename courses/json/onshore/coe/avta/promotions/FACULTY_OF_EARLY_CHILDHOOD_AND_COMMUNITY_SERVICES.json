@@ -58,36 +58,6 @@
           "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
           "location": "TAS/NSW"
       },
-      {
-          "vetCode": "CHC33021/CHC43121/CHC52025",
-          "cricosCode": "113022K/113024H/118830D",
-          "department": "PACKAGES",
-          "name": "CERTIFICATE III IN INDIVIDUAL SUPPORT (DISABILITY) + CERTIFICATE IV IN DISABILITY SUPPORT + DIPLOMA OF COMMUNITY SERVICES",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "19,700",
-          "tuitionDetail": "19,500 tuition fee + 200 handling fee",
-          "placementDuration": "260",
-          "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 31st December 2026",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "TAS/NSW"
-      },
-      {
-          "vetCode": "CHC52025/CHC62015",
-          "cricosCode": "118830D/113027E",
-          "department": "PACKAGES",
-          "name": "DIPLOMA OF COMMUNITY SERVICES + ADVANCED DIPLOMA OF COMMUNITY SECTOR MANAGEMENT",
-          "duration": "104",
-          "durationDetail": "88 wks Tuition + 16 wks Break",
-          "tuition": "19,700",
-          "tuitionDetail": "19,500 tuition fee + 200 handling fee",
-          "placementDuration": "100",
-          "placementFee": "500",
-          "promotionValidity": "Promotion valid until 31st December 2026",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "TAS/NSW"
-      },
      {
           "vetCode": "CHC30125",
           "cricosCode": "119674C",
@@ -117,21 +87,6 @@
           "location": "TAS/NSW",
           "promotionValidity": "Promotion valid until 31st December 2026",
           "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au. Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-      },
-      {
-          "vetCode": "CHC30125/CHC50125",
-          "cricosCode": "119674C/118661E",
-          "department": "PACKAGES",
-          "name": "CERTIFICATE III IN EARLY CHILDHOOD EDUCATION AND CARE + DIPLOMA OF EARLY CHILDHOOD EDUCATION AND CARE",
-          "duration": "104",
-          "durationDetail": "92 wks tuition + 12 wks break",
-          "tuition": "19,700",
-          "tuitionDetail": "19,500 tuition fee + 200 handling fee",
-          "placementDuration": "440",
-          "placementFee": "1000",
-          "promotionValidity": "Promotion valid until 31st December 2026",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
-          "location": "TAS/NSW"
       }
   ]
 }
