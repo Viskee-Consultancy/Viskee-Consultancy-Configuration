@@ -110,6 +110,18 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "NSW/QLD/TAS"
         },
+         {
+            "vetCode": "BSB80220",
+            "cricosCode": "104497E",
+            "department": "Graduate Studies",
+            "name": "Graduate Diploma of Portfolio Management",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "QLD/TAS"
+        },
         {
             "vetCode": "BSB50820/ BSB60720",
             "cricosCode": "104063J/104452G",
@@ -131,6 +143,42 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "25,200",
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB50820/ BSB80320",
+            "cricosCode": "104063J/104489E",
+            "department": "Packages",
+            "name": "Diploma of Project Management + Graduate Diploma of Strategic Leadership",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "NSW/QLD/TAS"
+        },
+        {
+            "vetCode": "BSB50420/BSB80320",
+            "cricosCode": "104262B/104489E",
+            "department": "Packages",
+            "name": "Diploma of Leadership and Management + Graduate Diploma of Strategic Leadership",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "26,200",
+            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
+            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+            "location": "NSW/QLD/TAS"
+        },
+         {
+            "vetCode": "BSB60420/BSB80320",
+            "cricosCode": "107118H/104489E",
+            "department": "Packages",
+            "name": "Advanced Diploma of Leadership and Management + Graduate Diploma of Strategic Leadership",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "27,200",
+            "tuitionDetail": "27,000 tuition fee + 200 handling fee",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
             "location": "NSW/QLD/TAS"
         }
