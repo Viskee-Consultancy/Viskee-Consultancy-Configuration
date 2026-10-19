@@ -27,19 +27,6 @@
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
-            "vetCode": "UEE32225/ UEE62525",
-            "cricosCode": "117747G/117753J",
-            "department": "Packages",
-            "name": "Certificate III in Air-conditioning and Refrigeration + Advanced Diploma of Air Conditioning and Refrigeration Engineering",
-            "duration": "156",
-            "durationDetail": "132 wks Tuition + 24 wks Break",
-            "tuition": "35700",
-            "tuitionDetail": "35500 tuition fee + 200 handling fee",
-            "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31st December 2026",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-        },
-         {
             "vetCode": "TLI50224",
             "cricosCode": "117303B",
             "department": "Logistics",
@@ -64,19 +51,6 @@
             "location": "NSW/QLD/TAS",
             "promotionValidity": "Promotion valid until 31st December 2026",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-        },
-         {
-            "vetCode": "TLI50224/ TLI60222",
-            "cricosCode": "117303B/111987F",
-            "department": "Packages",
-            "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "17200",
-            "tuitionDetail": "17000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS",
-            "promotionValidity": "Promotion valid until 31st December 2026",
-             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "AUR30620",
@@ -103,21 +77,6 @@
             "location": "NSW/QLD",
             "promotionValidity": "Promotion valid until 31st December 2026",
              "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-        },
-        {
-            "vetCode": "AUR30620 / AUR40226 / AUR50126",
-            "cricosCode": "103638E/120297B/120380G ",
-            "department": "Packages",
-            "name": "Certificate III in Light Vehicle Mechanical Technology + Certificate IV in Automotive Mechanical Diagnosis + Diploma of Automotive Management",
-            "duration": "104",
-            "durationDetail": "92 wks Tuition + 12 wks Break",
-            "tuition": "20,200",
-            "tuitionDetail": "20,000 tuition fee + 200 handling fee",
-            "tuitionHalf": " ",
-            "tuitionHalfDetail": " ",
-            "location": "NSW/QLD",
-            "promotionValidity": "Promotion valid until 31st December 2026",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
             "vetCode": "CPC30620",
