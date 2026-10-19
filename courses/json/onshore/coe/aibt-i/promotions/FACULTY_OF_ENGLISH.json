@@ -1,3 +1,69 @@
 {
-  "courses": []
+  "courses": [
+    {
+      "vetCode": "N/A",
+      "cricosCode": "121495K",
+      "department": "GENERAL ENGLISH",
+      "name": "General English - Elementary Level",
+      "duration": "1 ELICOS Block = 12 weeks (10 wks Tuition + 2 wks Break)",
+      "durationDetail": "10 wks Tuition + 2 wks Break",
+      "tuition": "$2,200 per block",
+      "tuitionDetail": "tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2026"
+    },
+    {
+      "vetCode": "N/A",
+      "cricosCode": "121496J",
+      "department": "GENERAL ENGLISH",
+      "name": "General English - Pre-Intermediate Level",
+      "duration": "1 ELICOS Block = 12 weeks (10 wks Tuition + 2 wks Break)",
+      "durationDetail": "10 wks Tuition + 2 wks Break",
+      "tuition": "$2,200 per block",
+      "tuitionDetail": "tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2026"
+    },
+    {
+      "vetCode": "N/A",
+      "cricosCode": "121497H",
+      "department": "GENERAL ENGLISH",
+      "name": "General English - Intermediate Level",
+     "duration": "1 ELICOS Block = 12 weeks (10 wks Tuition + 2 wks Break)",
+      "durationDetail": "10 wks Tuition + 2 wks Break",
+      "tuition": "$2,200 per block",
+      "tuitionDetail": "tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2026"
+    },
+     {
+      "vetCode": "N/A",
+      "cricosCode": "121498G",
+      "department": "GENERAL ENGLISH",
+      "name": "General English - Upper Intermediate Level",
+    "duration": "1 ELICOS Block = 12 weeks (10 wks Tuition + 2 wks Break)",
+      "durationDetail": "10 wks Tuition + 2 wks Break",
+      "tuition": "$2,200 per block",
+      "tuitionDetail": "tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2026"
+    },
+     {
+      "vetCode": "N/A",
+      "cricosCode": "121499F",
+      "department": "GENERAL ENGLISH",
+      "name": "General English - Advanced Level",
+      "duration": "1 ELICOS Block = 12 weeks (10 wks Tuition + 2 wks Break)",
+      "durationDetail": "10 wks Tuition + 2 wks Break",
+      "tuition": "$2,200 per block",
+      "tuitionDetail": "tuition fee + 200 handling fee",
+      "location": "NSW/QLD",
+      "note": " Australia Institute of Business and Technology - International qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.",
+      "promotionValidity": "Promotion valid until 31st December 2026"
+    }
+  ]
 }
