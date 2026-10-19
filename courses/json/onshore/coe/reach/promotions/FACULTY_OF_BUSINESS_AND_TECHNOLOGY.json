@@ -38,19 +38,6 @@
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
         },
         {
-            "vetCode": "BSB80120",
-            "cricosCode": "105392F",
-            "department": "GRADUATE STUDIES",
-            "name": "Graduate Diploma of Management (Learning)",
-            "duration": "52",
-            "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "9,200",
-            "tuitionDetail": "9,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31st December 2026  ",
-            "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
-        },      
-        {
             "vetCode": "BSB80320",
             "cricosCode": "106650G",
             "department": "GRADUATE STUDIES",
@@ -75,30 +62,6 @@
             "location": "NSW/TAS/VIC",
             "promotionValidity": "Promotion valid until 31st December 2026  ",
             "note": "This qualification requires an Entry Requirement. Please visit the individual course at training.gov.au"
-        },
-        {
-            "vetCode": "BSB50420/BSB60420",
-            "cricosCode": "108801C/105426A",
-            "department": "Packages",
-            "name": "Diploma of Leadership and Management  + Advanced Diploma of Leadership and Management",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31st December 2026  "
-        },
-        {
-            "vetCode": "BSB50820/BSB60720",
-            "cricosCode": "105425B/106649M",
-            "department": "Packages",
-            "name": "Diploma of Project Management + Advanced Diploma of Program  Management ",
-            "duration": "104",
-            "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "13,200",
-            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
-            "location": "NSW/TAS/VIC",
-            "promotionValidity": "Promotion valid until 31st December 2026  "
         }
     ]
 }
