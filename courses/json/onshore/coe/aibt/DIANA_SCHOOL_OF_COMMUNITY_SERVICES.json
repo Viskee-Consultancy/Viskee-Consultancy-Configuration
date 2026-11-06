@@ -12,7 +12,6 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -27,7 +26,6 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -42,7 +40,6 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -57,14 +54,13 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "120",
             "placementFee": "500",
-            "placementDetail": "Placement will only commence after the 35th week",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "CHC52025",
             "cricosCode": "118733E",
             "department": "Community Services",
-            "name": "Diploma of Community Services",
+            "name": "Diploma of Community Services(Fast track intensive course)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "14,200",
@@ -72,6 +68,61 @@
             "location": "NSW/QLD/TAS",
             "placementDuration": "100",
             "placementFee": "500",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Students will be required to do additional training in order to complete a fast track intensive course. Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+         {
+            "vetCode": "CHC52025",
+            "cricosCode": "118733E",
+            "department": "Community Services",
+            "name": "Diploma of Community Services",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "100",
+            "placementFee": "500",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "HLT42021",
+            "cricosCode": "120853A",
+            "department": "MASSAGE",
+            "name": "Certificate IV in Massage Therapy",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "12,200",
+            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments in NSW & QLD)",
+            "placementDuration": "80",
+            "placementFee": "N/A",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+            {
+            "vetCode": "HLT52021",
+            "cricosCode": "120854M",
+            "department": "MASSAGE",
+            "name": "Diploma of Remedial Massage (Fast track intensive course)",
+            "duration": "52",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (Currently Not Accepting Enrolments in NSW & QLD)",
+            "placementDuration": "200",
+            "placementFee": "N/A",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+         {
+            "vetCode": "HLT42021 / HLT52021",
+            "cricosCode": "120853A/120854M",
+            "department": "Packages",
+            "name": "Certificate IV in Massage Therapy + Diploma of Remedial Massage",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "N/A",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "280",
+            "placementFee": "N/A",
             "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -80,7 +131,7 @@
             "department": "Early Childhood",
             "name": "Certificate III in Early Childhood Education and Care",
             "duration": "52",
-            "durationDetail": "43 wks Tuition + 9 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "12,200",
             "tuitionDetail": "12,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
@@ -92,11 +143,25 @@
             "vetCode": "CHC50125",
             "cricosCode": "118607M",
             "department": "Early Childhood",
-            "name": "Diploma of Early Childhood Education and Care",
+            "name": "Diploma of Early Childhood Education and Care (Fast track intensive course)",
             "duration": "52",
-            "durationDetail": "49 wks Tuition + 3 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "14,200",
             "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
+            "placementDuration": "280",
+            "placementFee": "500",
+            "note": "Students must be 18 years old and above at the commencement of any qualification in Diana School of Community Services.Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+        },
+        {
+            "vetCode": "CHC50125",
+            "cricosCode": "118607M",
+            "department": "Early Childhood",
+            "name": "Diploma of Early Childhood Education and Care",
+            "duration": "104",
+            "durationDetail": "88 wks Tuition + 16 wks Break",
+            "tuition": "22,200",
+            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "placementDuration": "280",
             "placementFee": "500",
