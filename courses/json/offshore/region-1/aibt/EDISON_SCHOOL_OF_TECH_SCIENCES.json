@@ -7,9 +7,9 @@
             "name": "Certificate III in Air Conditioning and Refrigeration",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "26,200",
-            "tuitionDetail": "26,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(currently not accepting enrolments in TAS)",
+            "tuition": "27,200",
+            "tuitionDetail": "27,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS (currently not accepting enrolments in TAS)",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
          {
@@ -21,7 +21,7 @@
             "durationDetail": "66 wks Tuition + 12 wks Break",
             "tuition": "22,200",
             "tuitionDetail": "22,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD (currently not accepting enrolments)",
+            "location": "NSW/QLD (Currently Not Accepting Enrolments) ",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -42,10 +42,10 @@
             "department": "Automotive",
             "name": "Certificate III in Light Vehicle Mechanical Technology",
             "duration": "52",
-            "durationDetail": "48 wks Tuition + 4 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "19,200",
             "tuitionDetail": "19,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS(currently not accepting enrolments in TAS)",
+            "location": "NSW/QLD/TAS (currently not accepting enrolments in TAS)",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
@@ -66,7 +66,7 @@
             "department": "Automotive",
             "name": "Certificate IV in Automotive Electrical Technology",
             "duration": "39",
-            "durationDetail": "33 wks Tuition + 6 wks Break",
+            "durationDetail": "35 wks Tuition + 4 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
@@ -78,7 +78,7 @@
             "department": "Automotive",
             "name": "Diploma of Automotive Management",
             "duration": "52",
-            "durationDetail": "46 wks Tuition + 6 wks Break",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
             "tuition": "15,200",
             "tuitionDetail": "15,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD",
@@ -96,7 +96,7 @@
             "location": "NSW/QLD",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
-          {
+         {
             "vetCode": "CPC30620",
             "cricosCode": "103825B",
             "department": "PAINTING AND DECORATING",
@@ -105,7 +105,7 @@
             "durationDetail": "88 wks Tuition + 16 wks Break",
             "tuition": "25,200",
             "tuitionDetail": "25,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (TAS accepting enrolments April 2026)",
+            "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.Students will be required to do additional training in order to complete a fast track intensive course."
         },
         {
@@ -114,10 +114,10 @@
             "department": "PAINTING AND DECORATING",
             "name": "Certificate III in Painting and Decorating (Fast track intensive course)",
             "duration": "52",
-            "durationDetail": "46 wks Tuition + 6 wks Break",
-            "tuition": "15,200",
-            "tuitionDetail": "15,000 tuition fee + 200 handling fee",
-            "location": "NSW/QLD/TAS (TAS accepting enrolments April 2026)",
+            "durationDetail": "44 wks Tuition + 8 wks Break",
+            "tuition": "17,200",
+            "tuitionDetail": "17,000 tuition fee + 200 handling fee",
+            "location": "NSW/QLD/TAS",
             "note": "Students will be required to do additional training in order to complete a fast track intensive course; Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship.Students will be required to do additional training in order to complete a fast track intensive course."
         },
          {
@@ -127,10 +127,10 @@
             "name": "Certificate IV in Information Technology",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "12,200",
-            "tuitionDetail": "12,000 tuition fee + 200 handling fee",
+            "tuition": "13,200",
+            "tuitionDetail": "13,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
-            "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
+             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
         {
             "vetCode": "ICT50220",
@@ -139,8 +139,8 @@
             "name": "Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "52",
             "durationDetail": "44 wks Tuition + 8 wks Break",
-            "tuition": "14,200",
-            "tuitionDetail": "14,000 tuition fee + 200 handling fee",
+            "tuition": "16,200",
+            "tuitionDetail": "16,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -151,8 +151,8 @@
             "name": "Advanced Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "25,200",
-            "tuitionDetail": "25,000 tuition fee + 200 handling fee",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -163,8 +163,8 @@
             "name": "Certificate IV in Information Technology + Diploma of Information Technology (Telecommunications Network Engineering)",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "24,200",
-            "tuitionDetail": "24,000 tuition fee + 200 handling fee",
+            "tuition": "28,200",
+            "tuitionDetail": "28,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -177,7 +177,6 @@
             "durationDetail": "132 wks Tuition + 24 wks Break",
             "tuition": "35,200",
             "tuitionDetail": "35,000 tuition fee + 200 handling fee",
-            "note": "Students are required to attend class up to 4 days per week",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         },
@@ -212,8 +211,8 @@
             "name": "Diploma of Logistics + Advanced Diploma of Supply Chain Management",
             "duration": "104",
             "durationDetail": "88 wks Tuition + 16 wks Break",
-            "tuition": "22,200",
-            "tuitionDetail": "22,000 tuition fee + 200 handling fee",
+            "tuition": "23,200",
+            "tuitionDetail": "23,000 tuition fee + 200 handling fee",
             "location": "NSW/QLD/TAS",
             "note": "Australia Institute of Business and Technology qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
         }       
