@@ -1,17 +1,5 @@
 {
   "courses": [
-      {
-          "vetCode": "BSB80120",
-          "cricosCode": "113031J",
-          "department": "GRADUATE STUDIES",
-          "name": "GRADUATE DIPLOMA OF MANAGEMENT (LEARNING)",
-          "duration": "52",
-          "durationDetail": "44 wks Tuition + 8 wks Break",
-          "tuition": "16,200",
-          "tuitionDetail": "16,000 tuition fee + 200 handling fee",
-          "location": "TAS/NSW ",
-          "note": " Australian Vocational Training Academy qualifications only fulfil the academic requirement, not a licensed trade qualification, traineeship or apprenticeship."
-      },
      {
           "vetCode": "BSB80320",
           "cricosCode": "113030K",
